@@ -1,4 +1,4 @@
-# OVOS Merged Dataset
+# OVOS Intent Dataset
 
 - Total unique utterances: **70414**
 - Total unique intents: **161**

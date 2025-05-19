@@ -116,56 +116,51 @@ def normalize_intent(text):
 
 
 def load_and_format_csv(url):
-    try:
-        df = pd.read_csv(url)
+    df = pd.read_csv(url)
 
-        if "github" in url:
-            df["lang"] = url.split("_")[-1].split(".csv")[0]
+    if "github" in url:
+        df["lang"] = url.split("_")[-1].split(".csv")[0]
 
-        if "lang" not in df.columns:
-            df["lang"] = "en"
+    if "lang" not in df.columns:
+        df["lang"] = "en"
 
-        if "music_templates" in url:
-            df["domain"] = "ocp"
-            df["intent"] = "play"
-            df["lang"] = "en"
-            df = df.rename(columns={"template": "sentence"})
-        elif "weather" in url:
-            df["lang"] = "en"
-            df["domain"] = "ovos-skill-weather.openvoiceos"
-            df["intent"] = df["intent"] + ".intent"  # dataset should end with .intent
-            df = df.rename(columns={"example": "sentence"})
-        elif "core_intents" in url:
-            df["lang"] = "en"
-            df["domain"] = "stop"
-            df["intent"] = "stop"
-            df = df[df["label"] == "stop"]
+    if "music_templates" in url:
+        df["domain"] = "ocp"
+        df["intent"] = "play"
+        df["lang"] = "en"
+        df = df.rename(columns={"template": "sentence"})
+    elif "weather" in url:
+        df["lang"] = "en"
+        df["domain"] = "ovos-skill-weather.openvoiceos"
+        df["intent"] = df["intent"] + ".intent"  # dataset should end with .intent
+        df = df.rename(columns={"example": "sentence"})
+    elif "core_intents" in url:
+        df["lang"] = "en"
+        df["domain"] = "stop"
+        df["intent"] = "stop"
+        df = df[df["label"] == "stop"]
 
-        if "utterance" in df.columns:
-            df = df.rename(columns={"utterance": "sentence"})
+    if "utterance" in df.columns:
+        df = df.rename(columns={"utterance": "sentence"})
 
-        df = df[["lang", "domain", "intent", "sentence"]]
+    df = df[["lang", "domain", "intent", "sentence"]]
 
-        # Normalize all columns
-        df["domain"] = df["domain"].apply(normalize_domain)
-        df["intent"] = df["intent"].apply(normalize_intent)
-        df["sentence"] = df["sentence"].apply(normalize)
+    # Normalize all columns
+    df["domain"] = df["domain"].apply(normalize_domain)
+    df["intent"] = df["intent"].apply(normalize_intent)
+    df["sentence"] = df["sentence"].apply(normalize)
 
-        df["label"] = df["domain"] + ":" + df["intent"]
-        df["label"] = df["label"].apply(normalize_label)
+    df["label"] = df["domain"] + ":" + df["intent"]
+    df["label"] = df["label"].apply(normalize_label)
 
-        # print(url, df)
-        df = df[~df["label"].isin(BLACKLIST_LABELS)]
-        # Drop blacklisted domains
-        df = df[~df["domain"].isin(BLACKLIST_SKILLS)]
-        df = df[~df["intent"].isin(BLACKLIST_INTENTS)]
+    # print(url, df)
+    df = df[~df["label"].isin(BLACKLIST_LABELS)]
+    # Drop blacklisted domains
+    df = df[~df["domain"].isin(BLACKLIST_SKILLS)]
+    df = df[~df["intent"].isin(BLACKLIST_INTENTS)]
 
-        #df["lang"] = lang
-        return df[["lang", "label", "sentence"]]
-    except Exception as e:
-        print(f"Failed to load {url}: {e}")
-        return pd.DataFrame(columns=["lang", "label", "sentence"])
-
+    #df["lang"] = lang
+    return df[["lang", "label", "sentence"]]
 
 # Load and merge all datasets
 frames = [load_and_format_csv(url) for url in csv_sources]

@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **78355**
+- Total unique utterances: **79523**
 - Total unique intents: **161**
 - Total unique skills (domains): **34**
 - Adapt-style intents: **32**
@@ -14,13 +14,13 @@
 | ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent | 10937 |
 | ovos-skill-alerts.openvoiceos:missed_alerts.intent | 6795 |
 | ovos-skill-weather.openvoiceos:hourly_forecast.intent | 4801 |
-| ovos-skill-date-time.openvoiceos:date.last.weekend.intent | 3281 |
-| ovos-skill-date-time.openvoiceos:what.time.will.it.be.intent | 2437 |
+| ovos-skill-date-time.openvoiceos:date.last.weekend.intent | 3369 |
+| ovos-skill-date-time.openvoiceos:what.time.will.it.be.intent | 2738 |
 | ovos-skill-iss-location.openvoiceos:when_iss.intent | 1949 |
 | ovos-skill-weather.openvoiceos:hourly_temperature.intent | 1771 |
+| ovos-skill-date-time.openvoiceos:what.time.is.it.intent | 1735 |
+| ovos-skill-date-time.openvoiceos:date.future.weekend.intent | 1610 |
 | ovos-skill-weather.openvoiceos:daily_forecast.intent | 1550 |
-| ovos-skill-date-time.openvoiceos:what.time.is.it.intent | 1525 |
-| ovos-skill-date-time.openvoiceos:date.future.weekend.intent | 1508 |
 | ovos-skill-days-in-history.openvoiceos:today_in_history.intent | 1446 |
 | ovos-skill-news.openvoiceos:news.intent | 1263 |
 | ovos-skill-moviemaster.openvoiceos:movie.top.intent | 1202 |
@@ -38,17 +38,18 @@
 | ovos-skill-iss-location.openvoiceos:where_iss.intent | 526 |
 | ovos-skill-wikipedia.openvoiceos:wiki.intent | 480 |
 | ovos-skill-ip.openvoiceos:what.ssid.intent | 470 |
+| ovos-skill-date-time.openvoiceos:what.month.is.it.intent | 452 |
+| ovos-skill-date-time.openvoiceos:weekday.for.date.intent | 447 |
 | ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent | 440 |
 | common_query:common_query | 420 |
 | ovos-skill-dictation.openvoiceos:stop_dictation.intent | 418 |
 | ovos-skill-moviemaster.openvoiceos:movie.genres.intent | 383 |
 | ovos-skill-news.openvoiceos:global_news.intent | 376 |
 | ovos-skill-weather.openvoiceos:N_days_forecast.intent | 367 |
-| ovos-skill-date-time.openvoiceos:what.month.is.it.intent | 336 |
 | ovos-skill-wolfie.openvoiceos:search_wolfie.intent | 336 |
 | ovos-skill-weather.openvoiceos:weekend_forecast.intent | 335 |
 | ovos-skill-boot-finished.openvoiceos:are_you_ready.intent | 333 |
-| ovos-skill-date-time.openvoiceos:weekday.for.date.intent | 325 |
+| ovos-skill-date-time.openvoiceos:current_date.intent | 329 |
 | ovos-skill-wordnet.openvoiceos:hyponym.intent | 324 |
 | ovos-skill-wikihow.openvoiceos:wikihow.intent | 295 |
 | ovos-skill-parrot.openvoiceos:repeat.tts.intent | 271 |
@@ -57,7 +58,6 @@
 | ovos-skill-moviemaster.openvoiceos:genre.tv.search.intent | 247 |
 | ovos-skill-weather.openvoiceos:current_weather.intent | 239 |
 | ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent | 231 |
-| ovos-skill-date-time.openvoiceos:current_date.intent | 230 |
 | ovos-skill-weather.openvoiceos:is_wind.intent | 228 |
 | ovos-skill-hello-world.openvoiceos:Greetings.intent | 210 |
 | ovos-skill-weather.openvoiceos:is_clear.intent | 207 |
@@ -66,30 +66,31 @@
 | ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent | 204 |
 | ovos-skill-naptime.openvoiceos:naptime.intent | 202 |
 | ovos-skill-moviemaster.openvoiceos:movie.popular.intent | 195 |
+| ovos-skill-date-time.openvoiceos:what.weekday.is.it.intent | 191 |
 | ovos-skill-moviemaster.openvoiceos:movie.runtime.intent | 190 |
 | ovos-skill-ddg.openvoiceos:search_duck.intent | 188 |
 | ovos-skill-parrot.openvoiceos:stop_parrot.intent | 177 |
 | ovos-skill-diagnostics.openvoiceos:query_user_lang.intent | 168 |
 | ovos-skill-volume.openvoiceos:volume.default.intent | 167 |
-| ovos-skill-date-time.openvoiceos:what.weekday.is.it.intent | 161 |
 | ovos-skill-weather.openvoiceos:is_stormy.intent | 161 |
 | ovos-skill-wordnet.openvoiceos:hypernym.intent | 160 |
 | ovos-skill-weather.openvoiceos:is_fog.intent | 146 |
 | ovos-skill-moviemaster.openvoiceos:movie.year.intent | 146 |
+| ovos-skill-date-time.openvoiceos:what.day.is.it.intent | 146 |
+| ovos-skill-date-time.openvoiceos:time.until.intent | 143 |
 | ovos-skill-icanhazdadjokes.openvoiceos:search_joke.intent | 131 |
 | ovos-skill-weather.openvoiceos:is_snow.intent | 129 |
-| ovos-skill-date-time.openvoiceos:what.day.is.it.intent | 121 |
-| ovos-skill-diagnostics.openvoiceos:query_user_location.intent | 119 |
 | ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent | 119 |
+| ovos-skill-diagnostics.openvoiceos:query_user_location.intent | 119 |
 | ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent | 117 |
 | ovos-skill-laugh.openvoiceos:Laugh.intent | 117 |
 | ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent | 117 |
+| ovos-skill-date-time.openvoiceos:next.leap.year.intent | 115 |
 | ovos-skill-volume.openvoiceos:volume.max.intent | 113 |
 | ovos-skill-wordnet.openvoiceos:search_wordnet.intent | 110 |
 | ovos-skill-weather.openvoiceos:humidity.intent | 109 |
-| ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent | 105 |
 | ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent | 105 |
-| ovos-skill-date-time.openvoiceos:time.until.intent | 102 |
+| ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent | 105 |
 | ovos-skill-volume.openvoiceos:volume.unmute.intent | 100 |
 | ovos-skill-volume.openvoiceos:volume.high.intent | 100 |
 | ovos-skill-laugh.openvoiceos:RandomLaugh.intent | 99 |
@@ -98,12 +99,11 @@
 | ovos-skill-alerts.openvoiceos:ListAlerts | 91 |
 | ovos-skill-weather.openvoiceos:sunset.intent | 91 |
 | ovos-skill-volume.openvoiceos:volume.mute.intent | 88 |
-| ovos-skill-date-time.openvoiceos:next.leap.year.intent | 88 |
+| ovos-skill-date-time.openvoiceos:what.year.is.it.intent | 85 |
 | ovos-skill-parrot.openvoiceos:start_parrot.intent | 84 |
 | ovos-skill-wordnet.openvoiceos:antonym.intent | 82 |
 | ovos-skill-wordnet.openvoiceos:holonym.intent | 81 |
 | ovos-skill-personal.openvoiceos:WhatAreYou.intent | 79 |
-| ovos-skill-date-time.openvoiceos:what.year.is.it.intent | 78 |
 | ovos-skill-icanhazdadjokes.openvoiceos:joke.intent | 75 |
 | ovos-skill-alerts.openvoiceos:CreateAlarm | 69 |
 | ovos-skill-moviemaster.openvoiceos:movie.genre.search.intent | 68 |

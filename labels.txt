@@ -71,7 +71,6 @@ ovos-skill-ip.openvoiceos:IPIntent
 ovos-skill-ip.openvoiceos:what.ssid.intent
 ovos-skill-iss-location.openvoiceos:NumberISSIntent
 ovos-skill-iss-location.openvoiceos:WhoISSIntent
-ovos-skill-iss-location.openvoiceos:about.intent
 ovos-skill-iss-location.openvoiceos:when_iss.intent
 ovos-skill-iss-location.openvoiceos:where_iss.intent
 ovos-skill-laugh.openvoiceos:Laugh.intent

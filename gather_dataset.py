@@ -14,7 +14,6 @@ import pandas as pd
 
 # Dataset sources
 csv_sources = [
-    "https://huggingface.co/datasets/Jarbas/ovos_intent_examples/resolve/main/dataset.csv", # TODO - merge into llm test set
     "https://huggingface.co/datasets/Jarbas/music_queries_templates/resolve/main/music_templates.csv",
     "https://huggingface.co/datasets/Jarbas/ovos-common-query-intents/resolve/main/common_query.csv",
     "https://huggingface.co/datasets/Jarbas/ovos-llm-augmented-intents/resolve/main/augmented.csv",

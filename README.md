@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **79901**
+- Total unique utterances: **79894**
 - Total unique intents: **160**
 - Total unique skills (domains): **34**
 - Adapt-style intents: **32**
@@ -41,8 +41,8 @@
 | ovos-skill-date-time.openvoiceos:what.month.is.it.intent | 452 |
 | ovos-skill-date-time.openvoiceos:weekday.for.date.intent | 447 |
 | ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent | 440 |
-| common_query:common_query | 420 |
 | ovos-skill-dictation.openvoiceos:stop_dictation.intent | 418 |
+| common_query:common_query | 413 |
 | ovos-skill-moviemaster.openvoiceos:movie.genres.intent | 383 |
 | stop:stop | 377 |
 | ovos-skill-news.openvoiceos:global_news.intent | 376 |

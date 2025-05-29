@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **79894**
+- Total unique utterances: **79906**
 - Total unique intents: **160**
 - Total unique skills (domains): **34**
 - Adapt-style intents: **32**
@@ -34,8 +34,8 @@
 | ovos-skill-weather.openvoiceos:low_temperature.intent | 722 |
 | ovos-skill-weather.openvoiceos:is_rain.intent | 578 |
 | ovos-skill-wikipedia.openvoiceos:wikiroulette.intent | 562 |
+| ovos-skill-weather.openvoiceos:N_days_forecast.intent | 528 |
 | ovos-skill-iss-location.openvoiceos:where_iss.intent | 526 |
-| ovos-skill-weather.openvoiceos:N_days_forecast.intent | 516 |
 | ovos-skill-wikipedia.openvoiceos:wiki.intent | 512 |
 | ovos-skill-ip.openvoiceos:what.ssid.intent | 470 |
 | ovos-skill-date-time.openvoiceos:what.month.is.it.intent | 452 |

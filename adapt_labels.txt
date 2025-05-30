@@ -27,6 +27,8 @@ ovos-skill-ip.openvoiceos:IPIntent
 ovos-skill-iss-location.openvoiceos:NumberISSIntent
 ovos-skill-iss-location.openvoiceos:WhoISSIntent
 ovos-skill-naptime.openvoiceos:WakeUp
+ovos-skill-speedtest.openvoiceos:SpeedtestIntent
+ovos-skill-volume.openvoiceos:change_volume
 ovos-skill-volume.openvoiceos:increase_volume
 ovos-skill-volume.openvoiceos:less_volume
 ovos-skill-wallpapers.openvoiceos:MakeWallpaperIntent

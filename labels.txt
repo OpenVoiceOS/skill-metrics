@@ -111,6 +111,8 @@ ovos-skill-randomness.openvoiceos:pick-a-number.intent
 ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent
 ovos-skill-randomness.openvoiceos:roll-single-die.intent
 ovos-skill-screenshot.openvoiceos:take.screenshot.intent
+ovos-skill-speedtest.openvoiceos:SpeedtestIntent
+ovos-skill-volume.openvoiceos:change_volume
 ovos-skill-volume.openvoiceos:increase_volume
 ovos-skill-volume.openvoiceos:less_volume
 ovos-skill-volume.openvoiceos:volume.default.intent

@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **80220**
+- Total unique utterances: **80454**
 - Total unique intents: **162**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -32,26 +32,26 @@
 | ovos-skill-diagnostics.openvoiceos:query_langs.intent | 818 |
 | ovos-skill-moviemaster.openvoiceos:movie.recommendations.intent | 763 |
 | ovos-skill-weather.openvoiceos:low_temperature.intent | 724 |
+| common_query:common_query | 638 |
 | ovos-skill-weather.openvoiceos:is_rain.intent | 578 |
 | ovos-skill-wikipedia.openvoiceos:wikiroulette.intent | 562 |
 | ovos-skill-iss-location.openvoiceos:where_iss.intent | 529 |
 | ovos-skill-weather.openvoiceos:N_days_forecast.intent | 528 |
-| ovos-skill-wikipedia.openvoiceos:wiki.intent | 512 |
+| ovos-skill-wikipedia.openvoiceos:wiki.intent | 527 |
 | ovos-skill-ip.openvoiceos:what.ssid.intent | 470 |
 | ovos-skill-date-time.openvoiceos:what.month.is.it.intent | 459 |
 | ovos-skill-date-time.openvoiceos:weekday.for.date.intent | 455 |
 | ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent | 440 |
-| common_query:common_query | 428 |
 | ovos-skill-dictation.openvoiceos:stop_dictation.intent | 418 |
 | ovos-skill-moviemaster.openvoiceos:movie.genres.intent | 383 |
 | stop:stop | 377 |
 | ovos-skill-news.openvoiceos:global_news.intent | 376 |
 | ovos-skill-date-time.openvoiceos:current_date.intent | 339 |
+| ovos-skill-wolfie.openvoiceos:search_wolfie.intent | 339 |
 | ovos-skill-weather.openvoiceos:weekend_forecast.intent | 337 |
-| ovos-skill-wolfie.openvoiceos:search_wolfie.intent | 336 |
 | ovos-skill-boot-finished.openvoiceos:are_you_ready.intent | 333 |
 | ovos-skill-wordnet.openvoiceos:hyponym.intent | 324 |
-| ovos-skill-wikihow.openvoiceos:wikihow.intent | 295 |
+| ovos-skill-wikihow.openvoiceos:wikihow.intent | 298 |
 | ovos-skill-parrot.openvoiceos:repeat.tts.intent | 271 |
 | ovos-skill-moviemaster.openvoiceos:movie.description.intent | 268 |
 | ovos-skill-weather.openvoiceos:current_temperature.intent | 259 |
@@ -66,8 +66,8 @@
 | ovos-skill-naptime.openvoiceos:naptime.intent | 202 |
 | ovos-skill-date-time.openvoiceos:what.weekday.is.it.intent | 198 |
 | ovos-skill-moviemaster.openvoiceos:movie.popular.intent | 195 |
+| ovos-skill-ddg.openvoiceos:search_duck.intent | 191 |
 | ovos-skill-moviemaster.openvoiceos:movie.runtime.intent | 190 |
-| ovos-skill-ddg.openvoiceos:search_duck.intent | 188 |
 | ovos-skill-parrot.openvoiceos:stop_parrot.intent | 177 |
 | ovos-skill-weather.openvoiceos:is_stormy.intent | 173 |
 | ovos-skill-diagnostics.openvoiceos:query_user_lang.intent | 168 |

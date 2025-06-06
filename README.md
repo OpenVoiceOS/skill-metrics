@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **92041**
+- Total unique utterances: **92062**
 - Total unique intents: **162**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -119,16 +119,17 @@
 | ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent | 58 |
 | ovos-skill-moviemaster.openvoiceos:movie.cast.intent | 58 |
 | ovos-skill-wallpapers.openvoiceos:picture.random.intent | 57 |
+| ovos-skill-camera.openvoiceos:take_picture.intent | 54 |
 | ovos-skill-parrot.openvoiceos:speak.intent | 54 |
 | ovos-skill-days-in-history.openvoiceos:births_in_history.intent | 50 |
 | ovos-skill-personal.openvoiceos:WhoAreYou.intent | 49 |
 | ovos-skill-randomness.openvoiceos:flip-a-coin.intent | 47 |
 | ovos-skill-alerts.openvoiceos:CreateReminder | 47 |
-| ovos-skill-camera.openvoiceos:take_picture.intent | 45 |
 | ovos-skill-alerts.openvoiceos:CancelAlert | 44 |
+| ovos-skill-camera.openvoiceos:have_camera.intent | 44 |
 | ovos-skill-iss-location.openvoiceos:WhoISSIntent | 43 |
-| ovos-skill-alerts.openvoiceos:DeleteListEntries | 42 |
 | ovos-skill-fuster-quotes.openvoiceos:fuster_quotes.intent | 42 |
+| ovos-skill-alerts.openvoiceos:DeleteListEntries | 42 |
 | ovos-skill-moviemaster.openvoiceos:movie.production.intent | 40 |
 | ovos-skill-volume.openvoiceos:volume.mute.toggle.intent | 39 |
 | ovos-skill-alerts.openvoiceos:DeleteTodoEntries | 38 |
@@ -138,7 +139,6 @@
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusQuote | 35 |
 | ovos-skill-hello-world.openvoiceos:ThankYouIntent | 34 |
 | ovos-skill-alerts.openvoiceos:CreateList | 33 |
-| ovos-skill-camera.openvoiceos:have_camera.intent | 32 |
 | ovos-skill-wordnet.openvoiceos:synonym.intent | 30 |
 | ovos-skill-alerts.openvoiceos:DeleteList | 30 |
 | ovos-skill-volume.openvoiceos:change_volume | 30 |

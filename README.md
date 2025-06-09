@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **92113**
+- Total unique utterances: **92151**
 - Total unique intents: **162**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -21,7 +21,7 @@
 | ovos-skill-date-time.openvoiceos:what.time.is.it.intent | 1917 |
 | ovos-skill-weather.openvoiceos:hourly_temperature.intent | 1785 |
 | ovos-skill-weather.openvoiceos:daily_forecast.intent | 1568 |
-| ovos-skill-days-in-history.openvoiceos:today_in_history.intent | 1446 |
+| ovos-skill-days-in-history.openvoiceos:today_in_history.intent | 1458 |
 | ovos-skill-news.openvoiceos:news.intent | 1263 |
 | ovos-skill-moviemaster.openvoiceos:movie.top.intent | 1202 |
 | ovos-skill-moviemaster.openvoiceos:movie.information.intent | 1135 |
@@ -118,11 +118,11 @@
 | ovos-skill-diagnostics.openvoiceos:query_gpu.intent | 59 |
 | ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent | 58 |
 | ovos-skill-moviemaster.openvoiceos:movie.cast.intent | 58 |
+| ovos-skill-days-in-history.openvoiceos:births_in_history.intent | 58 |
 | ovos-skill-wallpapers.openvoiceos:picture.random.intent | 57 |
-| ovos-skill-camera.openvoiceos:take_picture.intent | 54 |
 | ovos-skill-parrot.openvoiceos:speak.intent | 54 |
 | ovos-skill-personal.openvoiceos:WhoAreYou.intent | 54 |
-| ovos-skill-days-in-history.openvoiceos:births_in_history.intent | 50 |
+| ovos-skill-camera.openvoiceos:take_picture.intent | 54 |
 | ovos-skill-randomness.openvoiceos:flip-a-coin.intent | 47 |
 | ovos-skill-alerts.openvoiceos:CreateReminder | 47 |
 | ovos-skill-alerts.openvoiceos:CancelAlert | 44 |
@@ -130,20 +130,20 @@
 | ovos-skill-iss-location.openvoiceos:WhoISSIntent | 43 |
 | ovos-skill-fuster-quotes.openvoiceos:fuster_quotes.intent | 42 |
 | ovos-skill-alerts.openvoiceos:DeleteListEntries | 42 |
+| ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent | 41 |
 | ovos-skill-moviemaster.openvoiceos:movie.production.intent | 40 |
 | ovos-skill-volume.openvoiceos:volume.mute.toggle.intent | 39 |
 | ovos-skill-alerts.openvoiceos:DeleteTodoEntries | 38 |
 | ovos-skill-wallpapers.openvoiceos:wallpaper.about.intent | 37 |
-| ovos-skill-ip.openvoiceos:IPIntent | 36 |
 | ovos-skill-alerts.openvoiceos:RescheduleAlert | 36 |
+| ovos-skill-ip.openvoiceos:IPIntent | 36 |
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusQuote | 35 |
 | ovos-skill-hello-world.openvoiceos:ThankYouIntent | 34 |
 | ovos-skill-alerts.openvoiceos:CreateList | 33 |
-| ovos-skill-wordnet.openvoiceos:synonym.intent | 30 |
-| ovos-skill-alerts.openvoiceos:DeleteList | 30 |
 | ovos-skill-volume.openvoiceos:change_volume | 30 |
+| ovos-skill-alerts.openvoiceos:DeleteList | 30 |
+| ovos-skill-wordnet.openvoiceos:synonym.intent | 30 |
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusBirth | 29 |
-| ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent | 29 |
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusDeath | 29 |
 | ovos-skill-alerts.openvoiceos:ChangeProperties | 29 |
 | ovos-skill-naptime.openvoiceos:WakeUp | 28 |
@@ -155,15 +155,15 @@
 | ovos-skill-alerts.openvoiceos:CreateTimer | 24 |
 | ovos-skill-color-picker.krisgesling.openvoiceos:request-color-by-name.intent | 24 |
 | ovos-skill-fuster-quotes.openvoiceos:who.intent | 24 |
+| ovos-skill-confucius-quotes.openvoiceos:who.intent | 24 |
 | ovos-skill-alerts.openvoiceos:CreateEvent | 23 |
 | ovos-skill-iss-location.openvoiceos:NumberISSIntent | 22 |
 | ovos-skill-wallpapers.openvoiceos:MakeWallpaperIntent | 20 |
-| ovos-skill-alerts.openvoiceos:QueryListEntries | 19 |
 | ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent | 19 |
+| ovos-skill-alerts.openvoiceos:QueryListEntries | 19 |
 | ovos-skill-alerts.openvoiceos:QueryTodoEntries | 18 |
-| ovos-skill-alerts.openvoiceos:CalendarList | 18 |
 | ovos-skill-alerts.openvoiceos:QueryListNames | 18 |
-| ovos-skill-confucius-quotes.openvoiceos:who.intent | 18 |
+| ovos-skill-alerts.openvoiceos:CalendarList | 18 |
 | ovos-skill-randomness.openvoiceos:roll-single-die.intent | 18 |
 | ovos-skill-alerts.openvoiceos:DAVSync | 17 |
 | ovos-skill-screenshot.openvoiceos:take.screenshot.intent | 17 |

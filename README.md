@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **92151**
+- Total unique utterances: **92197**
 - Total unique intents: **162**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -51,11 +51,11 @@
 | ovos-skill-weather.openvoiceos:weekend_forecast.intent | 337 |
 | ovos-skill-boot-finished.openvoiceos:are_you_ready.intent | 334 |
 | ovos-skill-wordnet.openvoiceos:hyponym.intent | 324 |
+| ovos-skill-weather.openvoiceos:current_weather.intent | 302 |
 | ovos-skill-wikihow.openvoiceos:wikihow.intent | 298 |
 | ovos-skill-parrot.openvoiceos:repeat.tts.intent | 274 |
 | ovos-skill-moviemaster.openvoiceos:movie.description.intent | 268 |
 | ovos-skill-weather.openvoiceos:current_temperature.intent | 259 |
-| ovos-skill-weather.openvoiceos:current_weather.intent | 256 |
 | ovos-skill-date-time.openvoiceos:time.until.intent | 255 |
 | ovos-skill-moviemaster.openvoiceos:genre.tv.search.intent | 247 |
 | ovos-skill-weather.openvoiceos:is_wind.intent | 234 |

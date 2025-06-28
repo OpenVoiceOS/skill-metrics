@@ -89,8 +89,8 @@
 | ovos-skill-laugh.openvoiceos:Laugh.intent | 117 |
 | ovos-skill-volume.openvoiceos:volume.max.intent | 113 |
 | ovos-skill-wordnet.openvoiceos:search_wordnet.intent | 110 |
-| ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent | 105 |
 | ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent | 105 |
+| ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent | 105 |
 | ovos-skill-weather.openvoiceos:next_rain.intent | 104 |
 | ovos-skill-volume.openvoiceos:volume.unmute.intent | 100 |
 | ovos-skill-weather.openvoiceos:sunrise.intent | 100 |
@@ -114,8 +114,8 @@
 | ovos-skill-parrot.openvoiceos:repeat.stt.intent | 64 |
 | ovos-skill-alerts.openvoiceos:AddListSubitems | 63 |
 | ovos-skill-wordnet.openvoiceos:lemma.intent | 61 |
-| ovos-skill-parrot.openvoiceos:did.you.hear.me.intent | 59 |
 | ovos-skill-diagnostics.openvoiceos:query_gpu.intent | 59 |
+| ovos-skill-parrot.openvoiceos:did.you.hear.me.intent | 59 |
 | ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent | 58 |
 | ovos-skill-moviemaster.openvoiceos:movie.cast.intent | 58 |
 | ovos-skill-days-in-history.openvoiceos:births_in_history.intent | 58 |

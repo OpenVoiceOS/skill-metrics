@@ -5006,10 +5006,30 @@ en,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,what historica
 en,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,what historical events happened this day in history
 en,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,what historical events happened today
 en,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,what historical events happened today in history
-en,common_query:common_query,what is {query} field of expertise
+en,common_query:common_query,where did {query} get her education
+en,common_query:common_query,where did {query} get his education
+en,common_query:common_query,where did {query} study
+en,common_query:common_query,what is {query} famous for
+en,common_query:common_query,what is {query} known for
 en,common_query:common_query,how many children did {query} have
 en,common_query:common_query,how many children does {query} have
-en,common_query:common_query,what is {query} thesis subject
+en,common_query:common_query,where is {query} resting buried
+en,common_query:common_query,where is {query} resting place
+en,common_query:common_query,how old was {query} on his death
+en,common_query:common_query,how old was {query} on the day he died
+en,common_query:common_query,how old was {query} on the day she died
+en,common_query:common_query,how old was {query} when he died
+en,common_query:common_query,how old was {query} when she died
+en,common_query:common_query,who is {query}
+en,common_query:common_query,what is {query} field of expertise
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,ask the duck duck about {query}
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,ask the duck duck go about {query}
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,search duck duck for {query}
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,search duck duck go for {query}
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,search the duck for {query}
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,what does duck duck go say about {query}
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,what does duck duck say about {query}
+en,ovos-skill-ddg.openvoiceos:search_duck.intent,what does the duck say about {query}
 en,common_query:common_query,what is {query} birth date
 en,common_query:common_query,what is {query} birthday
 en,common_query:common_query,when was born {query}
@@ -5019,33 +5039,13 @@ en,common_query:common_query,when is {query} birthday
 en,common_query:common_query,when is {query} day of birth
 en,common_query:common_query,{query} date of birth
 en,common_query:common_query,{query} day of birth
-en,common_query:common_query,who is {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,ask the duck duck about {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,ask the duck duck go about {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,search duck duck for {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,search duck duck go for {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,search the duck for {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,what does duck duck go say about {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,what does duck duck say about {query}
-en,ovos-skill-ddg.openvoiceos:search_duck.intent,what does the duck say about {query}
-en,common_query:common_query,where did {query} get her education
-en,common_query:common_query,where did {query} get his education
-en,common_query:common_query,where did {query} study
+en,common_query:common_query,what is {query} thesis subject
+en,common_query:common_query,what is {query} alma mater
 en,common_query:common_query,when did {query} die
 en,common_query:common_query,when was {query} death
 en,common_query:common_query,{query} date of death
 en,common_query:common_query,{query} day of death
-en,common_query:common_query,where is {query} resting buried
-en,common_query:common_query,where is {query} resting place
-en,common_query:common_query,what is {query} alma mater
-en,common_query:common_query,how old was {query} on his death
-en,common_query:common_query,how old was {query} on the day he died
-en,common_query:common_query,how old was {query} on the day she died
-en,common_query:common_query,how old was {query} when he died
-en,common_query:common_query,how old was {query} when she died
 en,common_query:common_query,what is {query} official website
-en,common_query:common_query,what is {query} famous for
-en,common_query:common_query,what is {query} known for
 en,ovos-skill-fuster-quotes.openvoiceos:fuster_quotes.intent,any fusterian thoughts
 en,ovos-skill-fuster-quotes.openvoiceos:fuster_quotes.intent,do you have a quote from joan fuster
 en,ovos-skill-fuster-quotes.openvoiceos:fuster_quotes.intent,do you have any fuster aphorisms
@@ -5078,6 +5078,22 @@ en,ovos-skill-wikihow.openvoiceos:wikihow.intent,what does wiki how say about {q
 en,ovos-skill-wikihow.openvoiceos:wikihow.intent,what does wiki how think about {query}
 en,ovos-skill-wikihow.openvoiceos:wikihow.intent,what does wikihow say about {query}
 en,ovos-skill-wikihow.openvoiceos:wikihow.intent,what does wikihow think about {query}
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,display random wiki
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,display random wikipedia
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,open random wiki
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,open random wikipedia
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play the wiki roulette
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play the wikipedia roulette
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play wiki roulette
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play wikipedia roulette
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wiki
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wiki page
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wikipedia
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wikipedia page
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,show random wiki
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,show random wikipedia
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
+en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roulette
 en,ovos-skill-wikipedia.openvoiceos:wiki.intent,can you find {query} on wiki
 en,ovos-skill-wikipedia.openvoiceos:wiki.intent,can you find {query} on wikipedia
 en,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wiki for {query}
@@ -5106,34 +5122,19 @@ en,ovos-skill-wikipedia.openvoiceos:wiki.intent,what's on wiki about {query}
 en,ovos-skill-wikipedia.openvoiceos:wiki.intent,what's on wikipedia about {query}
 en,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
 en,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,display random wiki
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,display random wikipedia
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,open random wiki
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,open random wikipedia
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play the wiki roulette
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play the wikipedia roulette
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play wiki roulette
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,play wikipedia roulette
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wiki
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wiki page
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wikipedia
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,random wikipedia page
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,show random wiki
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,show random wikipedia
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
-en,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roulette
-en,ovos-skill-wordnet.openvoiceos:antonym.intent,what are the antonyms of {query}
-en,ovos-skill-wordnet.openvoiceos:antonym.intent,what is a antonym of {query}
-en,ovos-skill-wordnet.openvoiceos:antonym.intent,what is the antonym of {query}
-en,ovos-skill-wordnet.openvoiceos:hypernym.intent,what are the hypernyms of {query}
-en,ovos-skill-wordnet.openvoiceos:hypernym.intent,what is a hypernym of {query}
-en,ovos-skill-wordnet.openvoiceos:hypernym.intent,what is the hypernym of {query}
 en,ovos-skill-wordnet.openvoiceos:hyponym.intent,what are the hyponyms of {query}
 en,ovos-skill-wordnet.openvoiceos:hyponym.intent,what is a hyponym of {query}
 en,ovos-skill-wordnet.openvoiceos:hyponym.intent,what is the hyponym of {query}
 en,ovos-skill-wordnet.openvoiceos:lemma.intent,what are the lemmas of {query}
 en,ovos-skill-wordnet.openvoiceos:lemma.intent,what is a lemma of {query}
 en,ovos-skill-wordnet.openvoiceos:lemma.intent,what is the lemma of {query}
+en,ovos-skill-wordnet.openvoiceos:hypernym.intent,what are the hypernyms of {query}
+en,ovos-skill-wordnet.openvoiceos:hypernym.intent,what is a hypernym of {query}
+en,ovos-skill-wordnet.openvoiceos:hypernym.intent,what is the hypernym of {query}
+en,ovos-skill-wordnet.openvoiceos:antonym.intent,what are the antonyms of {query}
+en,ovos-skill-wordnet.openvoiceos:antonym.intent,what is a antonym of {query}
+en,ovos-skill-wordnet.openvoiceos:antonym.intent,what is the antonym of {query}
+pt,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,quem morreu hoje na história
 pt,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,conta-me eventos históricos em esta data
 pt,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,conta-me eventos históricos em esta data da história
 pt,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,conta-me eventos históricos em esta data na história
@@ -5317,15 +5318,18 @@ pt,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,diz-me sobre o
 pt,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,esta data na história
 pt,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,este dia na história
 pt,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,hoje na história
-pt,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,quem morreu hoje na história
+pt,common_query:common_query,onde estudou {query}
+pt,common_query:common_query,onde obteve {query} a educação
+pt,common_query:common_query,onde obteve {query} a sua educação
+pt,common_query:common_query,pelo que é {query} conhecida
+pt,common_query:common_query,pelo que é {query} conhecido
 pt,common_query:common_query,quantos filhos tem {query}
 pt,common_query:common_query,quantos filhos teve {query}
 pt,common_query:common_query,quantos filhos tinha {query}
-pt,common_query:common_query,quando nasceu {query}
-pt,common_query:common_query,quando é o aniversário da {query}
-pt,common_query:common_query,quando é o aniversário de {query}
-pt,common_query:common_query,quando é o aniversário do {query}
-pt,common_query:common_query,quando é que {query} faz anos
+pt,common_query:common_query,quantos anos tinha {query} a data da morte
+pt,common_query:common_query,quantos anos tinha {query} na sua morte
+pt,common_query:common_query,quantos anos tinha {query} quando morreu
+pt,common_query:common_query,quantos anos tinha {query} no dia em que morreu
 pt,common_query:common_query,quem é {query}
 pt,common_query:common_query,quem é que é {query}
 pt,ovos-skill-ddg.openvoiceos:search_duck.intent,pergunta ao duck duck go sobre {query}
@@ -5338,10 +5342,12 @@ pt,ovos-skill-ddg.openvoiceos:search_duck.intent,procura no pato {query}
 pt,ovos-skill-ddg.openvoiceos:search_duck.intent,o que diz o duck duck go sobre {query}
 pt,ovos-skill-ddg.openvoiceos:search_duck.intent,o que diz o pato sobre {query}
 pt,ovos-skill-ddg.openvoiceos:search_duck.intent,pergunta ao pato {query}
-pt,common_query:common_query,onde estudou {query}
-pt,common_query:common_query,onde obteve {query} a educação
-pt,common_query:common_query,onde obteve {query} a sua educação
 pt,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pergunta ao pato {query}
+pt,common_query:common_query,quando nasceu {query}
+pt,common_query:common_query,quando é o aniversário da {query}
+pt,common_query:common_query,quando é o aniversário de {query}
+pt,common_query:common_query,quando é o aniversário do {query}
+pt,common_query:common_query,quando é que {query} faz anos
 pt,common_query:common_query,data da morte da {query}
 pt,common_query:common_query,data da morte de {query}
 pt,common_query:common_query,data da morte do {query}
@@ -5352,12 +5358,6 @@ pt,common_query:common_query,quando foi a morte de {query}
 pt,common_query:common_query,quando morreu {query}
 pt,common_query:common_query,quando morreu a {query}
 pt,common_query:common_query,quando morreu o {query}
-pt,common_query:common_query,quantos anos tinha {query} a data da morte
-pt,common_query:common_query,quantos anos tinha {query} na sua morte
-pt,common_query:common_query,quantos anos tinha {query} quando morreu
-pt,common_query:common_query,quantos anos tinha {query} no dia em que morreu
-pt,common_query:common_query,pelo que é {query} conhecida
-pt,common_query:common_query,pelo que é {query} conhecido
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,explica as como {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,explica as como é que {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,explica as etapas para {query}
@@ -5382,20 +5382,6 @@ pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wiki how {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wiki how como é que {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wikihow {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wikihow como é que {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz wikipedia sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz a wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz a wikipedia sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wiki por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wikipedia por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wikipedia sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wiki por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wikipedia por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wikipedia sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
 pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wiki aleatória
 pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wiki roleta
 pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wikipedia aleatória
@@ -5412,21 +5398,36 @@ pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki aleatória
 pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roleta
 pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia aleatória
 pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roleta
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz wiki sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz wikipedia sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz a wiki sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz a wikipedia sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wiki por {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wiki sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wikipedia por {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wikipedia sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wiki por {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wiki sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wikipedia por {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wikipedia sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
 pt,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pergunta ao lobo {query}
+pt,ovos-skill-wordnet.openvoiceos:holonym.intent,qual é o holônimo de {query}
+pt,ovos-skill-wordnet.openvoiceos:hyponym.intent,qual é o hipônimo de {query}
+pt,ovos-skill-wordnet.openvoiceos:lemma.intent,qual é o sinónimo de {query}
+pt,ovos-skill-wordnet.openvoiceos:hypernym.intent,qual é o hiperônimo de {query}
+pt,ovos-skill-wordnet.openvoiceos:antonym.intent,qual é o antônimo de {query}
+pt,ovos-skill-wordnet.openvoiceos:antonym.intent,qual é um antônimo de {query}
+pt,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,o que diz a wordnet sobre {query}
+pt,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,o que diz o wordnet sobre {query}
 pt,ovos-skill-wordnet.openvoiceos:definition.intent,define {query}
 pt,ovos-skill-wordnet.openvoiceos:definition.intent,qual é a definição de {query}
 pt,ovos-skill-wordnet.openvoiceos:definition.intent,o que é {query}
 pt,ovos-skill-wordnet.openvoiceos:definition.intent,o que é um {query}
 pt,ovos-skill-wordnet.openvoiceos:definition.intent,o que é uma {query}
-pt,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,o que diz a wordnet sobre {query}
-pt,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,o que diz o wordnet sobre {query}
-pt,ovos-skill-wordnet.openvoiceos:antonym.intent,qual é o antônimo de {query}
-pt,ovos-skill-wordnet.openvoiceos:antonym.intent,qual é um antônimo de {query}
-pt,ovos-skill-wordnet.openvoiceos:hypernym.intent,qual é o hiperônimo de {query}
-pt,ovos-skill-wordnet.openvoiceos:hyponym.intent,qual é o hipônimo de {query}
-pt,ovos-skill-wordnet.openvoiceos:holonym.intent,qual é o holônimo de {query}
-pt,ovos-skill-wordnet.openvoiceos:lemma.intent,qual é o sinónimo de {query}
 eu,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,nor jaio zen gaur bezalako egun batean iraganean?
+eu,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,nor hil zen gaur bezalako egun batean iraganean?
 eu,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,egun honetan iraganean
 eu,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,gaur bezalako egun batean iraganean
 eu,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,gaurko egunez iraganean
@@ -5462,11 +5463,24 @@ eu,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,zer gertakari 
 eu,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,zer gertakari historiko gertatu zen gaurko egunez iraganean
 eu,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,zer gertakari historiko gertatu zen {date} egunean
 eu,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,zer gertakari historiko gertatu zen {date} egunean iraganean
-eu,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,nor hil zen gaur bezalako egun batean iraganean?
-eu,common_query:common_query,zein da {query} espezializaio-arloa
+eu,common_query:common_query,non egin zituen {query} ikasketak
+eu,common_query:common_query,non ikasi zuen {query}
+eu,common_query:common_query,zergatik da ezagun {query}
+eu,common_query:common_query,zergatik da ospetsu {query}
 eu,common_query:common_query,zenbat haur ditu {query}
 eu,common_query:common_query,zenbat haur izan ditu {query}
-eu,common_query:common_query,zein da {query} tesiaren gaia
+eu,common_query:common_query,non dago lurperatuta {query}
+eu,common_query:common_query,non datza {query}
+eu,common_query:common_query,zenbat urte zituen {query} hil zen egunean
+eu,common_query:common_query,zenbat urte zituen {query} hil zenean
+eu,common_query:common_query,nor da {query}
+eu,common_query:common_query,zein da {query} espezializaio-arloa
+eu,ovos-skill-ddg.openvoiceos:search_duck.intent,bilatu duck duck bilatzailean {query}
+eu,ovos-skill-ddg.openvoiceos:search_duck.intent,bilatu duck duck go bilatzailean {query}
+eu,ovos-skill-ddg.openvoiceos:search_duck.intent,bilatu the duck bilatzailean {query}
+eu,ovos-skill-ddg.openvoiceos:search_duck.intent,zer dio duck duck bilatzaileak honi buruz {query}
+eu,ovos-skill-ddg.openvoiceos:search_duck.intent,zer dio duck duck go bilatzaileak honi buruz {query}
+eu,ovos-skill-ddg.openvoiceos:search_duck.intent,zer dio the duck bilatzaileak honi buruz {query}
 eu,common_query:common_query,noiz jaio zen {query}
 eu,common_query:common_query,zein da {query} jaioteguna
 eu,common_query:common_query,zein da {query} jaiotze-data
@@ -5475,27 +5489,13 @@ eu,common_query:common_query,noiz da {query} jaioteguna
 eu,common_query:common_query,noiz da {query} jaiotze-data
 eu,common_query:common_query,{query} jaioteguna
 eu,common_query:common_query,{query} jaiotze-data
-eu,common_query:common_query,nor da {query}
-eu,ovos-skill-ddg.openvoiceos:search_duck.intent,bilatu duck duck bilatzailean {query}
-eu,ovos-skill-ddg.openvoiceos:search_duck.intent,bilatu duck duck go bilatzailean {query}
-eu,ovos-skill-ddg.openvoiceos:search_duck.intent,bilatu the duck bilatzailean {query}
-eu,ovos-skill-ddg.openvoiceos:search_duck.intent,zer dio duck duck bilatzaileak honi buruz {query}
-eu,ovos-skill-ddg.openvoiceos:search_duck.intent,zer dio duck duck go bilatzaileak honi buruz {query}
-eu,ovos-skill-ddg.openvoiceos:search_duck.intent,zer dio the duck bilatzaileak honi buruz {query}
-eu,common_query:common_query,non egin zituen {query} ikasketak
-eu,common_query:common_query,non ikasi zuen {query}
+eu,common_query:common_query,zein da {query} tesiaren gaia
+eu,common_query:common_query,zer da {query} alma mater
 eu,common_query:common_query,noiz hil zen {query}
 eu,common_query:common_query,noiz zendu zen {query}
 eu,common_query:common_query,{query} heriotza-data
 eu,common_query:common_query,{query} heriotza-eguna
-eu,common_query:common_query,non dago lurperatuta {query}
-eu,common_query:common_query,non datza {query}
-eu,common_query:common_query,zer da {query} alma mater
-eu,common_query:common_query,zenbat urte zituen {query} hil zen egunean
-eu,common_query:common_query,zenbat urte zituen {query} hil zenean
 eu,common_query:common_query,zein da {query} webgune ofiziala
-eu,common_query:common_query,zergatik da ezagun {query}
-eu,common_query:common_query,zergatik da ospetsu {query}
 eu,ovos-skill-wikihow.openvoiceos:wikihow.intent,azaldu urratsez urrats {query}
 eu,ovos-skill-wikihow.openvoiceos:wikihow.intent,urratsez urrats {query}
 eu,ovos-skill-wikihow.openvoiceos:wikihow.intent,nola egin dezaket {query}?
@@ -5510,14 +5510,6 @@ eu,ovos-skill-wikihow.openvoiceos:wikihow.intent,zer dio wiki how-k honi buruz {
 eu,ovos-skill-wikihow.openvoiceos:wikihow.intent,zer dio wikihow-k honi buruz {query}?
 eu,ovos-skill-wikihow.openvoiceos:wikihow.intent,zer pentsatzen du wiki how-k honi buruz {query}?
 eu,ovos-skill-wikihow.openvoiceos:wikihow.intent,zer pentsatzen du wikihow-k honi buruz {query}?
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,bilatu wiki-n {query}
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,bilatu wikipedian {query}
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,egiaztatu wiki-n {query}
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,egiaztatu wikipedian {query}
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,zer dio wiki-k honi buruz: {query}?
-eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,zer dio wikipediak honi buruz: {query}?
 eu,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,(erakutsi|bistaratu|ireki wiki ausaz
 eu,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,(erakutsi|bistaratu|ireki wikipedia ausaz
 eu,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,erreproduzitu wiki erruleta
@@ -5528,6 +5520,14 @@ eu,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki erruleta
 eu,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia ausaz
 eu,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia ausazko orria
 eu,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia erruleta
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,bilatu wiki-n {query}
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,bilatu wikipedian {query}
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,egiaztatu wiki-n {query}
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,egiaztatu wikipedian {query}
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,zer dio wiki-k honi buruz: {query}?
+eu,ovos-skill-wikipedia.openvoiceos:wiki.intent,zer dio wikipediak honi buruz: {query}?
 eu,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,bilatu the wolf bilatzailean {query}
 eu,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,bilatu the wolfram alpha bilatzailean {query}
 eu,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,bilatu the wolfram bilatzailean {query}
@@ -5536,31 +5536,46 @@ eu,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,bilatu wolfram bilatzailea
 eu,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,zer dio the wolf bilatzaileak honi buruz: {query}?
 eu,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,zer dio wolfram alpha bilatzaileak honi buruz: {query}?
 eu,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,zer dio wolfram bilatzaileak honi buruz: {query}?
-eu,ovos-skill-wordnet.openvoiceos:definition.intent,zein da honen definizioa {query}
-eu,ovos-skill-wordnet.openvoiceos:definition.intent,zer da {query}
+eu,ovos-skill-wordnet.openvoiceos:holonym.intent,zein da honen holonimo bat {query}
+eu,ovos-skill-wordnet.openvoiceos:holonym.intent,zein da honen holonimoa {query}
+eu,ovos-skill-wordnet.openvoiceos:holonym.intent,zein dira honen holonimoak {query}
+eu,ovos-skill-wordnet.openvoiceos:hyponym.intent,zein da honen hiponimo bat {query}
+eu,ovos-skill-wordnet.openvoiceos:hyponym.intent,zein da honen hiponimoa {query}
+eu,ovos-skill-wordnet.openvoiceos:hyponym.intent,zein dira honen hiponimoak {query}
+eu,ovos-skill-wordnet.openvoiceos:lemma.intent,zein da honen lema bat {query}
+eu,ovos-skill-wordnet.openvoiceos:lemma.intent,zein da honen lema {query}
+eu,ovos-skill-wordnet.openvoiceos:lemma.intent,zein dira honen lemak {query}
+eu,ovos-skill-wordnet.openvoiceos:hypernym.intent,zein da honen holonimo bat {query}
+eu,ovos-skill-wordnet.openvoiceos:hypernym.intent,zein da honen holonimoa {query}
+eu,ovos-skill-wordnet.openvoiceos:hypernym.intent,zein dira honen hiperonimoak {query}
+eu,ovos-skill-wordnet.openvoiceos:antonym.intent,zein da honen antonimo bat {query}
+eu,ovos-skill-wordnet.openvoiceos:antonym.intent,zein da honen antonimoa {query}
+eu,ovos-skill-wordnet.openvoiceos:antonym.intent,zein dira honen antonimoak {query}
 eu,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,bilatu word net datu-basean {query}
 eu,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,bilatu wordnet datu-basean {query}
 eu,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,zer dio word net datu-baseak honi buruz {query}
 eu,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,zer dio wordnet datu-baseak honi buruz {query}
-eu,ovos-skill-wordnet.openvoiceos:antonym.intent,zein da honen antonimo bat {query}
-eu,ovos-skill-wordnet.openvoiceos:antonym.intent,zein da honen antonimoa {query}
-eu,ovos-skill-wordnet.openvoiceos:antonym.intent,zein dira honen antonimoak {query}
-eu,ovos-skill-wordnet.openvoiceos:hypernym.intent,zein da honen holonimo bat {query}
-eu,ovos-skill-wordnet.openvoiceos:hypernym.intent,zein da honen holonimoa {query}
-eu,ovos-skill-wordnet.openvoiceos:hypernym.intent,zein dira honen hiperonimoak {query}
-eu,ovos-skill-wordnet.openvoiceos:hyponym.intent,zein da honen hiponimo bat {query}
-eu,ovos-skill-wordnet.openvoiceos:hyponym.intent,zein da honen hiponimoa {query}
-eu,ovos-skill-wordnet.openvoiceos:hyponym.intent,zein dira honen hiponimoak {query}
-eu,ovos-skill-wordnet.openvoiceos:holonym.intent,zein da honen holonimo bat {query}
-eu,ovos-skill-wordnet.openvoiceos:holonym.intent,zein da honen holonimoa {query}
-eu,ovos-skill-wordnet.openvoiceos:holonym.intent,zein dira honen holonimoak {query}
-eu,ovos-skill-wordnet.openvoiceos:lemma.intent,zein da honen lema bat {query}
-eu,ovos-skill-wordnet.openvoiceos:lemma.intent,zein da honen lema {query}
-eu,ovos-skill-wordnet.openvoiceos:lemma.intent,zein dira honen lemak {query}
-es,common_query:common_query,lo que es {query} campo de experiencia
+eu,ovos-skill-wordnet.openvoiceos:definition.intent,zein da honen definizioa {query}
+eu,ovos-skill-wordnet.openvoiceos:definition.intent,zer da {query}
+es,common_query:common_query,donde consiguió su educación
+es,common_query:common_query,dónde lo hizo estudio
+es,common_query:common_query,lo que es famoso por
+es,common_query:common_query,qué es conocido
 es,common_query:common_query,cuántos niños tenían
 es,common_query:common_query,cuántos niños tienen
-es,common_query:common_query,qué es tema de la tesis
+es,common_query:common_query,donde está descansando enterrado
+es,common_query:common_query,donde está {query} lugar de descanso
+es,common_query:common_query,cuando murió
+es,common_query:common_query,que edad tenía en su muerte
+es,common_query:common_query,qué edad tenía el día que murió
+es,common_query:common_query,que es {persona}
+es,common_query:common_query,lo que es {query} campo de experiencia
+es,ovos-skill-ddg.openvoiceos:search_duck.intent,pregúntale al pato sobre {query}
+es,ovos-skill-ddg.openvoiceos:search_duck.intent,qué dice el pato del pato sobre {query}
+es,ovos-skill-ddg.openvoiceos:search_duck.intent,qué dice el pato sobre {query}
+es,ovos-skill-ddg.openvoiceos:search_duck.intent,buscar el pato para {query}
+es,ovos-skill-ddg.openvoiceos:search_duck.intent,buscar pato de pato ir por {query}
+es,ovos-skill-ddg.openvoiceos:search_duck.intent,búsqueda de pato para {query}
 es,common_query:common_query,qué es el cumpleaños
 es,common_query:common_query,cuando nació
 es,common_query:common_query,cuando nació {persona}
@@ -5570,27 +5585,64 @@ es,common_query:common_query,cuando es el nacimiento
 es,common_query:common_query,cuando es {query} cumpleaños
 es,common_query:common_query,día de nacimiento
 es,common_query:common_query,fecha de nacimiento
-es,common_query:common_query,que es {persona}
-es,ovos-skill-ddg.openvoiceos:search_duck.intent,pregúntale al pato sobre {query}
-es,ovos-skill-ddg.openvoiceos:search_duck.intent,qué dice el pato del pato sobre {query}
-es,ovos-skill-ddg.openvoiceos:search_duck.intent,qué dice el pato sobre {query}
-es,ovos-skill-ddg.openvoiceos:search_duck.intent,buscar el pato para {query}
-es,ovos-skill-ddg.openvoiceos:search_duck.intent,buscar pato de pato ir por {query}
-es,ovos-skill-ddg.openvoiceos:search_duck.intent,búsqueda de pato para {query}
-es,common_query:common_query,donde consiguió su educación
-es,common_query:common_query,dónde lo hizo estudio
+es,common_query:common_query,qué es tema de la tesis
+es,common_query:common_query,qué es alma mater
 es,common_query:common_query,cuando fue la muerte
-es,common_query:common_query,cuando murió
 es,common_query:common_query,día de la muerte
 es,common_query:common_query,fecha de la muerte
-es,common_query:common_query,donde está descansando enterrado
-es,common_query:common_query,donde está {query} lugar de descanso
-es,common_query:common_query,qué es alma mater
-es,common_query:common_query,que edad tenía en su muerte
-es,common_query:common_query,qué edad tenía el día que murió
 es,common_query:common_query,lo que es {query} sitio oficial
-es,common_query:common_query,lo que es famoso por
-es,common_query:common_query,qué es conocido
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawikipedia random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wikipedia random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawikipedia random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wikipedia random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawikipedia random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wikipedia random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wikipedia random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki random
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia al azar
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia aleatoria
+es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia random
 es,ovos-skill-wikipedia.openvoiceos:wiki.intent,busca wiki para {query}
 es,ovos-skill-wikipedia.openvoiceos:wiki.intent,busca wikipedia para {query}
 es,ovos-skill-wikipedia.openvoiceos:wiki.intent,busca detalles de {query} en wiki
@@ -5645,58 +5697,6 @@ es,ovos-skill-wikipedia.openvoiceos:wiki.intent,¿qué dice la wiki acerca de {q
 es,ovos-skill-wikipedia.openvoiceos:wiki.intent,¿qué dice la wiki sobre {query}?
 es,ovos-skill-wikipedia.openvoiceos:wiki.intent,¿qué dice la wikipedia acerca de {query}?
 es,ovos-skill-wikipedia.openvoiceos:wiki.intent,¿qué dice la wikipedia sobre {query}?
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre unawikipedia random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abre wikipedia random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña unawikipedia random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,enseña wikipedia random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra unawikipedia random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,muestra wikipedia random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wikipedia random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki random
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia al azar
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia aleatoria
-es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia random
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregúntale al lobo
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregúntale al loboram alpha sobre {query}
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregúntale al wolfram sobre {query}
@@ -5706,29 +5706,30 @@ es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar wolfram para {query
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram alpha sobre {query}
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice el lobo acerca de {query}
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram acerca de {query}
-es,ovos-skill-wordnet.openvoiceos:definition.intent,cuál es la definición de {query}
-es,ovos-skill-wordnet.openvoiceos:definition.intent,lo que es un {query}
+es,ovos-skill-wordnet.openvoiceos:holonym.intent,lo que es un holonym de {query}
+es,ovos-skill-wordnet.openvoiceos:holonym.intent,lo que es el holonym de {query}
+es,ovos-skill-wordnet.openvoiceos:holonym.intent,que son los holónimos de {query}
+es,ovos-skill-wordnet.openvoiceos:hyponym.intent,cuál es el hiponym de {query}
+es,ovos-skill-wordnet.openvoiceos:hyponym.intent,cuáles son las hipónymas de {query}
+es,ovos-skill-wordnet.openvoiceos:hyponym.intent,lo que es un hiponym de {query}
+es,ovos-skill-wordnet.openvoiceos:lemma.intent,lo que es un lema de {query}
+es,ovos-skill-wordnet.openvoiceos:lemma.intent,cuál es la lema de {query}
+es,ovos-skill-wordnet.openvoiceos:lemma.intent,cuáles son los lemas de {query}
+es,ovos-skill-wordnet.openvoiceos:hypernym.intent,lo que es un hipernym de {query}
+es,ovos-skill-wordnet.openvoiceos:hypernym.intent,que son los hipernyms de {query}
+es,ovos-skill-wordnet.openvoiceos:hypernym.intent,lo que es el hipernym de {query}
+es,ovos-skill-wordnet.openvoiceos:antonym.intent,cuáles son las antónimos de {query}
+es,ovos-skill-wordnet.openvoiceos:antonym.intent,cuál es la antónima de {query}
+es,ovos-skill-wordnet.openvoiceos:antonym.intent,lo que es una antónima de {query}
 es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,lo que dice wordnet sobre {query}
 es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,búsqueda wordnet para {query}
 es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,qué dice la palabra neta sobre {query}
 es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,búsqueda palabra red para {query}
 es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregúntele a wordnet sobre {query}
 es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunte la palabra neta sobre {query}
-es,ovos-skill-wordnet.openvoiceos:antonym.intent,cuáles son las antónimos de {query}
-es,ovos-skill-wordnet.openvoiceos:antonym.intent,cuál es la antónima de {query}
-es,ovos-skill-wordnet.openvoiceos:antonym.intent,lo que es una antónima de {query}
-es,ovos-skill-wordnet.openvoiceos:hypernym.intent,lo que es un hipernym de {query}
-es,ovos-skill-wordnet.openvoiceos:hypernym.intent,que son los hipernyms de {query}
-es,ovos-skill-wordnet.openvoiceos:hypernym.intent,lo que es el hipernym de {query}
-es,ovos-skill-wordnet.openvoiceos:hyponym.intent,cuál es el hiponym de {query}
-es,ovos-skill-wordnet.openvoiceos:hyponym.intent,cuáles son las hipónymas de {query}
-es,ovos-skill-wordnet.openvoiceos:hyponym.intent,lo que es un hiponym de {query}
-es,ovos-skill-wordnet.openvoiceos:holonym.intent,lo que es un holonym de {query}
-es,ovos-skill-wordnet.openvoiceos:holonym.intent,lo que es el holonym de {query}
-es,ovos-skill-wordnet.openvoiceos:holonym.intent,que son los holónimos de {query}
-es,ovos-skill-wordnet.openvoiceos:lemma.intent,lo que es un lema de {query}
-es,ovos-skill-wordnet.openvoiceos:lemma.intent,cuál es la lema de {query}
-es,ovos-skill-wordnet.openvoiceos:lemma.intent,cuáles son los lemas de {query}
+es,ovos-skill-wordnet.openvoiceos:definition.intent,cuál es la definición de {query}
+es,ovos-skill-wordnet.openvoiceos:definition.intent,lo que es un {query}
+gl,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,quen morreu hoxe na historia
 gl,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,cóntame que aconteceron este día
 gl,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,cóntame que aconteceron este día na historia
 gl,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,cóntame que aconteceron hoxe
@@ -5764,18 +5765,19 @@ gl,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,dime que acont
 gl,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,este día na historia
 gl,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,hoxe na historia
 gl,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,nesta data na historia
-gl,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,quen morreu hoxe na historia
-gl,common_query:common_query,cal é o eido de especialización de {query}
+gl,common_query:common_query,onde estudou {query}
+gl,common_query:common_query,onde se formou {query}
+gl,common_query:common_query,por que se coñece {query}
+gl,common_query:common_query,por que ten fama {query}
 gl,common_query:common_query,cantos fillos ten {query}
 gl,common_query:common_query,cantos fillos tivo {query}
-gl,common_query:common_query,que é o tema da tese {query}
-gl,common_query:common_query,cal é a data de nacemento de {query}
-gl,common_query:common_query,cando fai anos {query}
-gl,common_query:common_query,cando naceu {query}
-gl,common_query:common_query,cando é o aniversario de que día fai anos {query}
-gl,common_query:common_query,data de nacemento de {query}
-gl,common_query:common_query,día de nacemento de {query}
+gl,common_query:common_query,onde descansan os restos de {query}
+gl,common_query:common_query,onde está enterrado {query}
+gl,common_query:common_query,a que anos morreu {query}
+gl,common_query:common_query,cantos anos tiña {query} cando morreu
+gl,common_query:common_query,cantos anos tiña {query} o día que morreu
 gl,common_query:common_query,quen é {query}
+gl,common_query:common_query,cal é o eido de especialización de {query}
 gl,ovos-skill-ddg.openvoiceos:search_duck.intent,preguntar a duck duck go sobre {query}
 gl,ovos-skill-ddg.openvoiceos:search_duck.intent,preguntar a duck duck por {query}
 gl,ovos-skill-ddg.openvoiceos:search_duck.intent,procurar en duck duck go {query}
@@ -5784,20 +5786,18 @@ gl,ovos-skill-ddg.openvoiceos:search_duck.intent,procurar en duck {query}
 gl,ovos-skill-ddg.openvoiceos:search_duck.intent,que di duck duck go sobre {query}
 gl,ovos-skill-ddg.openvoiceos:search_duck.intent,que di duck duck sobre {query}
 gl,ovos-skill-ddg.openvoiceos:search_duck.intent,que di duck sobre {query}
-gl,common_query:common_query,onde estudou {query}
-gl,common_query:common_query,onde se formou {query}
+gl,common_query:common_query,cal é a data de nacemento de {query}
+gl,common_query:common_query,cando fai anos {query}
+gl,common_query:common_query,cando naceu {query}
+gl,common_query:common_query,cando é o aniversario de que día fai anos {query}
+gl,common_query:common_query,data de nacemento de {query}
+gl,common_query:common_query,día de nacemento de {query}
+gl,common_query:common_query,que é o tema da tese {query}
 gl,common_query:common_query,data da morte de {query}
 gl,common_query:common_query,día da morte de {query}
 gl,common_query:common_query,cando finou {query}
 gl,common_query:common_query,cando morreu {query}
-gl,common_query:common_query,onde descansan os restos de {query}
-gl,common_query:common_query,onde está enterrado {query}
-gl,common_query:common_query,a que anos morreu {query}
-gl,common_query:common_query,cantos anos tiña {query} cando morreu
-gl,common_query:common_query,cantos anos tiña {query} o día que morreu
 gl,common_query:common_query,cal é o sitio web oficial de {query}
-gl,common_query:common_query,por que se coñece {query}
-gl,common_query:common_query,por que ten fama {query}
 gl,ovos-skill-wikihow.openvoiceos:wikihow.intent,explica paso a paso {query}
 gl,ovos-skill-wikihow.openvoiceos:wikihow.intent,paso a paso {query}
 gl,ovos-skill-wikihow.openvoiceos:wikihow.intent,como fago {query}
@@ -5810,6 +5810,20 @@ gl,ovos-skill-wikihow.openvoiceos:wikihow.intent,que di wiki how sobre {query}
 gl,ovos-skill-wikihow.openvoiceos:wikihow.intent,que di wikihow sobre {query}
 gl,ovos-skill-wikihow.openvoiceos:wikihow.intent,que pensa wiki how sobre {query}
 gl,ovos-skill-wikihow.openvoiceos:wikihow.intent,que pensa wikihow sobre {query}
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wiki ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wikipedia ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,dálle á ruleta da wiki
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,dálle á ruleta da wikipedia
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ensinar wiki ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ensinar wikipedia ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,páxina da wiki ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,páxina da wikipedia ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta da wiki
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta da wikipedia
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki ao chou
+gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia ao chou
 gl,ovos-skill-wikipedia.openvoiceos:wiki.intent,fálame de {query} en wiki
 gl,ovos-skill-wikipedia.openvoiceos:wiki.intent,fálame de {query} en wikipedia
 gl,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar detalles sobre {query} en wiki
@@ -5848,20 +5862,6 @@ gl,ovos-skill-wikipedia.openvoiceos:wiki.intent,que se sabe sobre {query} na wik
 gl,ovos-skill-wikipedia.openvoiceos:wiki.intent,que se sabe sobre {query} na wikipedia
 gl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
 gl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wiki ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wikipedia ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,dálle á ruleta da wiki
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,dálle á ruleta da wikipedia
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ensinar wiki ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ensinar wikipedia ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,páxina da wiki ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,páxina da wikipedia ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta da wiki
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta da wikipedia
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki ao chou
-gl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia ao chou
 gl,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,preguntar a wolf {query}
 gl,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,preguntar a wolfram alpha sobre {query}
 gl,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,preguntar a wolfram sobre {query}
@@ -5871,41 +5871,29 @@ gl,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,procurar en wolfram {query
 gl,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,que di wolf sobre {query}
 gl,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,que di wolfram alpha sobre {query}
 gl,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,que di wolfram sobre {query}
-gl,ovos-skill-wordnet.openvoiceos:definition.intent,cal é a definición de {query}
-gl,ovos-skill-wordnet.openvoiceos:definition.intent,que é {query}
+gl,ovos-skill-wordnet.openvoiceos:holonym.intent,cal é o holónimo de {query}
+gl,ovos-skill-wordnet.openvoiceos:holonym.intent,cales son os holónimos de {query}
+gl,ovos-skill-wordnet.openvoiceos:holonym.intent,que é un holónimo de {query}
+gl,ovos-skill-wordnet.openvoiceos:hyponym.intent,cal é o hipónimo de {query}
+gl,ovos-skill-wordnet.openvoiceos:hyponym.intent,cales son os hipónimos de {query}
+gl,ovos-skill-wordnet.openvoiceos:hyponym.intent,que é un hipónimo de {query}
+gl,ovos-skill-wordnet.openvoiceos:lemma.intent,cal é un lema de {query}
+gl,ovos-skill-wordnet.openvoiceos:lemma.intent,cales son os lemas de {query}
+gl,ovos-skill-wordnet.openvoiceos:lemma.intent,que é o lema de {query}
+gl,ovos-skill-wordnet.openvoiceos:hypernym.intent,cal é o hiperónimo de {query}
+gl,ovos-skill-wordnet.openvoiceos:hypernym.intent,cales son os hiperónimos de {query}
+gl,ovos-skill-wordnet.openvoiceos:hypernym.intent,que é un hiperónimo de {query}
+gl,ovos-skill-wordnet.openvoiceos:antonym.intent,cal é o antónimo de {query}
+gl,ovos-skill-wordnet.openvoiceos:antonym.intent,cales son os antónimos de {query}
+gl,ovos-skill-wordnet.openvoiceos:antonym.intent,que é un antónimo de {query}
 gl,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,preguntar a word net sobre {query}
 gl,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,preguntar a wordnet sobre {query}
 gl,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,procurar en word net {query}
 gl,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,procurar en wordnet {query}
 gl,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,que di word net sobre {query}
 gl,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,que di wordnet sobre {query}
-gl,ovos-skill-wordnet.openvoiceos:antonym.intent,cal é o antónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:antonym.intent,cales son os antónimos de {query}
-gl,ovos-skill-wordnet.openvoiceos:antonym.intent,que é un antónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:hypernym.intent,cal é o hiperónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:hypernym.intent,cales son os hiperónimos de {query}
-gl,ovos-skill-wordnet.openvoiceos:hypernym.intent,que é un hiperónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:hyponym.intent,cal é o hipónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:hyponym.intent,cales son os hipónimos de {query}
-gl,ovos-skill-wordnet.openvoiceos:hyponym.intent,que é un hipónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:holonym.intent,cal é o holónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:holonym.intent,cales son os holónimos de {query}
-gl,ovos-skill-wordnet.openvoiceos:holonym.intent,que é un holónimo de {query}
-gl,ovos-skill-wordnet.openvoiceos:lemma.intent,cal é un lema de {query}
-gl,ovos-skill-wordnet.openvoiceos:lemma.intent,cales son os lemas de {query}
-gl,ovos-skill-wordnet.openvoiceos:lemma.intent,que é o lema de {query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wiki naar{query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wiki voor{query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wikipedia naar{query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wikipedia voor{query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wat zegt wiki over {query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wat zegt wikipedia over {query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wiki naar{query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wiki voor{query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wikipedia naar{query}
-nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wikipedia voor{query}
+gl,ovos-skill-wordnet.openvoiceos:definition.intent,cal é a definición de {query}
+gl,ovos-skill-wordnet.openvoiceos:definition.intent,que é {query}
 nl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,geef willekeurige wiki
 nl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,geef willekeurige wikipedia
 nl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,open willekeurige wiki
@@ -5919,10 +5907,42 @@ nl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,willekeurig wiki
 nl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,willekeurig wikipedia
 nl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,willekeurige wiki pagina
 nl,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,willekeurige wikipedia pagina
-fr,common_query:common_query,ce qui est {query} domaine d'expertise
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wiki naar{query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wiki voor{query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wikipedia naar{query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,check wikipedia voor{query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wat zegt wiki over {query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wat zegt wikipedia over {query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wiki naar{query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wiki voor{query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wikipedia naar{query}
+nl,ovos-skill-wikipedia.openvoiceos:wiki.intent,zoek op wikipedia voor{query}
+fr,common_query:common_query,où a obtenu son éducation
+fr,common_query:common_query,où elle a eu l'éducation
+fr,common_query:common_query,où l'a fait étude
+fr,common_query:common_query,c'est quoi connue pour
+fr,common_query:common_query,ce qui est célèbre pour
 fr,common_query:common_query,combien d'enfants ont
 fr,common_query:common_query,combien d'enfants ont fait
-fr,common_query:common_query,c'est quoi sujet de thèse
+fr,common_query:common_query,où est enterré le mot-clé
+fr,common_query:common_query,où est le lieu de repos
+fr,common_query:common_query,le jour où elle est morte
+fr,common_query:common_query,le jour où il est mort
+fr,common_query:common_query,quand elle est morte
+fr,common_query:common_query,quand il est mort
+fr,common_query:common_query,quel âge avait le mot-clé sur sa mort
+fr,common_query:common_query,qui est {query}
+fr,common_query:common_query,ce qui est {query} domaine d'expertise
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,cherche sur duck au sujet de {query}
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,cherche sur duck duck au sujet de {query}
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,cherche sur duck duck go au sujet de {query}
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,demande à duck duck go à propos de {query}
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,demande à duck duck à propos de {query}
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck duck go à propos de {query}
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck duck à propos de {query}
+fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck à propos de {query}
 fr,common_query:common_query,quand est né {query}
 fr,common_query:common_query,quand {query} est né
 fr,common_query:common_query,quelle est la date de naissance de {query}
@@ -5932,33 +5952,30 @@ fr,common_query:common_query,le jour de naissance
 fr,common_query:common_query,quand est la naissance
 fr,common_query:common_query,quand est-ce que c'est anniversaire
 fr,common_query:common_query,quand était né
-fr,common_query:common_query,qui est {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,cherche sur duck au sujet de {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,cherche sur duck duck au sujet de {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,cherche sur duck duck go au sujet de {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,demande à duck duck go à propos de {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,demande à duck duck à propos de {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck duck go à propos de {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck duck à propos de {query}
-fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck à propos de {query}
-fr,common_query:common_query,où a obtenu son éducation
-fr,common_query:common_query,où elle a eu l'éducation
-fr,common_query:common_query,où l'a fait étude
+fr,common_query:common_query,c'est quoi sujet de thèse
+fr,common_query:common_query,c'est quoi alma mater
 fr,common_query:common_query,date de la mort
 fr,common_query:common_query,jour de la mort
 fr,common_query:common_query,quand est-ce qu'il est mort
 fr,common_query:common_query,quand était la mort
-fr,common_query:common_query,où est enterré le mot-clé
-fr,common_query:common_query,où est le lieu de repos
-fr,common_query:common_query,c'est quoi alma mater
-fr,common_query:common_query,le jour où elle est morte
-fr,common_query:common_query,le jour où il est mort
-fr,common_query:common_query,quand elle est morte
-fr,common_query:common_query,quand il est mort
-fr,common_query:common_query,quel âge avait le mot-clé sur sa mort
 fr,common_query:common_query,quel est le site officiel {query}
-fr,common_query:common_query,c'est quoi connue pour
-fr,common_query:common_query,ce qui est célèbre pour
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,affiche le wiki aléatoirement
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,affiche wikipédia aléatoirement
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,joue à wiki roulette
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,joue à wikipédia roulette
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,montre wiki aléatoirement
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,montre wikipédia aléatoirement
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wiki
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wiki aléatoirement
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wikipédia
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wikipédia aléatoirement
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wiki
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wiki aléatoire
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wikipédia
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wikipédia aléatoire
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipédia
+fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipédia roulette
 fr,ovos-skill-wikipedia.openvoiceos:wiki.intent,cherche sur wiki au sujet de {query}
 fr,ovos-skill-wikipedia.openvoiceos:wiki.intent,cherche sur wiki pour {query}
 fr,ovos-skill-wikipedia.openvoiceos:wiki.intent,cherche sur wikipédia au sujet de {query}
@@ -5983,23 +6000,6 @@ fr,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
 fr,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipédia {query}
 fr,ovos-skill-wikipedia.openvoiceos:wiki.intent,{query} sur wiki
 fr,ovos-skill-wikipedia.openvoiceos:wiki.intent,{query} sur wikipédia
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,affiche le wiki aléatoirement
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,affiche wikipédia aléatoirement
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,joue à wiki roulette
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,joue à wikipédia roulette
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,montre wiki aléatoirement
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,montre wikipédia aléatoirement
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wiki
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wiki aléatoirement
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wikipédia
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ouvre wikipédia aléatoirement
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wiki
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wiki aléatoire
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wikipédia
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,page wikipédia aléatoire
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipédia
-fr,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipédia roulette
 fr,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,demande au loup
 fr,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,que dit le loup sur la laque
 fr,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,ce que dit le loup-garou sur
@@ -6008,29 +6008,30 @@ fr,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,chercher wolfram alpha pou
 fr,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,posez-vous au loup-garou alpha sur {query}
 fr,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,posez-vous la question au loup
 fr,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,que dit le wolfram alpha sur {query}
-fr,ovos-skill-wordnet.openvoiceos:definition.intent,qu'est-ce qu'il y a
-fr,ovos-skill-wordnet.openvoiceos:definition.intent,quelle est la définition de {query}
+fr,ovos-skill-wordnet.openvoiceos:holonym.intent,quels sont les holonymes de {query}
+fr,ovos-skill-wordnet.openvoiceos:holonym.intent,ce qui est un holonyme de {query}
+fr,ovos-skill-wordnet.openvoiceos:holonym.intent,quel est l'holonyme de {query}
+fr,ovos-skill-wordnet.openvoiceos:hyponym.intent,qu'est-ce qu'un hyponyme de {query}
+fr,ovos-skill-wordnet.openvoiceos:hyponym.intent,ce sont les hyponymes de {query}
+fr,ovos-skill-wordnet.openvoiceos:hyponym.intent,quel est l'hyponyme de {query}
+fr,ovos-skill-wordnet.openvoiceos:lemma.intent,ce sont les lemmas de {query}
+fr,ovos-skill-wordnet.openvoiceos:lemma.intent,qu'est-ce qu'une lemme de {query}
+fr,ovos-skill-wordnet.openvoiceos:lemma.intent,quelle est la lemme de {query}
+fr,ovos-skill-wordnet.openvoiceos:hypernym.intent,quel est l'hypernyme de {query}
+fr,ovos-skill-wordnet.openvoiceos:hypernym.intent,quels sont les hypernymes de {query}
+fr,ovos-skill-wordnet.openvoiceos:hypernym.intent,ce qui est un hypernyme de {query}
+fr,ovos-skill-wordnet.openvoiceos:antonym.intent,quels sont les antonymes de {query}
+fr,ovos-skill-wordnet.openvoiceos:antonym.intent,quel est l'antonyme de {query}
+fr,ovos-skill-wordnet.openvoiceos:antonym.intent,ce qui est un antonyme de {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,posez un mot net sur {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,ce que le mot net dit sur {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,chercher wordnet pour {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,chercher mot net pour {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demandez à wordnet de {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,ce que dit wordnet sur {query}
-fr,ovos-skill-wordnet.openvoiceos:antonym.intent,quels sont les antonymes de {query}
-fr,ovos-skill-wordnet.openvoiceos:antonym.intent,quel est l'antonyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:antonym.intent,ce qui est un antonyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:hypernym.intent,quel est l'hypernyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:hypernym.intent,quels sont les hypernymes de {query}
-fr,ovos-skill-wordnet.openvoiceos:hypernym.intent,ce qui est un hypernyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:hyponym.intent,qu'est-ce qu'un hyponyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:hyponym.intent,ce sont les hyponymes de {query}
-fr,ovos-skill-wordnet.openvoiceos:hyponym.intent,quel est l'hyponyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:holonym.intent,quels sont les holonymes de {query}
-fr,ovos-skill-wordnet.openvoiceos:holonym.intent,ce qui est un holonyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:holonym.intent,quel est l'holonyme de {query}
-fr,ovos-skill-wordnet.openvoiceos:lemma.intent,ce sont les lemmas de {query}
-fr,ovos-skill-wordnet.openvoiceos:lemma.intent,qu'est-ce qu'une lemme de {query}
-fr,ovos-skill-wordnet.openvoiceos:lemma.intent,quelle est la lemme de {query}
+fr,ovos-skill-wordnet.openvoiceos:definition.intent,qu'est-ce qu'il y a
+fr,ovos-skill-wordnet.openvoiceos:definition.intent,quelle est la définition de {query}
+de,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,wer ist heute in der geschichte gestorben
 de,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,dieser tag in der geschichte
 de,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,dieses datum in der geschichte
 de,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,heute in der geschichte
@@ -6066,20 +6067,24 @@ de,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,welche histori
 de,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,welche historischen ereignissen an diesem tag in der geschichte passiert sind
 de,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,welche historischen ereignissen heute passiert sind
 de,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,welche historischen ereignissen heute in der geschichte passiert sind
-de,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,wer ist heute in der geschichte gestorben
-de,common_query:common_query,was ist das fachgebiet von {query}
+de,common_query:common_query,wo hat {query} ihre ausbildung erhalten
+de,common_query:common_query,wo hat {query} ihre ausbildung gemacht
+de,common_query:common_query,wo hat {query} seine ausbildung erhalten
+de,common_query:common_query,wo hat {query} seine ausbildung gemacht
+de,common_query:common_query,wo hat {query} studiert
+de,common_query:common_query,wofür ist {query} bekannt
+de,common_query:common_query,wofür ist {query} berühmt
 de,common_query:common_query,wie viele kinder hat {query}
 de,common_query:common_query,wie viele kinder hatte {query}
-de,common_query:common_query,was ist {query} diplomarbeitsthema
-de,common_query:common_query,wann ist der geburtstag von {query}
-de,common_query:common_query,wann wurde {query} geboren
-de,common_query:common_query,was ist das geburtsdatum von {query}
-de,common_query:common_query,was ist das geburtstag von {query}
-de,common_query:common_query,was ist der geburtsdatum von {query}
-de,common_query:common_query,was ist der geburtstag von {query}
-de,common_query:common_query,was ist {query} geburtsdatum
-de,common_query:common_query,geburtstag von {query}
+de,common_query:common_query,wo ist das grab von {query}
+de,common_query:common_query,wo ist {query} begraben
+de,common_query:common_query,wie alt war {query} als er starb
+de,common_query:common_query,wie alt war {query} als sie starb
+de,common_query:common_query,wie alt war {query} an dem tag als er starb
+de,common_query:common_query,wie alt war {query} an dem tag als sie starb
+de,common_query:common_query,wie alt war {query} bei seinem tod
 de,common_query:common_query,wer ist {query}
+de,common_query:common_query,was ist das fachgebiet von {query}
 de,ovos-skill-ddg.openvoiceos:search_duck.intent,frage duck duck go nach {query}
 de,ovos-skill-ddg.openvoiceos:search_duck.intent,frage duck duck nach {query}
 de,ovos-skill-ddg.openvoiceos:search_duck.intent,suche auf duck duck go nach {query}
@@ -6089,25 +6094,20 @@ de,ovos-skill-ddg.openvoiceos:search_duck.intent,was sagt die ente über {query}
 de,ovos-skill-ddg.openvoiceos:search_duck.intent,was sagt die duck duck go über {query}
 de,ovos-skill-ddg.openvoiceos:search_duck.intent,was weiß duck duck go über {query}
 de,ovos-skill-ddg.openvoiceos:search_duck.intent,was weiß d d g über {query}
-de,common_query:common_query,wo hat {query} ihre ausbildung erhalten
-de,common_query:common_query,wo hat {query} ihre ausbildung gemacht
-de,common_query:common_query,wo hat {query} seine ausbildung erhalten
-de,common_query:common_query,wo hat {query} seine ausbildung gemacht
-de,common_query:common_query,wo hat {query} studiert
+de,common_query:common_query,wann ist der geburtstag von {query}
+de,common_query:common_query,wann wurde {query} geboren
+de,common_query:common_query,was ist das geburtsdatum von {query}
+de,common_query:common_query,was ist das geburtstag von {query}
+de,common_query:common_query,was ist der geburtsdatum von {query}
+de,common_query:common_query,was ist der geburtstag von {query}
+de,common_query:common_query,was ist {query} geburtsdatum
+de,common_query:common_query,geburtstag von {query}
+de,common_query:common_query,was ist {query} diplomarbeitsthema
+de,common_query:common_query,was ist die universität von {query}
 de,common_query:common_query,wann ist der todestag von {query}
 de,common_query:common_query,wann ist {query} gestorben
 de,common_query:common_query,{query}s todestag
-de,common_query:common_query,wo ist das grab von {query}
-de,common_query:common_query,wo ist {query} begraben
-de,common_query:common_query,was ist die universität von {query}
-de,common_query:common_query,wie alt war {query} als er starb
-de,common_query:common_query,wie alt war {query} als sie starb
-de,common_query:common_query,wie alt war {query} an dem tag als er starb
-de,common_query:common_query,wie alt war {query} an dem tag als sie starb
-de,common_query:common_query,wie alt war {query} bei seinem tod
 de,common_query:common_query,was ist die offizielle website von {query}
-de,common_query:common_query,wofür ist {query} bekannt
-de,common_query:common_query,wofür ist {query} berühmt
 de,ovos-skill-wikihow.openvoiceos:wikihow.intent,schritt für schritt {query}
 de,ovos-skill-wikihow.openvoiceos:wikihow.intent,erkläre schritt für schritt {query}
 de,ovos-skill-wikihow.openvoiceos:wikihow.intent,schritte für {query}
@@ -6120,6 +6120,22 @@ de,ovos-skill-wikihow.openvoiceos:wikihow.intent,suche in wikihow {query}
 de,ovos-skill-wikihow.openvoiceos:wikihow.intent,suche in wikihow nach {query}
 de,ovos-skill-wikihow.openvoiceos:wikihow.intent,was sagt wiki how über {query}
 de,ovos-skill-wikihow.openvoiceos:wikihow.intent,was sagt wikihow über {query}
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roulette
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele das wiki roulette
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele das wikipedia roulette
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele wiki roulette
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele wikipedia roulette
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,starte zufälliges wiki
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,starte zufälliges wikipedia
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zeige zufälliges wiki
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zeige zufälliges wikipedia
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufällige wiki seite
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufällige wikipedia seite
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufälliges wiki
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufälliges wikipedia
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,öffne zufälliges wiki
+de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,öffne zufälliges wikipedia
 de,ovos-skill-wikipedia.openvoiceos:wiki.intent,erzähl mir von {query}
 de,ovos-skill-wikipedia.openvoiceos:wiki.intent,erzähl uns von {query}
 de,ovos-skill-wikipedia.openvoiceos:wiki.intent,finde details zu {query} auf wiki
@@ -6139,22 +6155,6 @@ de,ovos-skill-wikipedia.openvoiceos:wiki.intent,was ist über {query} auf wikipe
 de,ovos-skill-wikipedia.openvoiceos:wiki.intent,was wiki sagt über {query}
 de,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
 de,ovos-skill-wikipedia.openvoiceos:wiki.intent,wkipedia {query}
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roulette
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele das wiki roulette
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele das wikipedia roulette
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele wiki roulette
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spiele wikipedia roulette
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,starte zufälliges wiki
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,starte zufälliges wikipedia
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zeige zufälliges wiki
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zeige zufälliges wikipedia
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufällige wiki seite
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufällige wikipedia seite
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufälliges wiki
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,zufälliges wikipedia
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,öffne zufälliges wiki
-de,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,öffne zufälliges wikipedia
 de,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,frage wolfram alpha über {query}
 de,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,suche wolf für {query}
 de,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,suche den wolf nach {query}
@@ -6165,32 +6165,32 @@ de,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,frage den wolf {query}
 de,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,was sagt wolfram alpha über {query}
 de,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,was sagt wolfram über {query}
 de,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,was sagt der wolf über {query}
-de,ovos-skill-wordnet.openvoiceos:definition.intent,was ist ein {query}
-de,ovos-skill-wordnet.openvoiceos:definition.intent,was ist eine {query}
-de,ovos-skill-wordnet.openvoiceos:definition.intent,was ist die definition von {query}
+de,ovos-skill-wordnet.openvoiceos:holonym.intent,wovon ist {query} ein teil von
+de,ovos-skill-wordnet.openvoiceos:holonym.intent,was ist das holonym von {query}
+de,ovos-skill-wordnet.openvoiceos:holonym.intent,was ist die übergeordnete kategorie von {query}
+de,ovos-skill-wordnet.openvoiceos:holonym.intent,was sind die holonyme von {query}
+de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was ist die unterkategorie {query}
+de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was ist eine unterkategorie von {query}
+de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was sind unterkategorien von {query}
+de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was sind die unterkategorien von {query}
+de,ovos-skill-wordnet.openvoiceos:lemma.intent,was ist das lemma von {query}
+de,ovos-skill-wordnet.openvoiceos:lemma.intent,was ist die grundform von {query}
+de,ovos-skill-wordnet.openvoiceos:lemma.intent,was sind die lemmata von {query}
+de,ovos-skill-wordnet.openvoiceos:hypernym.intent,was ist der oberbegriff für {query}
+de,ovos-skill-wordnet.openvoiceos:hypernym.intent,was ist ein oberbegriff für {query}
+de,ovos-skill-wordnet.openvoiceos:hypernym.intent,was sind oberbegriffe für {query}
+de,ovos-skill-wordnet.openvoiceos:antonym.intent,was das gegenteil von {query}
+de,ovos-skill-wordnet.openvoiceos:antonym.intent,was ist das gegenteil von {query}
+de,ovos-skill-wordnet.openvoiceos:antonym.intent,was sind gegenteile von {query}
 de,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,befrage wordnet über {query}
 de,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,suche im wordnet nach {query}
 de,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,suche im word net nach {query}
 de,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,frage word net nach {query}
 de,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,was sagt wordnet über {query}
 de,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,was sagt word net über {query}
-de,ovos-skill-wordnet.openvoiceos:antonym.intent,was das gegenteil von {query}
-de,ovos-skill-wordnet.openvoiceos:antonym.intent,was ist das gegenteil von {query}
-de,ovos-skill-wordnet.openvoiceos:antonym.intent,was sind gegenteile von {query}
-de,ovos-skill-wordnet.openvoiceos:hypernym.intent,was ist der oberbegriff für {query}
-de,ovos-skill-wordnet.openvoiceos:hypernym.intent,was ist ein oberbegriff für {query}
-de,ovos-skill-wordnet.openvoiceos:hypernym.intent,was sind oberbegriffe für {query}
-de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was ist die unterkategorie {query}
-de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was ist eine unterkategorie von {query}
-de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was sind unterkategorien von {query}
-de,ovos-skill-wordnet.openvoiceos:hyponym.intent,was sind die unterkategorien von {query}
-de,ovos-skill-wordnet.openvoiceos:holonym.intent,wovon ist {query} ein teil von
-de,ovos-skill-wordnet.openvoiceos:holonym.intent,was ist das holonym von {query}
-de,ovos-skill-wordnet.openvoiceos:holonym.intent,was ist die übergeordnete kategorie von {query}
-de,ovos-skill-wordnet.openvoiceos:holonym.intent,was sind die holonyme von {query}
-de,ovos-skill-wordnet.openvoiceos:lemma.intent,was ist das lemma von {query}
-de,ovos-skill-wordnet.openvoiceos:lemma.intent,was ist die grundform von {query}
-de,ovos-skill-wordnet.openvoiceos:lemma.intent,was sind die lemmata von {query}
+de,ovos-skill-wordnet.openvoiceos:definition.intent,was ist ein {query}
+de,ovos-skill-wordnet.openvoiceos:definition.intent,was ist eine {query}
+de,ovos-skill-wordnet.openvoiceos:definition.intent,was ist die definition von {query}
 ca,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,qui nasqué tal dia com avui
 ca,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,qui nasqué tal dia com avui a la història
 ca,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,qui nasqué tal dia com avui en la història
@@ -6203,6 +6203,24 @@ ca,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,qui va néixe
 ca,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,qui va néixer tal dia com hui
 ca,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,qui va néixer tal dia com hui a la història
 ca,ovos-skill-days-in-history.openvoiceos:births_in_history.intent,qui va néixer tal dia com hui en la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com avui
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com avui a la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com avui en la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com hui
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com hui a la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com hui en la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com avui
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com avui a la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com avui en la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com hui
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com hui a la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com hui en la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com avui
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com avui a la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com avui en la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com hui
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com hui a la història
+ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com hui en la història
 ca,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,aquesta data
 ca,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,aquesta data a la història
 ca,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,aquesta data en la història
@@ -7301,45 +7319,35 @@ ca,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,tal dia com av
 ca,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,tal dia com hui
 ca,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,tal dia com hui a la història
 ca,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,tal dia com hui en la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com avui
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com avui a la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com avui en la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com hui
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com hui a la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morir tal dia com hui en la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com avui
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com avui a la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com avui en la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com hui
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com hui a la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui morí tal dia com hui en la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com avui
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com avui a la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com avui en la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com hui
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com hui a la història
-ca,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,qui va morir tal dia com hui en la història
-ca,common_query:common_query,quin és l'àmbit d'expertesa de {query}
+ca,common_query:common_query,on estudià {query}
+ca,common_query:common_query,on va estudiar {query}
+ca,common_query:common_query,on estudià {query}?
+ca,common_query:common_query,on va estudiar {query}?
+ca,common_query:common_query,per a què es coneix {query}
+ca,common_query:common_query,per què és famós {query}
 ca,common_query:common_query,quants fills te {query}
 ca,common_query:common_query,quants fills tingué {query}
 ca,common_query:common_query,quants fills té {query}
 ca,common_query:common_query,quants fills va tenir {query}
-ca,common_query:common_query,quin és el tema de la tesi de {query}
-ca,common_query:common_query,quan és l'aniversari d' {query}
-ca,common_query:common_query,quan és l'aniversari de {query}
-ca,common_query:common_query,quin és l'aniversari d' {query}
-ca,common_query:common_query,quin és l'aniversari de {query}
-ca,common_query:common_query,quan va nàixer {query}
-ca,common_query:common_query,quan va néixer {query}
-ca,common_query:common_query,quina és la data de naixement d' {query}
-ca,common_query:common_query,quina és la data de naixement de {query}
-ca,common_query:common_query,quan nasqué {query}
-ca,common_query:common_query,quan és {query} aniversari
-ca,common_query:common_query,quan és {query} dia de naixement
-ca,common_query:common_query,quan és {query} naixement
-ca,common_query:common_query,{query} data de naixement
-ca,common_query:common_query,{query} dia de naixement
+ca,common_query:common_query,on està enterrat {query}
+ca,common_query:common_query,on és enterrat {query}
+ca,common_query:common_query,on està la tomba de {query}
+ca,common_query:common_query,on és la tomba de {query}
+ca,common_query:common_query,quants anys tenia {query} el dia que morí
+ca,common_query:common_query,quants anys tenia {query} el dia que va morir
+ca,common_query:common_query,quants anys tenia {query} el dia que ell morí
+ca,common_query:common_query,quants anys tenia {query} el dia que ell va morir
+ca,common_query:common_query,quants anys tenia {query} el dia que ella morí
+ca,common_query:common_query,quants anys tenia {query} el dia que ella va morir
+ca,common_query:common_query,quants anys tenia {query} en morir
+ca,common_query:common_query,quants anys tenia {query} quan morí
+ca,common_query:common_query,quants anys tenia {query} quan va morir
+ca,common_query:common_query,quants anys tenia {query} quan ell morí
+ca,common_query:common_query,quants anys tenia {query} quan ell va morir
+ca,common_query:common_query,quants anys tenia {query} quan ella morí
+ca,common_query:common_query,quants anys tenia {query} quan ella va morir
 ca,common_query:common_query,qui és {query}
+ca,common_query:common_query,quin és l'àmbit d'expertesa de {query}
 ca,ovos-skill-ddg.openvoiceos:search_duck.intent,busca a ddg {query}
 ca,ovos-skill-ddg.openvoiceos:search_duck.intent,busca a de de ge {query}
 ca,ovos-skill-ddg.openvoiceos:search_duck.intent,busca a duck duck go {query}
@@ -7444,37 +7452,29 @@ ca,ovos-skill-ddg.openvoiceos:search_duck.intent,què posa al duck duck go de {q
 ca,ovos-skill-ddg.openvoiceos:search_duck.intent,què posa al duck duck go sobre {query}
 ca,ovos-skill-ddg.openvoiceos:search_duck.intent,què posa al l'ànec de {query}
 ca,ovos-skill-ddg.openvoiceos:search_duck.intent,què posa al l'ànec sobre {query}
-ca,common_query:common_query,on estudià {query}
-ca,common_query:common_query,on va estudiar {query}
-ca,common_query:common_query,on estudià {query}?
-ca,common_query:common_query,on va estudiar {query}?
+ca,common_query:common_query,quan és l'aniversari d' {query}
+ca,common_query:common_query,quan és l'aniversari de {query}
+ca,common_query:common_query,quin és l'aniversari d' {query}
+ca,common_query:common_query,quin és l'aniversari de {query}
+ca,common_query:common_query,quan va nàixer {query}
+ca,common_query:common_query,quan va néixer {query}
+ca,common_query:common_query,quina és la data de naixement d' {query}
+ca,common_query:common_query,quina és la data de naixement de {query}
+ca,common_query:common_query,quan nasqué {query}
+ca,common_query:common_query,quan és {query} aniversari
+ca,common_query:common_query,quan és {query} dia de naixement
+ca,common_query:common_query,quan és {query} naixement
+ca,common_query:common_query,{query} data de naixement
+ca,common_query:common_query,{query} dia de naixement
+ca,common_query:common_query,quin és el tema de la tesi de {query}
+ca,common_query:common_query,quina és l'alma mater de {query}
 ca,common_query:common_query,quan morí {query}
 ca,common_query:common_query,quan va morir {query}
 ca,common_query:common_query,quan fou la mort de {query}
 ca,common_query:common_query,quan va ser la mort de {query}
 ca,common_query:common_query,{query} data de la mort
 ca,common_query:common_query,{query} dia de la mort
-ca,common_query:common_query,on està enterrat {query}
-ca,common_query:common_query,on és enterrat {query}
-ca,common_query:common_query,on està la tomba de {query}
-ca,common_query:common_query,on és la tomba de {query}
-ca,common_query:common_query,quina és l'alma mater de {query}
-ca,common_query:common_query,quants anys tenia {query} el dia que morí
-ca,common_query:common_query,quants anys tenia {query} el dia que va morir
-ca,common_query:common_query,quants anys tenia {query} el dia que ell morí
-ca,common_query:common_query,quants anys tenia {query} el dia que ell va morir
-ca,common_query:common_query,quants anys tenia {query} el dia que ella morí
-ca,common_query:common_query,quants anys tenia {query} el dia que ella va morir
-ca,common_query:common_query,quants anys tenia {query} en morir
-ca,common_query:common_query,quants anys tenia {query} quan morí
-ca,common_query:common_query,quants anys tenia {query} quan va morir
-ca,common_query:common_query,quants anys tenia {query} quan ell morí
-ca,common_query:common_query,quants anys tenia {query} quan ell va morir
-ca,common_query:common_query,quants anys tenia {query} quan ella morí
-ca,common_query:common_query,quants anys tenia {query} quan ella va morir
 ca,common_query:common_query,quin és el lloc web oficial de {query}
-ca,common_query:common_query,per a què es coneix {query}
-ca,common_query:common_query,per què és famós {query}
 ca,ovos-skill-fuster-quotes.openvoiceos:who.intent,que era fuster
 ca,ovos-skill-fuster-quotes.openvoiceos:who.intent,que era joan fuster
 ca,ovos-skill-fuster-quotes.openvoiceos:who.intent,que fou fuster
@@ -7606,6 +7606,82 @@ ca,ovos-skill-wikihow.openvoiceos:wikihow.intent,què indicawiki how sobre {quer
 ca,ovos-skill-wikihow.openvoiceos:wikihow.intent,què indicawikihow sobre {query}
 ca,ovos-skill-wikihow.openvoiceos:wikihow.intent,què pensawiki how sobre {query}
 ca,ovos-skill-wikihow.openvoiceos:wikihow.intent,què pensawikihow sobre {query}
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viqui a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viqui aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viqui aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viquipèdia a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viquipèdia aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viquipèdia aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wiki a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wiki aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wiki aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wikipedia a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wikipedia aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wikipedia aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wiki roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wiki ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wikipedia roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wikipedia ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wiki roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wiki ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wikipedia roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wikipedia ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wiki roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wiki ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wikipedia roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wikipedia ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viqui a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viqui aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viqui aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viquipèdia a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viquipèdia aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viquipèdia aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wiki a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wiki aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wiki aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wikipedia a l'atzar
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wikipedia aleatori
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wikipedia aleatòria
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta viqui
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta viquipèdia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta wiki
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta wikipedia
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viqui roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viqui ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viquipèdia roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viquipèdia ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki ruleta
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roda
+ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia ruleta
 ca,ovos-skill-wikipedia.openvoiceos:wiki.intent,busca a la viqui {query}
 ca,ovos-skill-wikipedia.openvoiceos:wiki.intent,busca a la viqui qui era {query}
 ca,ovos-skill-wikipedia.openvoiceos:wiki.intent,busca a la viqui sobre {query}
@@ -7774,82 +7850,6 @@ ca,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki sobre {query}
 ca,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
 ca,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia qui era {query}
 ca,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia sobre {query}
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article a l'atzar de la wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatori de la wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article aleatòria de la wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viqui a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viqui aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viqui aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viquipèdia a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viquipèdia aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article viquipèdia aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wiki a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wiki aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wiki aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wikipedia a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wikipedia aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,article wikipedia aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wiki roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wiki ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wikipedia roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juga a la wikipedia ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wiki roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wiki ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wikipedia roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jugar a la wikipedia ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wiki roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wiki ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wikipedia roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,juguem a la wikipedia ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina a l'atzar de la wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatori de la wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina aleatòria de la wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viqui a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viqui aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viqui aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viquipèdia a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viquipèdia aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina viquipèdia aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wiki a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wiki aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wiki aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wikipedia a l'atzar
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wikipedia aleatori
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,pàgina wikipedia aleatòria
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roda wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta viqui
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta viquipèdia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta wiki
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,ruleta wikipedia
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viqui roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viqui ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viquipèdia roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,viquipèdia ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki ruleta
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roda
-ca,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia ruleta
 ca,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,busca a wolfram {query}
 ca,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,busca a wolfram sobre {query}
 ca,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,cerca a wolfram {query}
@@ -7890,252 +7890,61 @@ ca,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,què diu wolfram alfa de {
 ca,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,què diu wolfram alfa sobre {query}
 ca,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,què explica wolfram alfa de {query}
 ca,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,què explica wolfram alfa sobre {query}
-ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és la definició d' {query}
-ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és la definició de {query}
-ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és sa definició d' {query}
-ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és sa definició de {query}
-ca,ovos-skill-wordnet.openvoiceos:definition.intent,què és {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca a la xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca al diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca al tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca en el diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca en el tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca en la xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca a la xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca al diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca al tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca en el diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca en el tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca en la xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} a la xarxa de mots
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} al diccionari de sinònims
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} al tesaure
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca {query} a la xarxa de mots
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca {query} al diccionari de sinònims
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca {query} al tesaure
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana a la xarxa de mots sobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al diccionari de sinònims sobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al tesaure sobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta a la xarxa de mots sobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al diccionari de sinònims sobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al tesaure sobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana a la xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta a la xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònimsd' {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònimsde {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònimssobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesaured' {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesaurede {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesauresobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de motsd' {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de motsde {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de motssobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònims {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònimsd' {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònimsde {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònimssobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesaure {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesaured' {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesaurede {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesauresobre {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de mots {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de motsd' {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de motsde {query}
-ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de motssobre {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quin és antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quin és l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quin és s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber l'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber s'antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quins són els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber els antònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,què és un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber un antònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber el hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber el sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber es hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber es sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber l'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber l'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber s'hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber s'sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quins són els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quins són els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber els hiperònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber els sinònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,què és un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,què és un sinònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber un hiperònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quin és holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quin és l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quin és s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber l'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber s'holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quins són els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber els holònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,què és un holònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber un holònim de {query}
 ca,ovos-skill-wordnet.openvoiceos:hyponym.intent,digue'm els hipònims de {query}
 ca,ovos-skill-wordnet.openvoiceos:hyponym.intent,digue'm els termes més especialitzats de {query}
 ca,ovos-skill-wordnet.openvoiceos:hyponym.intent,digue'm els termes més específics de {query}
@@ -8433,61 +8242,6 @@ ca,ovos-skill-wordnet.openvoiceos:hyponym.intent,què és un terme més específ
 ca,ovos-skill-wordnet.openvoiceos:hyponym.intent,vull saber un hipònim de {query}
 ca,ovos-skill-wordnet.openvoiceos:hyponym.intent,vull saber un terme més especialitzat de {query}
 ca,ovos-skill-wordnet.openvoiceos:hyponym.intent,vull saber un terme més específic de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quin és holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quin és l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quin és s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber l'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber s'holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,quins són els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber els holònims de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digue'm un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,digues-me un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dona'm un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,dóna'm un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,indica'm un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,què és un holònim de {query}
-ca,ovos-skill-wordnet.openvoiceos:holonym.intent,vull saber un holònim de {query}
 ca,ovos-skill-wordnet.openvoiceos:lemma.intent,digue'me quin lema té {query}
 ca,ovos-skill-wordnet.openvoiceos:lemma.intent,digues quin lema té {query}
 ca,ovos-skill-wordnet.openvoiceos:lemma.intent,dis-me quin lema té {query}
@@ -8524,12 +8278,252 @@ ca,ovos-skill-wordnet.openvoiceos:lemma.intent,quins són els lemes d' {query}
 ca,ovos-skill-wordnet.openvoiceos:lemma.intent,quins són els lemes de {query}
 ca,ovos-skill-wordnet.openvoiceos:lemma.intent,quins són els lemes per a {query}
 ca,ovos-skill-wordnet.openvoiceos:lemma.intent,quins són els lemes per {query}
-it,common_query:common_query,quand'è il compleanno di {query}
-it,common_query:common_query,quando è il compleanno di {query}
-it,common_query:common_query,quand'è nata {query}
-it,common_query:common_query,quand'è nato {query}
-it,common_query:common_query,quando è nata {query}
-it,common_query:common_query,quando è nato {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quin és s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber el hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber el sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber es hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber es sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber l'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber l'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber s'hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber s'sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quins són els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,quins són els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber els hiperònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber els sinònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digue'm un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,digues-me un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dona'm un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,dóna'm un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,indica'm un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,què és un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,què és un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber un hiperònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:hypernym.intent,vull saber un sinònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quin és antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quin és l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quin és s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber l'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber s'antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,quins són els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber els antònims de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digue'm un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,digues-me un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dona'm un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,dóna'm un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,indica'm un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,què és un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:antonym.intent,vull saber un antònim de {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca a la xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca al diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca al tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca en el diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca en el tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca en la xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca a la xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca al diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca al tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca en el diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca en el tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca en la xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} a la xarxa de mots
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} al diccionari de sinònims
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} al tesaure
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca {query} a la xarxa de mots
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca {query} al diccionari de sinònims
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,cerca {query} al tesaure
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana a la xarxa de mots sobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al diccionari de sinònims sobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al tesaure sobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta a la xarxa de mots sobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al diccionari de sinònims sobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al tesaure sobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana a la xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demana al tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta a la xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta al tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònimsd' {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònimsde {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el diccionari de sinònimssobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesaured' {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesaurede {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu el tesauresobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de motsd' {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de motsde {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu la xarxa de motssobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònims {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònimsd' {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònimsde {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es diccionari de sinònimssobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesaure {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesaured' {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesaurede {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu es tesauresobre {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de mots {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de motsd' {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de motsde {query}
+ca,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,què diu sa xarxa de motssobre {query}
+ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és la definició d' {query}
+ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és la definició de {query}
+ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és sa definició d' {query}
+ca,ovos-skill-wordnet.openvoiceos:definition.intent,quina és sa definició de {query}
+ca,ovos-skill-wordnet.openvoiceos:definition.intent,què és {query}
 it,common_query:common_query,chi è {query}
 it,ovos-skill-ddg.openvoiceos:search_duck.intent,cerca con duck duck {query}
 it,ovos-skill-ddg.openvoiceos:search_duck.intent,cerca con duck duck go {query}
@@ -8539,6 +8533,12 @@ it,ovos-skill-ddg.openvoiceos:search_duck.intent,cerca {query} con duck duck
 it,ovos-skill-ddg.openvoiceos:search_duck.intent,cerca {query} con duck duck go
 it,ovos-skill-ddg.openvoiceos:search_duck.intent,cerca {query} su duck duck
 it,ovos-skill-ddg.openvoiceos:search_duck.intent,cerca {query} su duck duck go
+it,common_query:common_query,quand'è il compleanno di {query}
+it,common_query:common_query,quando è il compleanno di {query}
+it,common_query:common_query,quand'è nata {query}
+it,common_query:common_query,quand'è nato {query}
+it,common_query:common_query,quando è nata {query}
+it,common_query:common_query,quando è nato {query}
 it,common_query:common_query,qual è il sito di {query}
 it,common_query:common_query,qual è il sito ufficiale di {query}
 it,ovos-skill-wikihow.openvoiceos:wikihow.intent,mostra passo dopo passo {query}
@@ -8626,130 +8626,6 @@ it,ovos-skill-wikihow.openvoiceos:wikihow.intent,cosa pensa wikihow sull' {query
 it,ovos-skill-wikihow.openvoiceos:wikihow.intent,cosa pensa wikihow sulla {query}
 it,ovos-skill-wikihow.openvoiceos:wikihow.intent,cosa pensa wikihow sulle {query}
 it,ovos-skill-wikihow.openvoiceos:wikihow.intent,cosa pensa wikihow sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cerca su wikipedia {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cerca su wiki {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su gli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su i {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su il {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su l' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su la {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su le {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su lo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sugli {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sui {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sul {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sull' {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sulla {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sulle {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sullo {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
-it,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
 it,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,attiva wikipedia roulette
 it,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,attiva roulette wikipedia
 it,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,attiva roulette wiki
@@ -9070,6 +8946,130 @@ it,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki a caso
 it,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki casuale
 it,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki random
 it,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cerca su wikipedia {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cerca su wiki {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wikipedia sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa afferma wiki sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wikipedia sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è scritto su wiki sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wikipedia sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa c'è su wiki sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wikipedia sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su gli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su i {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su il {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su l' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su la {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su le {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su lo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki su {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sugli {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sui {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sul {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sull' {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sulla {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sulle {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,cosa dice wiki sullo {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
+it,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
 it,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,che cosa dice wolfram degli {query}
 it,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,che cosa dice wolfram dei {query}
 it,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,che cosa dice wolfram del {query}
@@ -9287,29 +9287,30 @@ it,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,chiedi al lupo sull' {quer
 it,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,chiedi al lupo sulla {query}
 it,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,chiedi al lupo sulle {query}
 it,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,chiedi al lupo sullo {query}
-it,ovos-skill-wordnet.openvoiceos:definition.intent,qual è la definizione di {query}
-it,ovos-skill-wordnet.openvoiceos:definition.intent,che cosa è un {query}
+it,ovos-skill-wordnet.openvoiceos:holonym.intent,quali sono gli oloni di {query}
+it,ovos-skill-wordnet.openvoiceos:holonym.intent,qual è l'omonimo di {query}
+it,ovos-skill-wordnet.openvoiceos:holonym.intent,che cosa è un omonimo di {query}
+it,ovos-skill-wordnet.openvoiceos:hyponym.intent,che cosa è un iponimo di {query}
+it,ovos-skill-wordnet.openvoiceos:hyponym.intent,quali sono gli ionimi di {query}
+it,ovos-skill-wordnet.openvoiceos:hyponym.intent,qual è l'iponimo di {query}
+it,ovos-skill-wordnet.openvoiceos:lemma.intent,quali sono i lemmi di {query}
+it,ovos-skill-wordnet.openvoiceos:lemma.intent,che cosa è un lemma di {query}
+it,ovos-skill-wordnet.openvoiceos:lemma.intent,che cosa è il lemma di {query}
+it,ovos-skill-wordnet.openvoiceos:hypernym.intent,che cosa è un ipernimo di {query}
+it,ovos-skill-wordnet.openvoiceos:hypernym.intent,qual è l'ipernimo di {query}
+it,ovos-skill-wordnet.openvoiceos:hypernym.intent,quali sono gli ipernimi di {query}
+it,ovos-skill-wordnet.openvoiceos:antonym.intent,quali sono gli antoni di {query}
+it,ovos-skill-wordnet.openvoiceos:antonym.intent,qual è l'anonimo di {query}
+it,ovos-skill-wordnet.openvoiceos:antonym.intent,che cosa è un antonym di {query}
 it,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,chiedere wordnet su {query}
 it,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,ricerca wordnet per {query}
 it,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,che cosa dice wordnet su {query}
 it,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,che cosa dice net su {query}
 it,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,chiedere parola net su {query}
 it,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,parola di ricerca net per {query}
-it,ovos-skill-wordnet.openvoiceos:antonym.intent,quali sono gli antoni di {query}
-it,ovos-skill-wordnet.openvoiceos:antonym.intent,qual è l'anonimo di {query}
-it,ovos-skill-wordnet.openvoiceos:antonym.intent,che cosa è un antonym di {query}
-it,ovos-skill-wordnet.openvoiceos:hypernym.intent,che cosa è un ipernimo di {query}
-it,ovos-skill-wordnet.openvoiceos:hypernym.intent,qual è l'ipernimo di {query}
-it,ovos-skill-wordnet.openvoiceos:hypernym.intent,quali sono gli ipernimi di {query}
-it,ovos-skill-wordnet.openvoiceos:hyponym.intent,che cosa è un iponimo di {query}
-it,ovos-skill-wordnet.openvoiceos:hyponym.intent,quali sono gli ionimi di {query}
-it,ovos-skill-wordnet.openvoiceos:hyponym.intent,qual è l'iponimo di {query}
-it,ovos-skill-wordnet.openvoiceos:holonym.intent,quali sono gli oloni di {query}
-it,ovos-skill-wordnet.openvoiceos:holonym.intent,qual è l'omonimo di {query}
-it,ovos-skill-wordnet.openvoiceos:holonym.intent,che cosa è un omonimo di {query}
-it,ovos-skill-wordnet.openvoiceos:lemma.intent,quali sono i lemmi di {query}
-it,ovos-skill-wordnet.openvoiceos:lemma.intent,che cosa è un lemma di {query}
-it,ovos-skill-wordnet.openvoiceos:lemma.intent,che cosa è il lemma di {query}
+it,ovos-skill-wordnet.openvoiceos:definition.intent,qual è la definizione di {query}
+it,ovos-skill-wordnet.openvoiceos:definition.intent,che cosa è un {query}
+da,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,hvem døde i dag i historien
 da,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,denne dag i historien
 da,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,denne dato i historien
 da,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,fortæl mig om skete den {date}
@@ -9345,41 +9346,40 @@ da,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,hvad historisk
 da,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,hvad historiske begivenheder skete i dag
 da,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,hvad historiske begivenheder skete i dag i historien
 da,ovos-skill-days-in-history.openvoiceos:today_in_history.intent,i dag i historien
-da,ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent,hvem døde i dag i historien
-da,common_query:common_query,hvad er {query} ekspertiseområde
+da,common_query:common_query,hvor fik {query} hendes uddannelse
+da,common_query:common_query,hvor fik {query} sin uddannelse
+da,common_query:common_query,hvor studerede {query}
+da,common_query:common_query,hvad er {query} berømt for
+da,common_query:common_query,hvad er {query} kendt for
 da,common_query:common_query,hvor mange børn har {query} har
-da,common_query:common_query,hvad er {query} specialeemne
-da,common_query:common_query,hvad er {query} fødselsdag
-da,common_query:common_query,hvad er {query} fødselsdato
-da,common_query:common_query,hvornår blev {query} født
-da,common_query:common_query,hvornår er {query} fødselsdag
-da,common_query:common_query,{query} dag for fødsel
-da,common_query:common_query,{query} dato for fødsel
+da,common_query:common_query,hvor er {query} hvilested
+da,common_query:common_query,hvor ligger {query} begravet
+da,common_query:common_query,hvor gammel var {query} den dag han døde
+da,common_query:common_query,hvor gammel var {query} den dag hun døde
+da,common_query:common_query,hvor gammel var {query} ved hans død
+da,common_query:common_query,hvor gammel var {query} ​​da han døde
+da,common_query:common_query,hvor gammel var {query} ​​da hun døde
 da,common_query:common_query,hvem er {query}
+da,common_query:common_query,hvad er {query} ekspertiseområde
 da,ovos-skill-ddg.openvoiceos:search_duck.intent,hvad siger duck duck go om {query}
 da,ovos-skill-ddg.openvoiceos:search_duck.intent,hvad siger duck duck om {query}
 da,ovos-skill-ddg.openvoiceos:search_duck.intent,spørg duck duck om {query}
 da,ovos-skill-ddg.openvoiceos:search_duck.intent,søg duck duck efter {query}
 da,ovos-skill-ddg.openvoiceos:search_duck.intent,søg duck duck go efter {query}
 da,ovos-skill-ddg.openvoiceos:search_duck.intent,søg i duck duck efter {query}
-da,common_query:common_query,hvor fik {query} hendes uddannelse
-da,common_query:common_query,hvor fik {query} sin uddannelse
-da,common_query:common_query,hvor studerede {query}
+da,common_query:common_query,hvad er {query} fødselsdag
+da,common_query:common_query,hvad er {query} fødselsdato
+da,common_query:common_query,hvornår blev {query} født
+da,common_query:common_query,hvornår er {query} fødselsdag
+da,common_query:common_query,{query} dag for fødsel
+da,common_query:common_query,{query} dato for fødsel
+da,common_query:common_query,hvad er {query} specialeemne
+da,common_query:common_query,hvad er {query} alma mater
 da,common_query:common_query,hvornår døde {query}
 da,common_query:common_query,hvornår var {query} død
 da,common_query:common_query,{query} dag for død
 da,common_query:common_query,{query} dato for død
-da,common_query:common_query,hvor er {query} hvilested
-da,common_query:common_query,hvor ligger {query} begravet
-da,common_query:common_query,hvad er {query} alma mater
-da,common_query:common_query,hvor gammel var {query} den dag han døde
-da,common_query:common_query,hvor gammel var {query} den dag hun døde
-da,common_query:common_query,hvor gammel var {query} ved hans død
-da,common_query:common_query,hvor gammel var {query} ​​da han døde
-da,common_query:common_query,hvor gammel var {query} ​​da hun døde
 da,common_query:common_query,hvad er {query} officielle hjemmeside
-da,common_query:common_query,hvad er {query} berømt for
-da,common_query:common_query,hvad er {query} kendt for
 da,ovos-skill-wikihow.openvoiceos:wikihow.intent,forklar trin for trin {query}
 da,ovos-skill-wikihow.openvoiceos:wikihow.intent,trin for trin {query}
 da,ovos-skill-wikihow.openvoiceos:wikihow.intent,hvordan kan jeg {query}
@@ -9400,14 +9400,6 @@ da,ovos-skill-wikihow.openvoiceos:wikihow.intent,søg wiki how for {query}
 da,ovos-skill-wikihow.openvoiceos:wikihow.intent,søg wikihow {query}
 da,ovos-skill-wikihow.openvoiceos:wikihow.intent,søg wikihow efter {query}
 da,ovos-skill-wikihow.openvoiceos:wikihow.intent,søg wikihow for {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,hvad siger wiki om {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,hvad siger wikipedia om {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,søg wiki for {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,søg wikipedia for {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,tjek wiki for {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,tjek wikipedia for {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
-da,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
 da,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spil wiki roulette
 da,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,spil wikipedia roulette
 da,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,tilfældig wiki
@@ -9420,6 +9412,14 @@ da,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roulette
 da,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roulette
 da,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,åben tilfældig wiki
 da,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,åben tilfældig wikipedia
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,hvad siger wiki om {query}
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,hvad siger wikipedia om {query}
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,søg wiki for {query}
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,søg wikipedia for {query}
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,tjek wiki for {query}
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,tjek wikipedia for {query}
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
+da,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
 da,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,hvad siger ulven om {query}
 da,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,hvad siger wolfram alpha om {query}
 da,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,hvad siger wolfram om {query}
@@ -9429,26 +9429,26 @@ da,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,spørg wolframen om {query
 da,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,søg i ulven efter {query}
 da,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,søg i wolfram alpha efter {query}
 da,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,søg i wolfram efter {query}
-da,ovos-skill-wordnet.openvoiceos:definition.intent,hvad er definitionen af ​​{query}
-da,ovos-skill-wordnet.openvoiceos:definition.intent,hvad er en {forespørgsel}
+da,ovos-skill-wordnet.openvoiceos:holonym.intent,hvad er et holonym til {query}
+da,ovos-skill-wordnet.openvoiceos:holonym.intent,hvad er holonymerne for {query}
+da,ovos-skill-wordnet.openvoiceos:holonym.intent,hvad er holonymet til {query}
+da,ovos-skill-wordnet.openvoiceos:hyponym.intent,hvad er et hyponym af {query}
+da,ovos-skill-wordnet.openvoiceos:hyponym.intent,hvad er hyponymer af {query}
+da,ovos-skill-wordnet.openvoiceos:hyponym.intent,hvad er hyponymet for {forespørgsel}
+da,ovos-skill-wordnet.openvoiceos:lemma.intent,hvad er et lemma for {query}
+da,ovos-skill-wordnet.openvoiceos:lemma.intent,hvad er lemmaerne i {query}
+da,ovos-skill-wordnet.openvoiceos:lemma.intent,hvad er lemmaet for {query}
+da,ovos-skill-wordnet.openvoiceos:hypernym.intent,hvad er et hypernym af {query}
+da,ovos-skill-wordnet.openvoiceos:hypernym.intent,hvad er hypernym af {forespørgsel}
+da,ovos-skill-wordnet.openvoiceos:hypernym.intent,hvad er hypernymerne for {query}
+da,ovos-skill-wordnet.openvoiceos:antonym.intent,hvad er antonymerne til {query}
+da,ovos-skill-wordnet.openvoiceos:antonym.intent,hvad er antonymet til {query}
+da,ovos-skill-wordnet.openvoiceos:antonym.intent,hvad er et antonym til {query}
 da,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,hvad siger word net om {query}
 da,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,hvad siger wordnet om {query}
 da,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,spørg word net om {query}
 da,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,spørg wordnet om {query}
 da,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,søg i wordnet efter {query}
 da,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,søgeord net for {query}
-da,ovos-skill-wordnet.openvoiceos:antonym.intent,hvad er antonymerne til {query}
-da,ovos-skill-wordnet.openvoiceos:antonym.intent,hvad er antonymet til {query}
-da,ovos-skill-wordnet.openvoiceos:antonym.intent,hvad er et antonym til {query}
-da,ovos-skill-wordnet.openvoiceos:hypernym.intent,hvad er et hypernym af {query}
-da,ovos-skill-wordnet.openvoiceos:hypernym.intent,hvad er hypernym af {forespørgsel}
-da,ovos-skill-wordnet.openvoiceos:hypernym.intent,hvad er hypernymerne for {query}
-da,ovos-skill-wordnet.openvoiceos:hyponym.intent,hvad er et hyponym af {query}
-da,ovos-skill-wordnet.openvoiceos:hyponym.intent,hvad er hyponymer af {query}
-da,ovos-skill-wordnet.openvoiceos:hyponym.intent,hvad er hyponymet for {forespørgsel}
-da,ovos-skill-wordnet.openvoiceos:holonym.intent,hvad er et holonym til {query}
-da,ovos-skill-wordnet.openvoiceos:holonym.intent,hvad er holonymerne for {query}
-da,ovos-skill-wordnet.openvoiceos:holonym.intent,hvad er holonymet til {query}
-da,ovos-skill-wordnet.openvoiceos:lemma.intent,hvad er et lemma for {query}
-da,ovos-skill-wordnet.openvoiceos:lemma.intent,hvad er lemmaerne i {query}
-da,ovos-skill-wordnet.openvoiceos:lemma.intent,hvad er lemmaet for {query}
+da,ovos-skill-wordnet.openvoiceos:definition.intent,hvad er definitionen af ​​{query}
+da,ovos-skill-wordnet.openvoiceos:definition.intent,hvad er en {forespørgsel}

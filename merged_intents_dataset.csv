@@ -21121,6 +21121,35 @@ es,ovos-skill-moviemaster.openvoiceos:movie.cast.intent,quién actúa en la pel�
 es,ovos-skill-moviemaster.openvoiceos:movie.cast.intent,quién está en la película {movie}
 es,ovos-skill-moviemaster.openvoiceos:movie.cast.intent,quién sale en la película {movie}
 es,ovos-skill-moviemaster.openvoiceos:movie.cast.intent,quién trabaja en la película {movie}
+es,ovos-skill-naptime.openvoiceos:naptime.intent,comienza la hora de dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,entra en el mundo de los sueños
+es,ovos-skill-naptime.openvoiceos:naptime.intent,entra en modo silencioso
+es,ovos-skill-naptime.openvoiceos:naptime.intent,es hora de dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicia el modo dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicia el sueño
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicia el tiempo de silencio
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicia modo siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,tengamos un momento de tranquilidad
+es,ovos-skill-naptime.openvoiceos:naptime.intent,vamos a dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,vamos a echar una siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,activa el modo dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,comienza la sesión de sueño
+es,ovos-skill-naptime.openvoiceos:naptime.intent,empieza a dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,empieza el intervalo de sueño
+es,ovos-skill-naptime.openvoiceos:naptime.intent,empieza la hora de la siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,empieza la siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,empieza la siesta reponedora
+es,ovos-skill-naptime.openvoiceos:naptime.intent,entra en hibernación
+es,ovos-skill-naptime.openvoiceos:naptime.intent,entra en modo dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,entra en modo reposo
+es,ovos-skill-naptime.openvoiceos:naptime.intent,entrar en modo dormir
+es,ovos-skill-naptime.openvoiceos:naptime.intent,hora de la siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicia el modo siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicia el tiempo de inactividad
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicia la siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,inicio del período de siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,tiempo para una siesta
+es,ovos-skill-naptime.openvoiceos:naptime.intent,ve a dormir
 es,ovos-skill-news.openvoiceos:news.intent,cuéntame las noticias de hoy
 es,ovos-skill-news.openvoiceos:news.intent,cuéntame las noticias locales de hoy
 es,ovos-skill-news.openvoiceos:news.intent,cuéntame las noticias regionales de hoy
@@ -21438,15 +21467,71 @@ es,ovos-skill-parrot.openvoiceos:start_parrot.intent,modo loro iniciado
 es,ovos-skill-parrot.openvoiceos:start_parrot.intent,repite todo lo que escuches
 es,ovos-skill-parrot.openvoiceos:start_parrot.intent,repite todo lo que oigas
 es,ovos-skill-parrot.openvoiceos:start_parrot.intent,repítelo todo
+es,ovos-skill-personal.openvoiceos:WhoAreYou.intent,cómo te describirías
+es,ovos-skill-personal.openvoiceos:WhoAreYou.intent,puedes presentarte
+es,ovos-skill-personal.openvoiceos:WhoAreYou.intent,con quién te identificas
+es,ovos-skill-personal.openvoiceos:WhoAreYou.intent,cuéntame sobre ti
+es,ovos-skill-personal.openvoiceos:WhoAreYou.intent,cómo te llamas
 es,ovos-skill-personal.openvoiceos:WhoAreYou.intent,quién eres
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,de dónde eres
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,de dónde eres originario
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde fuiste construido
 es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde fuiste creado
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde fuiste desarrollado
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde fuiste diseñado
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde fuiste hecho
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde fuiste inventado
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde fuiste programado
+es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde se lanzó tu primera versión
 es,ovos-skill-personal.openvoiceos:WhereWereYouBorn.intent,dónde naciste
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuando viniste al mundo
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo apareciste por primera vez
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo empezaste a existir
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo fuiste construido
 es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo fuiste creado
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo fuiste diseñado
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo fuiste hecho
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo fuiste inventado
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo fuiste programado
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo se lanzó tu primera versión
 es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,cuándo naciste
-es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste hecho|quién te hizo
+es,ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent,¿cuál es tu fecha de nacimiento?
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste construido
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste creado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste diseñado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste fabricado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste hecho
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste inventado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,por quién fuiste programado
 es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te construyó
 es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te creó
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te diseñó
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te fabricó
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te ha construido
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te ha creado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te ha diseñado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te ha fabricado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te ha hecho
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te ha inventado
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te ha programado
 es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te hizo
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te inventó
+es,ovos-skill-personal.openvoiceos:WhoMadeYou.intent,quién te programó
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,cuál es tu clasificación
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,cuál es tu especie
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,cuál es tu naturaleza
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,cómo te clasificarías
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,cómo te definirías
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,puedes describir lo que eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué cosa eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué criatura eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué persona eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué ser eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué eres exactamente
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué tipo de cosa eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué tipo de criatura eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué tipo de persona eres
+es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué tipo de ser eres
 es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué eres
 es,ovos-skill-volume.openvoiceos:volume.high.intent,alto volumen
 es,ovos-skill-volume.openvoiceos:volume.high.intent,nivel de volumen a alto

@@ -28740,29 +28740,29 @@ es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar wolfram para {query
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram alpha sobre {query}
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice el lobo acerca de {query}
 es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram acerca de {query}
-es,ovos-skill-wordnet.openvoiceos:definition.intent,cuál es la definición de {query}
-es,ovos-skill-wordnet.openvoiceos:definition.intent,lo que es un {query}
-es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,lo que dice wordnet sobre {query}
-es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,búsqueda wordnet para {query}
-es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,qué dice la palabra neta sobre {query}
-es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,búsqueda palabra red para {query}
-es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregúntele a wordnet sobre {query}
-es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunte la palabra neta sobre {query}
-es,ovos-skill-wordnet.openvoiceos:antonym.intent,cuáles son las antónimos de {query}
-es,ovos-skill-wordnet.openvoiceos:antonym.intent,cuál es la antónima de {query}
-es,ovos-skill-wordnet.openvoiceos:antonym.intent,lo que es una antónima de {query}
-es,ovos-skill-wordnet.openvoiceos:hypernym.intent,lo que es un hipernym de {query}
-es,ovos-skill-wordnet.openvoiceos:hypernym.intent,que son los hipernyms de {query}
-es,ovos-skill-wordnet.openvoiceos:hypernym.intent,lo que es el hipernym de {query}
-es,ovos-skill-wordnet.openvoiceos:hyponym.intent,cuál es el hiponym de {query}
-es,ovos-skill-wordnet.openvoiceos:hyponym.intent,cuáles son las hipónymas de {query}
-es,ovos-skill-wordnet.openvoiceos:hyponym.intent,lo que es un hiponym de {query}
-es,ovos-skill-wordnet.openvoiceos:holonym.intent,lo que es un holonym de {query}
-es,ovos-skill-wordnet.openvoiceos:holonym.intent,lo que es el holonym de {query}
-es,ovos-skill-wordnet.openvoiceos:holonym.intent,que son los holónimos de {query}
-es,ovos-skill-wordnet.openvoiceos:lemma.intent,lo que es un lema de {query}
-es,ovos-skill-wordnet.openvoiceos:lemma.intent,cuál es la lema de {query}
-es,ovos-skill-wordnet.openvoiceos:lemma.intent,cuáles son los lemas de {query}
+es,ovos-skill-wordnet.openvoiceos:definition.intent,¿cuál es la definición de {query}?
+es,ovos-skill-wordnet.openvoiceos:definition.intent,¿qué es {query}?
+es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} en word net
+es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,busca {query} en wordnet
+es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta a word net sobre {query}
+es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,pregunta a wordnet sobre {query}
+es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,¿qué dice word net sobre {query}?
+es,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,¿qué dice wordnet sobre {query}?
+es,ovos-skill-wordnet.openvoiceos:antonym.intent,¿cuál es el antónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:antonym.intent,¿cuál es un antónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:antonym.intent,¿cuáles son los antónimos de {query}?
+es,ovos-skill-wordnet.openvoiceos:hypernym.intent,¿cuál es el hiperónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:hypernym.intent,¿cuál es un hiperónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:hypernym.intent,¿cuáles son los hiperónimos de {query}?
+es,ovos-skill-wordnet.openvoiceos:hyponym.intent,¿cuál es el hipónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:hyponym.intent,¿cuál es un hipónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:hyponym.intent,¿cuáles son los hipónimos de {query}?
+es,ovos-skill-wordnet.openvoiceos:holonym.intent,¿cuál es el holónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:holonym.intent,¿cuál es un holónimo de {query}?
+es,ovos-skill-wordnet.openvoiceos:holonym.intent,¿cuáles son los holónimos de {query}?
+es,ovos-skill-wordnet.openvoiceos:lemma.intent,¿cuál es el lema de {query}?
+es,ovos-skill-wordnet.openvoiceos:lemma.intent,¿cuáles son los lemas de {query}?
+es,ovos-skill-wordnet.openvoiceos:lemma.intent,¿qué es un lema de {query}?
 gl,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perdín algunhas alarma
 gl,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perdín algunhas alarmas
 gl,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perdín algunhas alerta

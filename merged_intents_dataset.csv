@@ -19948,70 +19948,154 @@ es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué alerta me he perdid
 es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué alertas me he perdido?
 es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué recordatorio me he perdido?
 es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué recordatorios me he perdido?
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar la grabación llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar ahora llamado {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la captura de audio como {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicializar la grabación
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación de audio llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación llamada {name
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una nueva grabación de audio llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar audio ahora
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,nueva grabación
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación bajo el nombre {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio ahora
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio como {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio por favor como {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,establecer la grabación llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar de inmediato
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio bajo el título {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,configurar una nueva grabación llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar por favor
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio ahora llamado {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar audio
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,start audio recording operation named {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación de audio
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar por favor como {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a grabar
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza una grabación
 es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,nueva grabación llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio ahora como {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a grabar con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza una grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a a grabar inmediatamente como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a una grabación inmediatamente como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a a grabar inmediatamente como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a una grabación inmediatamente como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a grabar audio ahora
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar audio ahora
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a grabar audio ahora como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar audio ahora como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a grabar audio ahora con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar audio ahora con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicializar grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicializa grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar operación de grabación de audio como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia operación de grabación de audio como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,seguir con la grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,sigue con la grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activa la grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activa la grabación de audio como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activa la grabación de audio con título {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio con título {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activa la grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar la grabación de audio titulada {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza la grabación de audio titulada {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar a grabar con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar la sesión de grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza la sesión de grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza la captura de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza la captura de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,establece grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,establecer grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,graba audio ahora
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar audio ahora
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,graba un audio como {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar un audio como {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,graba un audio llamado {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar un audio llamado {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,graba un nuevo archivo de audio
 es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar un nuevo archivo de audio
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la captura de audio con el título {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una nueva grabación con el título {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia sesión de grabación llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar la grabación con el nombre {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una nueva grabación llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicializar la grabación titulada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar ahora
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la captura de audio
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio por favor llamado {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicio de sesión de grabación
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,proceder con la grabación
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar audio ahora con el nombre {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio por favor
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar por favor llamado {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar audio como {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la captura de audio llamada {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activar la grabación de audio como {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar un nuevo archivo de audio llamado {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación llamada {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,graba audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,graba un audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabar un audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia la grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia operación de grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una operación de grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar operación de grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una operación de grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia captura de audio como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar captura de audio como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia captura de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar captura de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia captura de audio titulada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar captura de audio titulada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia grabación de audio con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación de audio con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia grabación de audio {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación de audio {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una grabación titulada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación titulada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una nueva grabación
 es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una nueva grabación
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,audio record llamado {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,grabación inicial
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una nueva grabación de audio
 es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una nueva grabación de audio
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio con el nombre {name}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar ahora como {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar inmediatamente como {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio llamada {nombre}
-es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio titulada {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una nueva grabación de audio con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una nueva grabación de audio con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una nueva grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una nueva grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una nueva grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una nueva grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una nueva grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una nueva grabación con el título {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una nueva grabación con el título {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza una nueva grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una nueva grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia operación de grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una operación de grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar operación de grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una operación de grabación de audio
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia una sesión de grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar una sesión de grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar a grabar
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar la grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza la grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia a grabar
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia la grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar a grabar
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar la grabación de audio {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza la grabación de audio {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia la grabación de audio {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar la grabación de audio {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comenzar grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación de audio llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empezar a grabar {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,inicia a grabar {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar a grabar {nombre}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,configura una nueva grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar ahora
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar ahora mismo
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar inmediatamente
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar ahora como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar ahora con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor comienza a grabar audio llamado {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor empieza a grabar audio llamado {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor inicia a grabar audio llamado {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor comienza a grabar audio ahora como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor empieza a grabar audio ahora como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor inicia a grabar audio ahora como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor empieza a grabar como {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor empieza a grabar.
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar por favor.
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor empieza una grabación titulada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,por favor inicia la grabación de audio.
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza la grabación de audio con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,graba audio ahora con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación con el nombre {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación llamada {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,iniciar grabación {name}
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,nueva grabación
+es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,nueva grabación llamada {name}
 es,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,apagar notificaciones de arrancado
 es,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,apagar notificaciones de arranque
 es,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,apagar notificaciones de carga

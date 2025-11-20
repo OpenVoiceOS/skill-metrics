@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **102975**
+- Total unique utterances: **103059**
 - Total unique intents: **161**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -28,7 +28,7 @@
 | ovos-skill-dictation.openvoiceos:start_dictation.intent | 1238 |
 | ovos-skill-moviemaster.openvoiceos:movie.top.intent | 1202 |
 | ovos-skill-moviemaster.openvoiceos:movie.information.intent | 1135 |
-| ovos-skill-audio-recording.openvoiceos:start_recording.intent | 900 |
+| ovos-skill-audio-recording.openvoiceos:start_recording.intent | 984 |
 | ocp:play | 879 |
 | ovos-skill-weather.openvoiceos:is_rain.intent | 824 |
 | ovos-skill-diagnostics.openvoiceos:query_langs.intent | 818 |

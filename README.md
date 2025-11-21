@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **103059**
+- Total unique utterances: **103256**
 - Total unique intents: **161**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -22,10 +22,10 @@
 | ovos-skill-date-time.openvoiceos:what.time.is.it.intent | 2038 |
 | ovos-skill-iss-location.openvoiceos:when_iss.intent | 1949 |
 | ovos-skill-days-in-history.openvoiceos:today_in_history.intent | 1458 |
+| ovos-skill-dictation.openvoiceos:start_dictation.intent | 1377 |
 | ovos-skill-weather.openvoiceos:high_temperature.intent | 1374 |
 | ovos-skill-weather.openvoiceos:low_temperature.intent | 1317 |
 | ovos-skill-news.openvoiceos:news.intent | 1263 |
-| ovos-skill-dictation.openvoiceos:start_dictation.intent | 1238 |
 | ovos-skill-moviemaster.openvoiceos:movie.top.intent | 1202 |
 | ovos-skill-moviemaster.openvoiceos:movie.information.intent | 1135 |
 | ovos-skill-audio-recording.openvoiceos:start_recording.intent | 984 |
@@ -40,9 +40,9 @@
 | ovos-skill-weather.openvoiceos:is_wind.intent | 626 |
 | ovos-skill-boot-finished.openvoiceos:are_you_ready.intent | 575 |
 | ovos-skill-date-time.openvoiceos:current_date.intent | 570 |
+| ovos-skill-dictation.openvoiceos:stop_dictation.intent | 536 |
 | ovos-skill-iss-location.openvoiceos:where_iss.intent | 529 |
 | ovos-skill-weather.openvoiceos:weekend_forecast.intent | 520 |
-| ovos-skill-dictation.openvoiceos:stop_dictation.intent | 478 |
 | ovos-skill-ip.openvoiceos:what.ssid.intent | 470 |
 | ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent | 440 |
 | ovos-skill-weather.openvoiceos:current_weather.intent | 392 |

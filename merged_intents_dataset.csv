@@ -20836,6 +20836,203 @@ es,common_query:common_query,qué edad tenía el día que murió
 es,common_query:common_query,lo que es {query} sitio oficial
 es,common_query:common_query,lo que es famoso por
 es,common_query:common_query,qué es conocido
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactiva el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactivar el modo dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactivar la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,deshabilitar la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,detener la toma de notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,finalizar la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,finalizar la toma de notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,podemos acabar con el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,podemos dejar de tomar notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,podemos finalizar la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,podemos parar el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes cancelar la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes dejar de tomar notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes desactivar el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes desactivar el modo dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes detener el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes detener la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes finalizar el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes finalizar el modo dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes parar el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes terminar la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancela el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancela la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancela la toma de notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancela la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancelar dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancelar la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancelar la toma de notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,cancelar transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactiva el modo dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactiva la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactivar dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,deshabilita la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,detener dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,detener la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,detén la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,finaliza el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,finaliza la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,finaliza la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,finalizar el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,finalizar la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,para de tomar notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,para el modo dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,para la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,parar la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes cancelar el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes cancelar la toma de notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes desactivar la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes finalizar la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,puedes terminar de tomar notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,temrinar la toma de notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,temrinar la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,termina de tomar notas
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,termina el dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,termina la captura de texto
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,termina la transcripción
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,terminar dictado
+es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,terminar la captura de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar el modo de transcripción de texto con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a tomar notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a tomar notas ahora
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a escribir desde la voz
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a escribir el texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a grabar información verbal
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a tomar dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a tomar dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a tomar notas con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a tomar notas de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a tomar notas en un documento llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a tomar notas llamadas {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a transcribir como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a transcribir el audio como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar a tomar notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empieza a tomar notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,graba el texto ahora por favor.
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilitar dictado con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilitar el modo de dictado para {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilitar el modo de voz a texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilitar la función de transcripción
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilitar la transcripción de texto con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilitar modo dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar captura de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar captura de texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar captura de texto con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar captura de texto en un documento llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar captura de texto llamada {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar conversión de voz a texto llamada {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar dictado con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar el proceso de transcripción de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar grabación de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar grabación de texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar grabación de texto en un documento llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar grabación de voz a texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la conversión de voz a texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la escritura del texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la generación de contenido textual
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la grabación en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la toma de notas ahora con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la toma de notas como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar registro de notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar transcripción como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,podemos comenzar el dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,podemos comenzar el dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,podemos empezar a grabar en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,por favor comienza a tomar notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,por favor comienza a tomar notas ahora
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,puedes empezar el dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,puedes habilitar el modo dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,puedes habilitar la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,puedes iniciar el dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,puedes iniciar el grabado en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,registra el texto como {name} ahora por favor.
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar captura de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar dictado con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar la grabación de voz a texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar modo dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar transcripción de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,activar transcripción de texto con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a capturar texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a capturar texto en un documento llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a capturar texto llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a convertir voz a texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a grabar texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a grabar texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a guardar en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a registrar las palabras como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a tomar dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a tomar notas ahora en un documento con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a tomar notas en un documento como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a tomar notas en un documento con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a tomar notas en un documento con el nombre {name} por favor.
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a transcribir
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a transcribir como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar a transcribir el texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar captura de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar compilación de notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar compilación de notas llamada {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar dictado con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar el dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar la creación de la transcripción del texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar la documentación textual
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comenzar la transcripción del texto llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a escribir el texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a escribir texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a grabar en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza a tomar notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza el dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,comienza un dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar a capturar texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar a capturar texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar a grabar texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar a grabar texto como {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar a tomar notas con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar a tomar notas con el nombre {name} por favor
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar captura de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar dictado con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empezar dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empieza a grabar en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empieza a grabar palabras habladas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empieza a tomar notas ahora por favor.
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empieza a tomar notas por favor
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empieza el dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,empieza el dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,graba el texto ahora
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,graba el texto ahora por favor con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,graba el texto llamado {name} ahora
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,graba el texto por favor.
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,graba en texto en un documento llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,graba en texto en un documento llamado {name} por favor
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,grabar en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilita el modo dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilita la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,habilitar la transcripción de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,inicia el dictado.
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,inicia la grabación de texto.
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,inicia un dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar dictado de texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la escritura del texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la toma de dictado
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la toma de dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la toma de notas
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,iniciar la transcripción
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,por favor comienza a tomar notas ahora en un documento con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,por favor comienza a tomar notas en un documento con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,por favor empieza a tomar notas ahora en un documento llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,por favor graba un texto con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,por favor inicie la toma de notas con el nombre {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,puedes empezar a grabar en texto
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,puedes iniciar un dictado llamado {name}
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,registra el texto como {name} ahora
+es,ovos-skill-dictation.openvoiceos:start_dictation.intent,registrar texto como {name}
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,hola de nuevo
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,buenas noches
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,buenas tardes

@@ -18590,6 +18590,16 @@ eu,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,piztu p
 eu,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,piztu prest dagoela adierazteko jakinarazpenak
 eu,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,piztu prest dagoela adierazteko soinua
 eu,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,piztu prest dagoela adierazteko soinuak
+eu,ovos-skill-camera.openvoiceos:have_camera.intent,¿funciona la cámara?
+eu,ovos-skill-camera.openvoiceos:have_camera.intent,¿hay una cámara disponible?
+eu,ovos-skill-camera.openvoiceos:have_camera.intent,¿hay una cámara?
+eu,ovos-skill-camera.openvoiceos:have_camera.intent,¿puedes acceder a la cámara?
+eu,ovos-skill-camera.openvoiceos:have_camera.intent,¿puedo usar la cámara?
+eu,ovos-skill-camera.openvoiceos:have_camera.intent,¿tienes una cámara?
+eu,ovos-skill-camera.openvoiceos:take_picture.intent,haz una foto
+eu,ovos-skill-camera.openvoiceos:take_picture.intent,saca una foto
+eu,ovos-skill-camera.openvoiceos:take_picture.intent,toma una foto
+eu,ovos-skill-camera.openvoiceos:take_picture.intent,tomar una foto
 eu,ovos-skill-confucius-quotes.openvoiceos:who.intent,nor den konfuzio
 eu,ovos-skill-confucius-quotes.openvoiceos:who.intent,nor zen konfuzio
 eu,ovos-skill-date-time.openvoiceos:date.future.weekend.intent,adieraziko al didazu datorren asteburua zer data den?
@@ -18899,6 +18909,61 @@ eu,common_query:common_query,zenbat urte zituen {query} hil zenean
 eu,common_query:common_query,zein da {query} webgune ofiziala
 eu,common_query:common_query,zergatik da ezagun {query}
 eu,common_query:common_query,zergatik da ospetsu {query}
+eu,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,cuál es tu uso de memoria
+eu,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,de cuánta memoria disponible dispones
+eu,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,dime cuál es tu estado de memoria.
+eu,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,cuánta ram estás usando
+eu,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,diagnóstico de memoria
+eu,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,uso actual de memoria
+eu,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,en tu sistema hay una gpu
+eu,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,tienes una gpu
+eu,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,tu sistema tiene una gpu
+eu,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,estás usando una gpu
+eu,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,cuál es mi ubicación
+eu,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,cuál es mi ubicación actual
+eu,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,dime mi ubicación
+eu,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,dónde estoy
+eu,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,cuál es tu versión del kernel
+eu,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,dime tu versión del kernel
+eu,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,qué kernel tienes
+eu,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,qué versión del kernel estás usando
+eu,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,cuáles son tus idiomas adicionales
+eu,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,dime qué otros idiomas hablas
+eu,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,qué otros idiomas tienes
+eu,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,tienes otros idiomas
+eu,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,qué otros idiomas utilizas
+eu,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estamos hablando
+eu,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estamos usando
+eu,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estoy hablando
+eu,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estoy usando
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,cuáles son los idiomas de tu sistema
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,idiomas disponibles
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas están disponibles
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas puedes entender
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas puedes hablar
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas utilizas
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,dime todos los idiomas que hablas
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,enumera los idiomas disponibles
+eu,ovos-skill-diagnostics.openvoiceos:query_langs.intent,enumera los idiomas que admites
+eu,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuál es la carga de la cpu
+eu,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuál es tu uso de cpu
+eu,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuánta cpu estás usando
+eu,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuánto procesador se está utilizando
+eu,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,carga actual de la cpu
+eu,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,diagnóstico de la cpu
+eu,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,dime tu uso de cpu
+eu,ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent,cuál es su ubicación actual
+eu,ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent,cuál es tu ubicación
+eu,ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent,dime tu ubicación
+eu,ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent,dónde estás
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es el idioma de tu sistema
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es tu idioma predeterminado
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es tu idioma principal
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es tu lengua materna
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,dime cuál es tu idioma principal
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,en qué idioma estás configurado
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,qué idioma estás usando
+eu,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,dime tu idioma
 eu,ovos-skill-dictation.openvoiceos:stop_dictation.intent,amaitu al dezakegu diktaketa
 eu,ovos-skill-dictation.openvoiceos:stop_dictation.intent,amaitu al dezakegu oharrak hartzen
 eu,ovos-skill-dictation.openvoiceos:stop_dictation.intent,amaitu al dezakegu testua hautematen
@@ -20450,6 +20515,15 @@ es,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,habilit
 es,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,habilitar voz de inicio
 es,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,habilitar voz de listo
 es,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,habilitar voz de preparado
+es,ovos-skill-camera.openvoiceos:have_camera.intent,¿funciona la cámara?
+es,ovos-skill-camera.openvoiceos:have_camera.intent,¿hay una cámara disponible?
+es,ovos-skill-camera.openvoiceos:have_camera.intent,¿hay una cámara?
+es,ovos-skill-camera.openvoiceos:have_camera.intent,¿puedes acceder a la cámara?
+es,ovos-skill-camera.openvoiceos:have_camera.intent,¿puedo usar la cámara?
+es,ovos-skill-camera.openvoiceos:have_camera.intent,¿tienes una cámara?
+es,ovos-skill-camera.openvoiceos:take_picture.intent,haz una foto
+es,ovos-skill-camera.openvoiceos:take_picture.intent,saca una foto
+es,ovos-skill-camera.openvoiceos:take_picture.intent,tomar una foto
 es,ovos-skill-confucius-quotes.openvoiceos:who.intent,¿quién es confucio?
 es,ovos-skill-confucius-quotes.openvoiceos:who.intent,¿quién fue confucio?
 es,ovos-skill-date-time.openvoiceos:date.future.weekend.intent,dame las fechas para el próximo fin de semana.
@@ -20836,6 +20910,58 @@ es,common_query:common_query,qué edad tenía el día que murió
 es,common_query:common_query,lo que es {query} sitio oficial
 es,common_query:common_query,lo que es famoso por
 es,common_query:common_query,qué es conocido
+es,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,de cuánta memoria disponible dispones
+es,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,dime cuál es tu estado de memoria.
+es,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,cuánta ram estás usando
+es,ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent,uso actual de memoria
+es,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,en tu sistema hay una gpu
+es,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,tienes una gpu
+es,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,tu sistema tiene una gpu
+es,ovos-skill-diagnostics.openvoiceos:query_gpu.intent,estás usando una gpu
+es,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,cuál es mi ubicación
+es,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,cuál es mi ubicación actual
+es,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,dime mi ubicación
+es,ovos-skill-diagnostics.openvoiceos:query_user_location.intent,dónde estoy
+es,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,cuál es tu versión del kernel
+es,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,dime tu versión del kernel
+es,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,qué kernel tienes
+es,ovos-skill-diagnostics.openvoiceos:query_kernel_version.intent,qué versión del kernel estás usando
+es,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,cuáles son tus idiomas adicionales
+es,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,dime qué otros idiomas hablas
+es,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,qué otros idiomas tienes
+es,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,tienes otros idiomas
+es,ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent,qué otros idiomas utilizas
+es,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estamos hablando
+es,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estamos usando
+es,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estoy hablando
+es,ovos-skill-diagnostics.openvoiceos:query_user_lang.intent,qué idioma estoy usando
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,cuáles son los idiomas de tu sistema
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,idiomas disponibles
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas están disponibles
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas puedes entender
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas puedes hablar
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,qué idiomas utilizas
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,dime todos los idiomas que hablas
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,enumera los idiomas disponibles
+es,ovos-skill-diagnostics.openvoiceos:query_langs.intent,enumera los idiomas que admites
+es,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuál es la carga de la cpu
+es,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuál es tu uso de cpu
+es,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuánta cpu estás usando
+es,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,cuánto procesador se está utilizando
+es,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,carga actual de la cpu
+es,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,diagnóstico de la cpu
+es,ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent,dime tu uso de cpu
+es,ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent,cuál es su ubicación actual
+es,ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent,cuál es tu ubicación
+es,ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent,dónde estás
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es el idioma de tu sistema
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es tu idioma predeterminado
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es tu idioma principal
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,cuál es tu lengua materna
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,dime cuál es tu idioma principal
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,en qué idioma estás configurado
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,qué idioma estás usando
+es,ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent,dime tu idioma
 es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactiva el dictado
 es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactivar el modo dictado
 es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,desactivar la transcripción de texto

@@ -149,13 +149,13 @@ ovos-skill-weather.openvoiceos:sunset.intent
 ovos-skill-weather.openvoiceos:weekend_forecast.intent
 ovos-skill-wikihow.openvoiceos:wikihow.intent
 ovos-skill-wikipedia.openvoiceos:wiki.intent
+ovos-skill-wikipedia.openvoiceos:wikiroulette.intent
 ovos-skill-wolfie.openvoiceos:search_wolfie.intent
 ovos-skill-wordnet.openvoiceos:antonym.intent
 ovos-skill-wordnet.openvoiceos:definition.intent
 ovos-skill-wordnet.openvoiceos:holonym.intent
 ovos-skill-wordnet.openvoiceos:hypernym.intent
 ovos-skill-wordnet.openvoiceos:hyponym.intent
-ovos-skill-wordnet.openvoiceos:lemma.intent
 ovos-skill-wordnet.openvoiceos:search_wordnet.intent
 ovos-skill-wordnet.openvoiceos:synonym.intent
 stop:stop

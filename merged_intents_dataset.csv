@@ -19849,103 +19849,9 @@ eu,ovos-skill-randomness.openvoiceos:roll-single-die.intent,bota {faces} aldeko 
 eu,ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent,bota {faces} aldeko {number} dado
 eu,ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent,bota {number} d {faces}
 eu,ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent,bota {number} dado
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,recordatorios
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,alarma perdida
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,alarmas perdidas
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,alerta de fallo
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,alerta perdida
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,alertas fallidas
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,alertas perdidas
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,evento perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,eventos perdidos
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,fallar alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,fallar alarmas
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,falló una alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,falta un recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,faltar a eventos
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,faltar al evento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,faltó a algún acto
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ha perdido algún recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ha perdido algún temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ha perdido un recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ha perdido una alerta
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ha saltado alguna alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ha saltado una alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,he perdido la alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,he perdido temporizadores
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,me he perdido la alerta
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,me he perdido temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,me he perdido un temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,me he perdido una alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,me he perdido una alerta
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,me he saltado una alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,miss an timers
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,miss recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,miss timer
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,no ha recibido ninguna alerta
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,no ha recibido ningún recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,no recibir ninguna alerta
 es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,no recibir recordatorios
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,no se ha detectado un temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,omitir cualquier recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder cualquier alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder cualquier recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder cualquier temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder ninguna alerta
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder ningún temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder un recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder un temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder una alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perder una alerta
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perderse cualquier evento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perderse ningún acontecimiento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perderse un acontecimiento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perderse un evento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué acontecimientos me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué alarma me he perdido
 es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué alarmas me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué alertas me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué evento me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué eventos me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué recordatorios me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué temporizador me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,qué temporizadores me he perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,recordatorio perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,recordatorios perdidos
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,saltarse ninguna alarma
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se ha perdido algún acontecimiento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se ha perdido un acontecimiento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se ha perdido una alerta
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se perdió algún temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se perdió un acontecimiento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se perdió un evento
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se perdió un recordatorio
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,se perdió un temporizador
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,temporizador perdido
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,temporizadores perdidos
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido alguna alarma?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido alguna alerta?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido algún acontecimiento?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido algún evento?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido algún recordatorio?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido algún temporizador?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido el temporizador?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido la alerta?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido los temporizadores?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido un recordatorio?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido un temporizador?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he perdido una alerta?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he saltado alguna alarma?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he saltado la alarma?
 es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he saltado las alarmas?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿me he saltado una alarma?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué acontecimiento me he perdido?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué alarma me he perdido?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué alarmas me he perdido?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué alerta me he perdido?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué alertas me he perdido?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué recordatorio me he perdido?
-es,ovos-skill-alerts.openvoiceos:missed_alerts.intent,¿qué recordatorios me he perdido?
 es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza a grabar
 es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,comienza una grabación
 es,ovos-skill-audio-recording.openvoiceos:start_recording.intent,empieza a grabar
@@ -21889,36 +21795,34 @@ es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué tipo de criatura eres
 es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué tipo de persona eres
 es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué tipo de ser eres
 es,ovos-skill-personal.openvoiceos:WhatAreYou.intent,qué eres
-es,ovos-skill-volume.openvoiceos:volume.high.intent,alto volumen
-es,ovos-skill-volume.openvoiceos:volume.high.intent,nivel de volumen a alto
 es,ovos-skill-volume.openvoiceos:volume.high.intent,nivel de volumen alto
 es,ovos-skill-volume.openvoiceos:volume.high.intent,volumen a alto
-es,ovos-skill-volume.openvoiceos:volume.high.intent,volumen a alto nivel
+es,ovos-skill-volume.openvoiceos:volume.high.intent,volumen a nivel alto
 es,ovos-skill-volume.openvoiceos:volume.high.intent,volumen alto
-es,ovos-skill-volume.openvoiceos:volume.default.intent,volumen de reajuste
+es,ovos-skill-volume.openvoiceos:volume.default.intent,ajustar el nivel de volumen al valor predeterminado
 es,ovos-skill-volume.openvoiceos:volume.default.intent,ajustar el volumen a predeterminado
 es,ovos-skill-volume.openvoiceos:volume.default.intent,nivel de volumen establecido por defecto
 es,ovos-skill-volume.openvoiceos:volume.default.intent,restaurar volumen
-es,ovos-skill-volume.openvoiceos:volume.default.intent,volumen de conjunto a medio
 es,ovos-skill-volume.openvoiceos:volume.default.intent,volumen medio
 es,ovos-skill-volume.openvoiceos:volume.default.intent,volumen predeterminado
-es,ovos-skill-volume.openvoiceos:volume.unmute.intent,audio de alta velocidad
-es,ovos-skill-volume.openvoiceos:volume.unmute.intent,unmute
-es,ovos-skill-volume.openvoiceos:volume.unmute.intent,volumen unmute
-es,ovos-skill-volume.openvoiceos:volume.mute.intent,audio mudo
-es,ovos-skill-volume.openvoiceos:volume.mute.intent,mute
-es,ovos-skill-volume.openvoiceos:volume.mute.intent,volumen mudo
-es,ovos-skill-volume.openvoiceos:volume.low.intent,bajo volumen
+es,ovos-skill-volume.openvoiceos:volume.unmute.intent,activar el audio
+es,ovos-skill-volume.openvoiceos:volume.unmute.intent,desmutear el audio
+es,ovos-skill-volume.openvoiceos:volume.unmute.intent,activar el volumen
+es,ovos-skill-volume.openvoiceos:volume.unmute.intent,desmutear el volumen
+es,ovos-skill-volume.openvoiceos:volume.unmute.intent,desmutear
+es,ovos-skill-volume.openvoiceos:volume.unmute.intent,silenciar
+es,ovos-skill-volume.openvoiceos:volume.mute.intent,silenciar
+es,ovos-skill-volume.openvoiceos:volume.mute.intent,silenciar audio
+es,ovos-skill-volume.openvoiceos:volume.mute.intent,silenciar volumen
 es,ovos-skill-volume.openvoiceos:volume.low.intent,nivel de volumen a bajo
 es,ovos-skill-volume.openvoiceos:volume.low.intent,nivel de volumen bajo
-es,ovos-skill-volume.openvoiceos:volume.low.intent,volumen a bajo
 es,ovos-skill-volume.openvoiceos:volume.low.intent,volumen bajo
-es,ovos-skill-volume.openvoiceos:volume.mute.toggle.intent,toggle audio
-es,ovos-skill-volume.openvoiceos:volume.mute.toggle.intent,toggle mute
-es,ovos-skill-volume.openvoiceos:volume.max.intent,nivel de volumen del conjunto al máximo
-es,ovos-skill-volume.openvoiceos:volume.max.intent,volumen de conjunto al máximo
+es,ovos-skill-volume.openvoiceos:volume.mute.toggle.intent,alternar audio
+es,ovos-skill-volume.openvoiceos:volume.mute.toggle.intent,conmutar audio
+es,ovos-skill-volume.openvoiceos:volume.mute.toggle.intent,alternar silencio
+es,ovos-skill-volume.openvoiceos:volume.mute.toggle.intent,conmutar silencio
+es,ovos-skill-volume.openvoiceos:volume.max.intent,ajustar el volumen al máximo
 es,ovos-skill-volume.openvoiceos:volume.max.intent,volumen máximo
-es,ovos-skill-volume.openvoiceos:volume.max.intent,volumen superior
 es,ovos-skill-weather.openvoiceos:is_rain.intent,¿debo llevar un chubasquero
 es,ovos-skill-weather.openvoiceos:is_rain.intent,¿debo llevar un paraguas
 es,ovos-skill-weather.openvoiceos:is_rain.intent,¿necesito un chubasquero
@@ -29193,15 +29097,15 @@ es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki random
 es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia al azar
 es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia aleatoria
 es,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia random
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregúntale al lobo
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregúntale al loboram alpha sobre {query}
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregúntale al wolfram sobre {query}
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar el lobo para {query}
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar wolfram alpha para {query}
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar wolfram para {query}
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram alpha sobre {query}
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice el lobo acerca de {query}
-es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram acerca de {query}
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar al lobo para {query}
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar en wolfram alpha {query}
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,buscar en wolfram {consulta}
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregunta a wolfram alpha sobre {query}
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregunta a wolfram sobre {query}
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pregúntale al lobo {query}
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram alpha sobre {query}?
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice wolfram sobre {query}?
+es,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,¿qué dice el lobo sobre {query}?
 gl,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perdín algunhas alarma
 gl,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perdín algunhas alarmas
 gl,ovos-skill-alerts.openvoiceos:missed_alerts.intent,perdín algunhas alerta

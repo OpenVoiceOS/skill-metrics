@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **103202**
+- Total unique utterances: **103106**
 - Total unique intents: **161**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -14,7 +14,7 @@
 | ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent | 11061 |
 | ovos-skill-date-time.openvoiceos:date.future.weekend.intent | 9566 |
 | ovos-skill-weather.openvoiceos:hourly_forecast.intent | 9385 |
-| ovos-skill-alerts.openvoiceos:missed_alerts.intent | 6795 |
+| ovos-skill-alerts.openvoiceos:missed_alerts.intent | 6701 |
 | ovos-skill-date-time.openvoiceos:date.last.weekend.intent | 5823 |
 | ovos-skill-date-time.openvoiceos:what.time.will.it.be.intent | 3340 |
 | ovos-skill-weather.openvoiceos:hourly_temperature.intent | 3097 |
@@ -78,7 +78,7 @@
 | ovos-skill-date-time.openvoiceos:next.leap.year.intent | 171 |
 | ovos-skill-weather.openvoiceos:humidity.intent | 171 |
 | ovos-skill-alerts.openvoiceos:CreateOcpAlarm | 168 |
-| ovos-skill-volume.openvoiceos:volume.default.intent | 167 |
+| ovos-skill-volume.openvoiceos:volume.default.intent | 166 |
 | ovos-skill-moviemaster.openvoiceos:movie.year.intent | 146 |
 | ovos-skill-weather.openvoiceos:next_rain.intent | 141 |
 | ovos-skill-personal.openvoiceos:WhenWereYouBorn.intent | 140 |
@@ -89,13 +89,13 @@
 | ovos-skill-diagnostics.openvoiceos:query_user_location.intent | 127 |
 | ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent | 119 |
 | ovos-skill-laugh.openvoiceos:Laugh.intent | 117 |
-| ovos-skill-volume.openvoiceos:volume.max.intent | 110 |
+| ovos-skill-volume.openvoiceos:volume.max.intent | 108 |
 | ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent | 105 |
 | ovos-skill-date-time.openvoiceos:what.year.is.it.intent | 104 |
-| ovos-skill-volume.openvoiceos:volume.unmute.intent | 100 |
-| ovos-skill-volume.openvoiceos:volume.high.intent | 100 |
+| ovos-skill-volume.openvoiceos:volume.unmute.intent | 103 |
 | ovos-skill-laugh.openvoiceos:RandomLaugh.intent | 99 |
-| ovos-skill-volume.openvoiceos:volume.low.intent | 96 |
+| ovos-skill-volume.openvoiceos:volume.high.intent | 98 |
+| ovos-skill-volume.openvoiceos:volume.low.intent | 94 |
 | ovos-skill-alerts.openvoiceos:TimerStatus | 93 |
 | ovos-skill-parrot.openvoiceos:start_parrot.intent | 92 |
 | ovos-skill-alerts.openvoiceos:ListAlerts | 91 |
@@ -121,11 +121,11 @@
 | ovos-skill-alerts.openvoiceos:CreateReminder | 47 |
 | ovos-skill-alerts.openvoiceos:CancelAlert | 44 |
 | ovos-skill-iss-location.openvoiceos:WhoISSIntent | 43 |
+| ovos-skill-volume.openvoiceos:volume.mute.toggle.intent | 42 |
 | ovos-skill-fuster-quotes.openvoiceos:fuster_quotes.intent | 42 |
 | ovos-skill-alerts.openvoiceos:DeleteListEntries | 42 |
 | ovos-skill-days-in-history.openvoiceos:deaths_in_history.intent | 41 |
 | ovos-skill-moviemaster.openvoiceos:movie.production.intent | 40 |
-| ovos-skill-volume.openvoiceos:volume.mute.toggle.intent | 40 |
 | ovos-skill-alerts.openvoiceos:DeleteTodoEntries | 38 |
 | ovos-skill-wallpapers.openvoiceos:wallpaper.about.intent | 37 |
 | ovos-skill-alerts.openvoiceos:RescheduleAlert | 36 |

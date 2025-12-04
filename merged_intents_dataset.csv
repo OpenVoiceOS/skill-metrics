@@ -18292,36 +18292,48 @@ pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wiki how {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wiki how como é que {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wikihow {query}
 pt,ovos-skill-wikihow.openvoiceos:wikihow.intent,pesquisar wikihow como é que {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz wikipedia sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz a wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que diz a wikipedia sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wiki por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wikipedia por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procura wikipedia sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wiki por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wiki sobre {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wikipedia por {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procurar wikipedia sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,conte-me sobre {query} na wiki
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,conte-me sobre {query} na wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,encontre detalhes sobre {query} na wiki
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,encontre detalhes sobre {query} na wikipedia
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,me dê informações sobre {query} da wiki
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,me dê informações sobre {query} da wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que a wiki diz sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que a wikipédia diz sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que há na wiki sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que há na wikipédia sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que se sabe sobre {query} na wiki
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que se sabe sobre {query} na wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que wiki diz sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,o que wikipédia diz sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,pesquise na wiki por detalhes sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,pesquise na wikipédia por detalhes sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,pesquise wiki sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,pesquise wikipédia sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,poderia buscar {query} em wiki
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,poderia buscar {query} em wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procure {query} em wiki
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,procure {query} em wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,verifique wiki sobre {query}
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,verifique wikipédia sobre {query}
 pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,wiki {query}
-pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipedia {query}
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wiki aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wiki roleta
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wikipedia aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abrir wikipedia roleta
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jogar wiki roleta
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,jogar wikipedia roleta
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wiki roleta
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostrar wikipedia roleta
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wiki aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página wikipedia aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wiki roleta
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia aleatória
-pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,wikipedia roleta
+pt,ovos-skill-wikipedia.openvoiceos:wiki.intent,wikipédia {query}
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abra página aleatória wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,abra página aleatória wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,aleatório wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,aleatório wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,comece a roleta wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,comece a roleta wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,exiba página aleatória wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,exiba página aleatória wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,inicie a roleta wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,inicie a roleta wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostre página aleatória wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,mostre página aleatória wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página aleatória wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,página aleatória wikipédia
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roleta wiki
+pt,ovos-skill-wikipedia.openvoiceos:wikiroulette.intent,roleta wikipedia
 pt,ovos-skill-wolfie.openvoiceos:search_wolfie.intent,pergunta ao lobo {query}
 eu,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ba al dago galdutako alarmaren bat?
 eu,ovos-skill-alerts.openvoiceos:missed_alerts.intent,ba al dago galdutako alarmarik?

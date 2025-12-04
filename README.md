@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **103106**
+- Total unique utterances: **103118**
 - Total unique intents: **161**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -41,8 +41,8 @@
 | ovos-skill-date-time.openvoiceos:current_date.intent | 570 |
 | ovos-skill-wikipedia.openvoiceos:wikiroulette.intent | 562 |
 | ovos-skill-iss-location.openvoiceos:where_iss.intent | 543 |
+| ovos-skill-wikipedia.openvoiceos:wiki.intent | 539 |
 | ovos-skill-dictation.openvoiceos:stop_dictation.intent | 536 |
-| ovos-skill-wikipedia.openvoiceos:wiki.intent | 527 |
 | ovos-skill-weather.openvoiceos:weekend_forecast.intent | 520 |
 | ovos-skill-ip.openvoiceos:what.ssid.intent | 470 |
 | ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent | 456 |

@@ -22459,32 +22459,56 @@ es,ovos-skill-weather.openvoiceos:is_stormy.intent,se prevé un fenómeno meteor
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,se prevé un fenómeno meteorológico severo en {location}?
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,se prevé una tormenta ?
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,se prevé una tormenta en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro a causa de el mal tiempo ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro a causa de el mal tiempo en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro a causa de las tormentas ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro a causa de las tormentas en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro debido a el mal tiempo ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro debido a el mal tiempo en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro debido a las tormentas ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro debido a las tormentas en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro por el mal tiempo ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro por el mal tiempo en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro por las tormentas ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme dentro por las tormentas en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa a causa de el mal tiempo ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa a causa de el mal tiempo en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa a causa de las tormentas ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa a causa de las tormentas en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa debido a el mal tiempo ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa debido a el mal tiempo en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa debido a las tormentas ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa debido a las tormentas en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa por el mal tiempo ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa por el mal tiempo en {location}?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa por las tormentas ?
-es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿(debo|debería quedarme en casa por las tormentas en {location}?
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿caerá tormenta hoy en {location}?
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿caerá una tormenta hoy en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro a causa de el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro a causa de el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro a causa de las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro a causa de las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro debido a el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro debido a el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro debido a las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro debido a las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro por el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro por el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro por las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme dentro por las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa a causa de el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa a causa de el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa a causa de las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa a causa de las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa debido a el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa debido a el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa debido a las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa debido a las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa por el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa por el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa por las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debería quedarme en casa por las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro a causa de el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro a causa de el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro a causa de las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro a causa de las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro debido a el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro debido a el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro debido a las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro debido a las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro por el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro por el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro por las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo dentro por las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa a causa de el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa a causa de el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa a causa de las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa a causa de las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa debido a el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa debido a el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa debido a las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa debido a las tormentas en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa por el mal tiempo ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa por el mal tiempo en {location}?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa por las tormentas ?
+es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿debo en casa por las tormentas en {location}?
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿es probable que haya tormenta eléctrica ?
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿es probable que haya tormenta eléctrica en {location}?
 es,ovos-skill-weather.openvoiceos:is_stormy.intent,¿es probable que haya una tormenta eléctrica ?
@@ -24100,30 +24124,6 @@ es,ovos-skill-weather.openvoiceos:is_rain.intent,¿va a llover mañana? ?
 es,ovos-skill-weather.openvoiceos:is_rain.intent,¿va a llover mañana? en {location}?
 es,ovos-skill-weather.openvoiceos:is_rain.intent,¿va a llover mucho ?
 es,ovos-skill-weather.openvoiceos:is_rain.intent,¿va a llover mucho en {location}?
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 2 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 2 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 3 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 3 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 4 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 4 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 5 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 5 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 6 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 6 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 7 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los próximos 7 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 2 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 2 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 3 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 3 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 4 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 4 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 5 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 5 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 6 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 6 días en {location}
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 7 días
-es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,(el tiempo|el clima|la meteorología|las condiciones meteorológicas en los venideros 7 días en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,dime el panorama del tiempo para esta semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,dime el panorama del tiempo para esta semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,dime el pronóstico del tiempo para esta semana
@@ -24138,6 +24138,30 @@ es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima de la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima de la semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima durante la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima durante la semana en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los próximos 7 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima en los venideros 7 días en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima para la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el clima para la semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo a lo largo de la semana
@@ -24148,6 +24172,30 @@ es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo de la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo de la semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo durante la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo durante la semana en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los próximos 7 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo en los venideros 7 días en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,el tiempo para la semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,enséñame el pronóstico de los próximos siete días
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,enséñame el pronóstico de los próximos siete días en {location}
@@ -24171,12 +24219,60 @@ es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología de la 
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología de la semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología durante la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología durante la semana en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los próximos 7 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología en los venideros 7 días en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología para la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,la meteorología para la semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas de esta semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas de esta semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas de la semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas de la semana en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los próximos 7 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 2 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 2 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 3 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 3 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 4 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 4 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 5 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 5 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 6 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 6 días en {location}
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 7 días
+es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,las condiciones meteorológicas en los venideros 7 días en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,muéstrame el panorama del tiempo para esta semana
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,muéstrame el panorama del tiempo para esta semana en {location}
 es,ovos-skill-weather.openvoiceos:N_days_forecast.intent,muéstrame el pronóstico de los próximos siete días
@@ -25644,8 +25740,9 @@ es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,pronóstico para el fi
 es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,pronóstico para el sábado y domingo
 es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,pronóstico para el sábado y domingo en {location}
 es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿alguna alerta meteorológica para el fin de semana en {location}?
-es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿alguna alerta meteorológica|algún aviso meteorológico) para el fin de semana?
+es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿alguna alerta meteorológica para el fin de semana?
 es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿algún aviso meteorológico para el fin de semana en {location}?
+es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿algún aviso meteorológico para el fin de semana?
 es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿caerá un chaparrón el fin de semana en {location}?
 es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿caerá un chaparrón el sábado y el domingo en {location}?
 es,ovos-skill-weather.openvoiceos:weekend_forecast.intent,¿cuál es el pronóstico para el fin de semana en {location}?

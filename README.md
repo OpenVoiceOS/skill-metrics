@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **118047**
+- Total unique utterances: **118144**
 - Total unique intents: **161**
 - Total unique skills (domains): **35**
 - Adapt-style intents: **34**
@@ -25,7 +25,7 @@
 | ovos-skill-weather.openvoiceos:high_temperature.intent | 1662 |
 | ovos-skill-days-in-history.openvoiceos:today_in_history.intent | 1458 |
 | ovos-skill-dictation.openvoiceos:start_dictation.intent | 1377 |
-| ovos-skill-weather.openvoiceos:N_days_forecast.intent | 1296 |
+| ovos-skill-weather.openvoiceos:N_days_forecast.intent | 1368 |
 | ovos-skill-news.openvoiceos:news.intent | 1263 |
 | ovos-skill-moviemaster.openvoiceos:movie.top.intent | 1202 |
 | ovos-skill-moviemaster.openvoiceos:movie.information.intent | 1135 |
@@ -38,7 +38,7 @@
 | ovos-skill-date-time.openvoiceos:current_date.intent | 828 |
 | ovos-skill-weather.openvoiceos:current_weather.intent | 783 |
 | ovos-skill-moviemaster.openvoiceos:movie.recommendations.intent | 763 |
-| ovos-skill-weather.openvoiceos:weekend_forecast.intent | 745 |
+| ovos-skill-weather.openvoiceos:weekend_forecast.intent | 746 |
 | ovos-skill-weather.openvoiceos:is_wind.intent | 724 |
 | ovos-skill-weather.openvoiceos:current_temperature.intent | 589 |
 | ovos-skill-boot-finished.openvoiceos:are_you_ready.intent | 575 |
@@ -49,7 +49,7 @@
 | ovos-skill-ip.openvoiceos:what.ssid.intent | 470 |
 | ovos-skill-diagnostics.openvoiceos:query_primary_lang.intent | 456 |
 | ovos-skill-weather.openvoiceos:is_clear.intent | 449 |
-| ovos-skill-weather.openvoiceos:is_stormy.intent | 423 |
+| ovos-skill-weather.openvoiceos:is_stormy.intent | 447 |
 | ovos-skill-weather.openvoiceos:is_fog.intent | 402 |
 | ovos-skill-date-time.openvoiceos:time.until.intent | 383 |
 | ovos-skill-moviemaster.openvoiceos:movie.genres.intent | 383 |

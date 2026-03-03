@@ -21,6 +21,8 @@ ovos-skill-alerts.openvoiceos:QueryTodoEntries
 ovos-skill-alerts.openvoiceos:RescheduleAlert
 ovos-skill-alerts.openvoiceos:TimerStatus
 ovos-skill-alerts.openvoiceos:missed_alerts.intent
+ovos-skill-application-launcher.openvoiceos:close.intent
+ovos-skill-application-launcher.openvoiceos:launch.intent
 ovos-skill-audio-recording.openvoiceos:start_recording.intent
 ovos-skill-boot-finished.openvoiceos:are_you_ready.intent
 ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent
@@ -28,10 +30,15 @@ ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent
 ovos-skill-camera.openvoiceos:have_camera.intent
 ovos-skill-camera.openvoiceos:take_picture.intent
 ovos-skill-color-picker.krisgesling.openvoiceos:request-color-by-name.intent
+ovos-skill-color-picker.krisgesling:request-color-by-hex.intent
+ovos-skill-color-picker.krisgesling:request-color-by-name.intent
+ovos-skill-color-picker.krisgesling:request-color-by-rgb.intent
+ovos-skill-color-picker.krisgesling:request-color.intent
 ovos-skill-confucius-quotes.openvoiceos:ConfuciusBirth
 ovos-skill-confucius-quotes.openvoiceos:ConfuciusDeath
 ovos-skill-confucius-quotes.openvoiceos:ConfuciusQuote
 ovos-skill-confucius-quotes.openvoiceos:who.intent
+ovos-skill-count.openvoiceos:count_to_N.intent
 ovos-skill-date-time.openvoiceos:current_date.intent
 ovos-skill-date-time.openvoiceos:date.future.weekend.intent
 ovos-skill-date-time.openvoiceos:date.last.weekend.intent
@@ -156,6 +163,7 @@ ovos-skill-wordnet.openvoiceos:definition.intent
 ovos-skill-wordnet.openvoiceos:holonym.intent
 ovos-skill-wordnet.openvoiceos:hypernym.intent
 ovos-skill-wordnet.openvoiceos:hyponym.intent
+ovos-skill-wordnet.openvoiceos:lemma.intent
 ovos-skill-wordnet.openvoiceos:search_wordnet.intent
 ovos-skill-wordnet.openvoiceos:synonym.intent
 stop:stop

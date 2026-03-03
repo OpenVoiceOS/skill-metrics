@@ -1,6 +1,6 @@
 {
-    "n_skills": 35,
-    "n_intents": 161,
+    "n_skills": 38,
+    "n_intents": 169,
     "n_adapt_intents": 34,
-    "n_padatious_intents": 124
+    "n_padatious_intents": 132
 }

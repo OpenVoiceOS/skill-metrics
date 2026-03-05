@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **156515**
+- Total unique utterances: **156598**
 - Total unique intents: **169**
 - Total unique skills (domains): **38**
 - Adapt-style intents: **34**
@@ -83,6 +83,7 @@
 | ovos-skill-ddg.openvoiceos:search_duck.intent | 191 |
 | ovos-skill-parrot.openvoiceos:stop_parrot.intent | 190 |
 | ovos-skill-moviemaster.openvoiceos:movie.runtime.intent | 190 |
+| ovos-skill-laugh.openvoiceos:Laugh.intent | 177 |
 | ovos-skill-diagnostics.openvoiceos:query_user_lang.intent | 176 |
 | ovos-skill-alerts.openvoiceos:CreateOcpAlarm | 168 |
 | ovos-skill-volume.openvoiceos:volume.default.intent | 166 |
@@ -96,12 +97,11 @@
 | ovos-skill-diagnostics.openvoiceos:query_memory_usage.intent | 128 |
 | ovos-skill-diagnostics.openvoiceos:query_user_location.intent | 127 |
 | ovos-skill-diagnostics.openvoiceos:query_cpu_usage.intent | 119 |
-| ovos-skill-laugh.openvoiceos:Laugh.intent | 117 |
+| ovos-skill-laugh.openvoiceos:RandomLaugh.intent | 113 |
 | ovos-skill-wordnet.openvoiceos:search_wordnet.intent | 110 |
 | ovos-skill-volume.openvoiceos:volume.max.intent | 108 |
 | ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent | 105 |
 | ovos-skill-volume.openvoiceos:volume.unmute.intent | 103 |
-| ovos-skill-laugh.openvoiceos:RandomLaugh.intent | 99 |
 | ovos-skill-volume.openvoiceos:volume.high.intent | 98 |
 | ovos-skill-date-time.openvoiceos:what.year.is.it.intent | 97 |
 | ovos-skill-volume.openvoiceos:volume.low.intent | 94 |
@@ -143,6 +143,7 @@
 | ovos-skill-alerts.openvoiceos:DeleteTodoEntries | 38 |
 | ovos-skill-alerts.openvoiceos:RescheduleAlert | 36 |
 | ovos-skill-ip.openvoiceos:IPIntent | 36 |
+| ovos-skill-laugh.openvoiceos:haunted.intent | 36 |
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusQuote | 35 |
 | ovos-skill-hello-world.openvoiceos:ThankYouIntent | 34 |
 | ovos-skill-alerts.openvoiceos:CreateList | 33 |
@@ -156,7 +157,6 @@
 | ovos-skill-naptime.openvoiceos:WakeUp | 28 |
 | ovos-skill-wordnet.openvoiceos:definition.intent | 27 |
 | ovos-skill-randomness.openvoiceos:fortune-teller.intent | 27 |
-| ovos-skill-laugh.openvoiceos:haunted.intent | 27 |
 | ovos-skill-alerts.openvoiceos:CreateTimer | 24 |
 | ovos-skill-confucius-quotes.openvoiceos:who.intent | 24 |
 | ovos-skill-color-picker.krisgesling.openvoiceos:request-color-by-name.intent | 24 |

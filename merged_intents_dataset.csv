@@ -33399,20 +33399,55 @@ es,ovos-skill-iss-location.openvoiceos:where_iss.intent,dime la ubicación de la
 es,ovos-skill-iss-location.openvoiceos:where_iss.intent,dime la ubicación de la estación espacial internacional
 es,ovos-skill-iss-location.openvoiceos:where_iss.intent,¿dónde está la eei?
 es,ovos-skill-iss-location.openvoiceos:where_iss.intent,¿dónde está la iss?
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,me gustaría que te rieras
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,muéstrame cómo te ríes
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,no te rías
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,quiero que te rías
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,reír como un demonio
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,reír como un diablo
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,reír malévolamente
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,reír siniestramente
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríe como un demonio
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríe como un diablo
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríe malévolamente
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríe siniestramente
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríe un poco
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríete como un demonio
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríete como un diablo
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríete malévolamente
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríete siniestramente
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríete un poco
 es,ovos-skill-laugh.openvoiceos:Laugh.intent,carcajada malvada
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,reír como alexa
 es,ovos-skill-laugh.openvoiceos:Laugh.intent,risa malvada
 es,ovos-skill-laugh.openvoiceos:Laugh.intent,risotada malvada
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríe como alexa
 es,ovos-skill-laugh.openvoiceos:Laugh.intent,ríete como alexa
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,¿por qué no te ríes?
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,¿qué te impide reír?
+es,ovos-skill-laugh.openvoiceos:Laugh.intent,¿te gusta reír?
 es,ovos-skill-laugh.openvoiceos:Laugh.intent,¿puedes reírte?
+es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,reír de forma impredecible
+es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,ríe de forma impredecible
+es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,ríete de forma impredecible
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activa una carcajada aleatoria
+es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activa una risa al azar
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activa una risa aleatoria
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activa una risotada aleatoria
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,carcajada aleatoria
+es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,establece risa en modo aleatorio
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,reir al azar
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,risa aleatoria
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,risotada aleatoria
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,ríe al azar
 es,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,ríete al azar
+es,ovos-skill-laugh.openvoiceos:haunted.intent,¿estás embrujada
+es,ovos-skill-laugh.openvoiceos:haunted.intent,¿estás embrujado
+es,ovos-skill-laugh.openvoiceos:haunted.intent,¿estás hechizada?
+es,ovos-skill-laugh.openvoiceos:haunted.intent,¿estás hechizado
+es,ovos-skill-laugh.openvoiceos:haunted.intent,¿estás poseída
+es,ovos-skill-laugh.openvoiceos:haunted.intent,¿estás poseído
+es,ovos-skill-laugh.openvoiceos:haunted.intent,¿necesitas un exorcismo?
 es,ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent,encontrar filmes de {genre}
 es,ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent,encontrar filmes que son  {genre}
 es,ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent,encontrar filmes que son un {genre}
@@ -54719,8 +54754,21 @@ gl,ovos-skill-iss-location.openvoiceos:where_iss.intent,posición da e e i
 gl,ovos-skill-iss-location.openvoiceos:where_iss.intent,posición da eei
 gl,ovos-skill-iss-location.openvoiceos:where_iss.intent,posición da estación espacial
 gl,ovos-skill-iss-location.openvoiceos:where_iss.intent,posición da estación espacial internacional
-gl,ovos-skill-laugh.openvoiceos:Laugh.intent,podes rir
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,gústache rir?
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,non ris?
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,podes rir?
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,por que non ris?
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,que che impide rir?
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,gustaríame que rises
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,móstrame como ris
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,por que non estás rindo?
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,quero que rías
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,ri un chisco
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,rir coma un demo
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,rir coma un diaño
 gl,ovos-skill-laugh.openvoiceos:Laugh.intent,rir como alexa
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,rir malevolamente
+gl,ovos-skill-laugh.openvoiceos:Laugh.intent,rir sinistramente
 gl,ovos-skill-laugh.openvoiceos:Laugh.intent,risa malvada
 gl,ovos-skill-laugh.openvoiceos:Laugh.intent,risa malvado
 gl,ovos-skill-laugh.openvoiceos:Laugh.intent,risa malvados
@@ -54737,7 +54785,10 @@ gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activar risa ao chou
 gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activar risada ao chou
 gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activar riso ao chou
 gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activar risos ao chou
+gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,activar unha risa aleatoria
+gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,configurar o riso en modo aleatorio
 gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,rir ao chou
+gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,rir de xeito imprevisible
 gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,risa ao chou
 gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,risada ao chou
 gl,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,riso ao chou
@@ -65605,16 +65656,31 @@ de,ovos-skill-iss-location.openvoiceos:where_iss.intent,wo ist die raumstation
 de,ovos-skill-iss-location.openvoiceos:where_iss.intent,wo ist die i s s
 de,ovos-skill-iss-location.openvoiceos:where_iss.intent,wo ist die iss
 de,ovos-skill-iss-location.openvoiceos:where_iss.intent,wo ist die internationale raumstation
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,ich möchte dass du lachst
 de,ovos-skill-laugh.openvoiceos:Laugh.intent,lache wie alexa
 de,ovos-skill-laugh.openvoiceos:Laugh.intent,böses gelächter
 de,ovos-skill-laugh.openvoiceos:Laugh.intent,böses lachen
 de,ovos-skill-laugh.openvoiceos:Laugh.intent,kannst du lachen
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,lache bösartig
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,lache ein bisschen
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,lache unheilvoll
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,lache wie ein dämon
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,lache wie ein teufel
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,lachst du gerne
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,lachst du nicht
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,warum lachst du nicht
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,was hält dich vom lachen ab
+de,ovos-skill-laugh.openvoiceos:Laugh.intent,zeig mir wie du lachst
+de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,lachen auf zufallsmodus einstellen
+de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,lache unvorhersehbar
 de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,lache zufällig
+de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,löse ein zufälliges lachen aus
 de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,löse zufälliges gelächter aus
 de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,löse zufälliges lachen aus
 de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,zufälliges gelächter
 de,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,zufälliges lachen
-de,ovos-skill-laugh.openvoiceos:haunted.intent,bist du verwunschen
+de,ovos-skill-laugh.openvoiceos:haunted.intent,bist du heimgesucht
+de,ovos-skill-laugh.openvoiceos:haunted.intent,bist du besessen
 de,ovos-skill-laugh.openvoiceos:haunted.intent,brauchst du einen exorzismus
 de,ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent,finde filme die {genre} sind
 de,ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent,finde filme die in {genre} sind
@@ -152714,15 +152780,32 @@ da,ovos-skill-iss-location.openvoiceos:where_iss.intent,placeringen af ​​iss
 da,ovos-skill-iss-location.openvoiceos:where_iss.intent,placeringen af ​​den internationale rumstation
 da,ovos-skill-iss-location.openvoiceos:where_iss.intent,placeringen af ​​den internationale rumstationen
 da,ovos-skill-laugh.openvoiceos:Laugh.intent,grin ligesom alexa
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,jeg vil gerne have dig til at grine
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,jeg vil have dig til at grine
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,grin lidt
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,grin ondsindet
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,grin uhyggeligt
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,griner du ikke
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,hvad der forhindrer dig i at grine
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,hvorfor griner du ikke
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,hvorfor ler du ikke
 da,ovos-skill-laugh.openvoiceos:Laugh.intent,kan du grine
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,kan du lide at grine
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,le som en djævel
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,le som en dæmon
 da,ovos-skill-laugh.openvoiceos:Laugh.intent,ond grin
 da,ovos-skill-laugh.openvoiceos:Laugh.intent,ond grine
 da,ovos-skill-laugh.openvoiceos:Laugh.intent,ond latter
+da,ovos-skill-laugh.openvoiceos:Laugh.intent,vis mig hvordan du griner
 da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,grin tilfældigt
+da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,grin uforudsigeligt
+da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,sæt grin til tilfældig tilstand
 da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,tilfældig grin
 da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,tilfældig latter
 da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,trigger tilfældig grin
 da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,trigger tilfældig latter
+da,ovos-skill-laugh.openvoiceos:RandomLaugh.intent,udløs et tilfældigt grin
+da,ovos-skill-laugh.openvoiceos:haunted.intent,er du besat
 da,ovos-skill-laugh.openvoiceos:haunted.intent,er du hjemsøgt
 da,ovos-skill-laugh.openvoiceos:haunted.intent,har du brug for en eksorcisme
 da,ovos-skill-moviemaster.openvoiceos:genre.movie.search.intent,find film der er en {genre}

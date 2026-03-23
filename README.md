@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **157058**
+- Total unique utterances: **157092**
 - Total unique intents: **169**
 - Total unique skills (domains): **38**
 - Adapt-style intents: **34**
@@ -76,9 +76,9 @@
 | ovos-skill-diagnostics.openvoiceos:query_ovos_location.intent | 238 |
 | ovos-skill-personal.openvoiceos:WhoMadeYou.intent | 237 |
 | ovos-skill-weather.openvoiceos:humidity.intent | 232 |
+| ovos-skill-hello-world.openvoiceos:Greetings.intent | 230 |
 | ovos-skill-date-time.openvoiceos:what.day.is.it.intent | 226 |
 | ovos-skill-diagnostics.openvoiceos:query_extra_langs.intent | 214 |
-| ovos-skill-hello-world.openvoiceos:Greetings.intent | 210 |
 | ovos-skill-moviemaster.openvoiceos:movie.popular.intent | 195 |
 | ovos-skill-ddg.openvoiceos:search_duck.intent | 191 |
 | ovos-skill-parrot.openvoiceos:stop_parrot.intent | 190 |
@@ -129,8 +129,8 @@
 | ovos-skill-days-in-history.openvoiceos:births_in_history.intent | 58 |
 | ovos-skill-moviemaster.openvoiceos:movie.cast.intent | 58 |
 | ovos-skill-camera.openvoiceos:have_camera.intent | 56 |
+| ovos-skill-randomness.openvoiceos:flip-a-coin.intent | 50 |
 | ovos-skill-application-launcher.openvoiceos:launch.intent | 49 |
-| ovos-skill-randomness.openvoiceos:flip-a-coin.intent | 47 |
 | ovos-skill-alerts.openvoiceos:CreateReminder | 47 |
 | ovos-skill-alerts.openvoiceos:CancelAlert | 44 |
 | ovos-skill-iss-location.openvoiceos:WhoISSIntent | 43 |
@@ -150,31 +150,31 @@
 | ovos-skill-wordnet.openvoiceos:synonym.intent | 30 |
 | ovos-skill-alerts.openvoiceos:DeleteList | 30 |
 | ovos-skill-volume.openvoiceos:change_volume | 30 |
+| ovos-skill-randomness.openvoiceos:fortune-teller.intent | 30 |
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusBirth | 29 |
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusDeath | 29 |
 | ovos-skill-alerts.openvoiceos:ChangeProperties | 29 |
 | ovos-skill-color-picker.krisgesling:request-color-by-name.intent | 29 |
 | ovos-skill-naptime.openvoiceos:WakeUp | 28 |
 | ovos-skill-wordnet.openvoiceos:definition.intent | 27 |
-| ovos-skill-randomness.openvoiceos:fortune-teller.intent | 27 |
 | ovos-skill-alerts.openvoiceos:CreateTimer | 24 |
 | ovos-skill-confucius-quotes.openvoiceos:who.intent | 24 |
 | ovos-skill-color-picker.krisgesling.openvoiceos:request-color-by-name.intent | 24 |
 | ovos-skill-fuster-quotes.openvoiceos:who.intent | 24 |
 | ovos-skill-alerts.openvoiceos:CreateEvent | 23 |
 | ovos-skill-iss-location.openvoiceos:NumberISSIntent | 22 |
+| ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent | 21 |
 | ovos-skill-wallpapers.openvoiceos:MakeWallpaperIntent | 20 |
+| ovos-skill-randomness.openvoiceos:roll-single-die.intent | 20 |
 | ovos-skill-alerts.openvoiceos:QueryListEntries | 19 |
-| ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent | 19 |
 | ovos-skill-alerts.openvoiceos:QueryTodoEntries | 18 |
 | ovos-skill-alerts.openvoiceos:QueryListNames | 18 |
 | ovos-skill-alerts.openvoiceos:CalendarList | 18 |
-| ovos-skill-randomness.openvoiceos:roll-single-die.intent | 18 |
 | ovos-skill-alerts.openvoiceos:DAVSync | 17 |
-| ovos-skill-randomness.openvoiceos:pick-a-number.intent | 13 |
+| ovos-skill-randomness.openvoiceos:pick-a-number.intent | 15 |
+| ovos-skill-randomness.openvoiceos:make-a-choice.intent | 13 |
 | ovos-skill-speedtest.openvoiceos:SpeedtestIntent | 12 |
 | ovos-skill-color-picker.krisgesling:request-color-by-hex.intent | 12 |
-| ovos-skill-randomness.openvoiceos:make-a-choice.intent | 11 |
 | ovos-skill-color-picker.krisgesling:request-color-by-rgb.intent | 9 |
 | ovos-skill-color-picker.krisgesling:request-color.intent | 9 |
 | ovos-skill-hello-world.openvoiceos:HelloWorldIntent | 3 |

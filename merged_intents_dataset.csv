@@ -33329,23 +33329,25 @@ es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,termina la captura de 
 es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,termina la transcripción
 es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,terminar dictado
 es,ovos-skill-dictation.openvoiceos:stop_dictation.intent,terminar la captura de texto
-es,ovos-skill-hello-world.openvoiceos:Greetings.intent,hola de nuevo
+es,ovos-skill-hello-world.openvoiceos:Greetings.intent,ahoy
+es,ovos-skill-hello-world.openvoiceos:Greetings.intent,buen día
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,buenas noches
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,buenas tardes
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,buenos días
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cuánto tiempo
-es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cuánto tiempo sin vernos
-es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cuánto tiempo sin verte
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cómo estás
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cómo va
-es,ovos-skill-hello-world.openvoiceos:Greetings.intent,encantada de verte
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,encantado de verte
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,ey
+es,ovos-skill-hello-world.openvoiceos:Greetings.intent,hey
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,hola
+es,ovos-skill-hello-world.openvoiceos:Greetings.intent,hola de nuevo
+es,ovos-skill-hello-world.openvoiceos:Greetings.intent,me alegra verte
+es,ovos-skill-hello-world.openvoiceos:Greetings.intent,mucho tiempo sin verte
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,qué hay?
+es,ovos-skill-hello-world.openvoiceos:Greetings.intent,qué onda?
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,qué tal
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,saludos
-es,ovos-skill-hello-world.openvoiceos:Greetings.intent,¿cómo va?
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cómo estas
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cómo ha ido el día
 es,ovos-skill-hello-world.openvoiceos:Greetings.intent,cómo te ha ido
@@ -62670,12 +62672,14 @@ fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck duck à propos de 
 fr,ovos-skill-ddg.openvoiceos:search_duck.intent,que dit duck à propos de {query}
 fr,common_query:common_query,c'est quoi sujet de thèse
 fr,common_query:common_query,qui est {query}
-fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,comment as-tu été
-fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,comment s'est passée ta journée
-fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,comment vas-tu
-fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,comment ça a été
-fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,comment ça s'est passé aujourd'hui
-fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,comment ça va
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,bonjour le monde
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,bonsoir le monde
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,coucou le monde
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,salut le monde
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,bonjour le monde comment vas-tu
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,bonjour le monde comment ça va
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,hello world comment vas-tu
+fr,ovos-skill-hello-world.openvoiceos:Greetings.intent,hello world comment ça va
 fr,ovos-skill-icanhazdadjokes.openvoiceos:joke.intent,connais-tu des blagues
 fr,ovos-skill-icanhazdadjokes.openvoiceos:joke.intent,dit une blague
 fr,ovos-skill-icanhazdadjokes.openvoiceos:joke.intent,fais moi rire
@@ -63258,6 +63262,20 @@ fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,chercher mot net pour {q
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,chercher wordnet pour {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,demandez à wordnet de {query}
 fr,ovos-skill-wordnet.openvoiceos:search_wordnet.intent,posez un mot net sur {query}
+fr,ovos-skill-randomness.openvoiceos:flip-a-coin.intent,fais pile ou face
+fr,ovos-skill-randomness.openvoiceos:flip-a-coin.intent,pile ou face
+fr,ovos-skill-randomness.openvoiceos:flip-a-coin.intent,tire à pile ou face
+fr,ovos-skill-randomness.openvoiceos:fortune-teller.intent,dis-moi la bonne aventure
+fr,ovos-skill-randomness.openvoiceos:fortune-teller.intent,dis-moi ma bonne aventure
+fr,ovos-skill-randomness.openvoiceos:fortune-teller.intent,raconte-moi la bonne aventure
+fr,ovos-skill-randomness.openvoiceos:make-a-choice.intent,aide-moi à choisir
+fr,ovos-skill-randomness.openvoiceos:make-a-choice.intent,aide-moi à décider
+fr,ovos-skill-randomness.openvoiceos:pick-a-number.intent,choisis un nombre entre {lower} et {upper}
+fr,ovos-skill-randomness.openvoiceos:pick-a-number.intent,prends un nombre entre {lower} et {upper}
+fr,ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent,lance {number} dés
+fr,ovos-skill-randomness.openvoiceos:roll-multiple-dice.intent,lance {number} dés à {faces} faces
+fr,ovos-skill-randomness.openvoiceos:roll-single-die.intent,lance un dé
+fr,ovos-skill-randomness.openvoiceos:roll-single-die.intent,lance un dé à {faces} faces
 de,ovos-skill-alerts.openvoiceos:missed_alerts.intent,hab ich alarm verpasst
 de,ovos-skill-alerts.openvoiceos:missed_alerts.intent,hab ich alarm versäumt
 de,ovos-skill-alerts.openvoiceos:missed_alerts.intent,hab ich alarme verpasst
@@ -103606,18 +103624,17 @@ ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,bon dia
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,bona nit
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,bona tarda
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,bones
-ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,com està anant?
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,com va
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,ei
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,ei què tal
-ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,encantada de veure't
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,encantat de veure't
+ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,ep
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,fa temps que no ens veiem
+ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,feia temps que no ens veiem
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,hola
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,hola de nou
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,hola bon dia
-ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,quant de temps sense veure'ns
-ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,quant de temps sense veure't
+ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,m'alegro de veure't
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,què hi ha
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,què tal
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,se't saluda
@@ -103626,6 +103643,7 @@ ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,com estàs
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,com va tot
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,com ha anat
 ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,com ha provat el dia
+ca,ovos-skill-hello-world.openvoiceos:Greetings.intent,com ho portes
 ca,ovos-skill-icanhazdadjokes.openvoiceos:joke.intent,conta algun acudit
 ca,ovos-skill-icanhazdadjokes.openvoiceos:joke.intent,conta alguna broma
 ca,ovos-skill-icanhazdadjokes.openvoiceos:joke.intent,conta un acudit
@@ -153084,9 +153102,25 @@ da,ovos-skill-dictation.openvoiceos:stop_dictation.intent,stop med at fange teks
 da,ovos-skill-dictation.openvoiceos:stop_dictation.intent,stop med at tage noter
 da,ovos-skill-dictation.openvoiceos:stop_dictation.intent,stop transskription
 da,ovos-skill-dictation.openvoiceos:stop_dictation.intent,stoppe med at tage noter
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,dejligt at se dig
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,g'dag
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,god aften
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,god eftermiddag
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,godmorgen
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,halløj der
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hej
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hej der
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hej igen
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hey
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hilsener
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,howdy
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hvad sker der
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,længe siden
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,ohoj
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,sup
+da,ovos-skill-hello-world.openvoiceos:Greetings.intent,yo
 da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hvordan er din dag gået
 da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hvordan går det med dig
-da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hvordan har din dag været
 da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hvordan har du det har det
 da,ovos-skill-hello-world.openvoiceos:Greetings.intent,hvordan har du haft det
 da,ovos-skill-icanhazdadjokes.openvoiceos:joke.intent,fortæl mig en vittighed

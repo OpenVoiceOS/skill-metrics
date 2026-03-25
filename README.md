@@ -1,6 +1,6 @@
 # OVOS Intent Dataset
 
-- Total unique utterances: **157092**
+- Total unique utterances: **157007**
 - Total unique intents: **169**
 - Total unique skills (domains): **38**
 - Adapt-style intents: **34**
@@ -12,8 +12,8 @@
 |--------|----------------------|
 | ovos-skill-weather.openvoiceos:hourly_forecast.intent | 20401 |
 | ovos-skill-wallpapers.openvoiceos:wallpaper.about.intent | 17165 |
-| ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent | 13129 |
-| ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent | 11061 |
+| ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent | 13105 |
+| ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent | 11037 |
 | ovos-skill-count.openvoiceos:count_to_N.intent | 10950 |
 | ovos-skill-date-time.openvoiceos:date.future.weekend.intent | 9262 |
 | ovos-skill-alerts.openvoiceos:missed_alerts.intent | 6664 |
@@ -36,7 +36,7 @@
 | ovos-skill-moviemaster.openvoiceos:movie.information.intent | 1135 |
 | ovos-skill-date-time.openvoiceos:what.month.is.it.intent | 1035 |
 | ovos-skill-weather.openvoiceos:is_rain.intent | 1000 |
-| ovos-skill-audio-recording.openvoiceos:start_recording.intent | 984 |
+| ovos-skill-audio-recording.openvoiceos:start_recording.intent | 935 |
 | ocp:play | 879 |
 | ovos-skill-date-time.openvoiceos:current_date.intent | 879 |
 | ovos-skill-date-time.openvoiceos:weekday.for.date.intent | 851 |
@@ -47,7 +47,7 @@
 | ovos-skill-weather.openvoiceos:is_wind.intent | 731 |
 | common_query:common_query | 638 |
 | ovos-skill-weather.openvoiceos:current_temperature.intent | 609 |
-| ovos-skill-boot-finished.openvoiceos:are_you_ready.intent | 575 |
+| ovos-skill-boot-finished.openvoiceos:are_you_ready.intent | 582 |
 | ovos-skill-wikipedia.openvoiceos:wikiroulette.intent | 562 |
 | ovos-skill-iss-location.openvoiceos:where_iss.intent | 543 |
 | ovos-skill-wikipedia.openvoiceos:wiki.intent | 539 |
@@ -147,6 +147,7 @@
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusQuote | 35 |
 | ovos-skill-hello-world.openvoiceos:ThankYouIntent | 34 |
 | ovos-skill-alerts.openvoiceos:CreateList | 33 |
+| ovos-skill-color-picker.krisgesling:request-color-by-name.intent | 31 |
 | ovos-skill-wordnet.openvoiceos:synonym.intent | 30 |
 | ovos-skill-alerts.openvoiceos:DeleteList | 30 |
 | ovos-skill-volume.openvoiceos:change_volume | 30 |
@@ -154,7 +155,6 @@
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusBirth | 29 |
 | ovos-skill-confucius-quotes.openvoiceos:ConfuciusDeath | 29 |
 | ovos-skill-alerts.openvoiceos:ChangeProperties | 29 |
-| ovos-skill-color-picker.krisgesling:request-color-by-name.intent | 29 |
 | ovos-skill-naptime.openvoiceos:WakeUp | 28 |
 | ovos-skill-wordnet.openvoiceos:definition.intent | 27 |
 | ovos-skill-alerts.openvoiceos:CreateTimer | 24 |
@@ -173,9 +173,9 @@
 | ovos-skill-alerts.openvoiceos:DAVSync | 17 |
 | ovos-skill-randomness.openvoiceos:pick-a-number.intent | 15 |
 | ovos-skill-randomness.openvoiceos:make-a-choice.intent | 13 |
+| ovos-skill-color-picker.krisgesling:request-color-by-hex.intent | 13 |
 | ovos-skill-speedtest.openvoiceos:SpeedtestIntent | 12 |
-| ovos-skill-color-picker.krisgesling:request-color-by-hex.intent | 12 |
-| ovos-skill-color-picker.krisgesling:request-color-by-rgb.intent | 9 |
-| ovos-skill-color-picker.krisgesling:request-color.intent | 9 |
+| ovos-skill-color-picker.krisgesling:request-color-by-rgb.intent | 10 |
+| ovos-skill-color-picker.krisgesling:request-color.intent | 10 |
 | ovos-skill-hello-world.openvoiceos:HelloWorldIntent | 3 |
 | ovos-skill-weather.openvoiceos:daily_temperature.intent | 2 |

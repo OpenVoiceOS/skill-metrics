@@ -61953,319 +61953,229 @@ fr,ovos-skill-alerts.openvoiceos:missed_alerts.intent,rappel manqué
 fr,ovos-skill-alerts.openvoiceos:missed_alerts.intent,rappels manqués
 fr,ovos-skill-alerts.openvoiceos:missed_alerts.intent,événement manqué
 fr,ovos-skill-alerts.openvoiceos:missed_alerts.intent,événements manqués
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,active l'enregistrement audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,active l'enregistrement audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activer l'enregistrement audio comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,activer l'enregistrement audio sous le titre {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio avec le nom {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio intitulé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio maintenant
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio maintenant comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio maintenant nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio s'il vous plaît
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio s'il vous plaît comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio s'il vous plaît nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement audio {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement avec le nom {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement maintenant nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement s'il vous plaît
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement s'il vous plaît comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement s'il vous plaît nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer l'enregistrement {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer la capture audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer la capture audio comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer la capture audio intitulée {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer la capture audio nommée {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer à enregistrer immédiatement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer à enregistrer immédiatement comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencer à enregistrer maintenant comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commencez à enregistrer maintenant
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,début d'enregistrement nommé {nom
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,début de l ' enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,début de la session d ' enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,début de la session d'enregistrement appelée {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer l'enregistrement audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer l'enregistrement audio comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer l'enregistrement audio nom {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un enregistrement appelé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un enregistrement audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un enregistrement audio appelé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un enregistrement audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un enregistrement nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un nouvel enregistrement audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un nouvel enregistrement audio appelé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarrer un nouvel enregistrement audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistrement audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistrement audio comme {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistrement audio maintenant
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistrement audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistrer l'audio maintenant avec le nom {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistrer un nouveau fichier audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistrer un nouveau fichier audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,initialisation de l ' enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,initialiser l'enregistrement intitulé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer l'enregistrement audio
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer l'enregistrement audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer l'enregistrement audio {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer l'enregistrement nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer l'enregistrement sous le nom {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer l'enregistrement {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer un enregistrement audio appelé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer un enregistrement audio nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer un nouvel enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer un nouvel enregistrement appelé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer un nouvel enregistrement avec le titre {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lancer un nouvel enregistrement nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,mettre en place un nouvel enregistrement nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,nouvel enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,nouvel enregistrement nommé {name}
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,procéder à l ' enregistrement
-fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,établir l'enregistrement nommé {name}
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter la sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter le sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arreter les sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver avis de redémarrage
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commence l'enregistrement
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commence l'enregistrement {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commence un enregistrement audio
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commence un enregistrement nommé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,commence à enregistrer
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,crée un enregistrement nommé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,crée un nouvel enregistrement
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre l'enregistrement
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre l'enregistrement {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un enregistrement
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un enregistrement appelé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un enregistrement audio
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un enregistrement audio nommé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un enregistrement nommé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un nouvel enregistrement
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un nouvel enregistrement audio nommé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,démarre un nouvel enregistrement nommé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistre maintenant
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistre un fichier audio
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,enregistre un fichier audio nommé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lance l'enregistrement
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lance un enregistrement appelé {name}
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lance un enregistrement audio
+fr,ovos-skill-audio-recording.openvoiceos:start_recording.intent,lance un enregistrement nommé {name}
+fr,ovos-skill-boot-finished.openvoiceos:are_you_ready.intent,est-ce qu'open voice os a bien démarré
+fr,ovos-skill-boot-finished.openvoiceos:are_you_ready.intent,est-ce qu'open voice os est prêt
+fr,ovos-skill-boot-finished.openvoiceos:are_you_ready.intent,est-ce que le système a fini de démarrer
+fr,ovos-skill-boot-finished.openvoiceos:are_you_ready.intent,est-ce que le système est prêt
+fr,ovos-skill-boot-finished.openvoiceos:are_you_ready.intent,est-ce que tous les services sont prêts
+fr,ovos-skill-boot-finished.openvoiceos:are_you_ready.intent,le démarrage est-il terminé
+fr,ovos-skill-boot-finished.openvoiceos:are_you_ready.intent,le système a-t-il fini de démarrer
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrête notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,arrêter notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactive notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les notifications de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver notification de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver notification de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver notifications de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver la sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver le sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,désactiver les sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre avis de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les notifications de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre notification de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre notification de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre notifications de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre la sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre le sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteindre les sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer avis de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:disable_ready_notification.intent,éteins notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,active notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les notifications de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer notification de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer notification de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer notifications de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer la sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer le sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,activer les sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer avis de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allume notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les notifications de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer notification de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer notification de redémarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer notifications de démarrage
 fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer la sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer le sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,allumer les sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver la sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver le sons de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les avis de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les avis de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les notification de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les notification de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les notifications de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les notifications de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les son de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les son de redémarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les sons de démarrage
-fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,reactiver les sons de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactive notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver l'alerte de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver l'alerte de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver la notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver la notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver les alertes de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver les alertes de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver les notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver les notifications de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver notification de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver notification de redémarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver notifications de démarrage
+fr,ovos-skill-boot-finished.openvoiceos:enable_ready_notification.intent,réactiver notifications de redémarrage
 fr,ovos-skill-camera.openvoiceos:have_camera.intent,as-tu une caméra ?
 fr,ovos-skill-camera.openvoiceos:have_camera.intent,est-ce qu'une caméra est disponible
 fr,ovos-skill-camera.openvoiceos:have_camera.intent,est-ce que la caméra fonctionne
@@ -62273,6 +62183,11 @@ fr,ovos-skill-camera.openvoiceos:have_camera.intent,peux-tu accéder à la camé
 fr,ovos-skill-camera.openvoiceos:have_camera.intent,puis-je utiliser la caméra
 fr,ovos-skill-camera.openvoiceos:have_camera.intent,y a t-il une caméra
 fr,ovos-skill-camera.openvoiceos:take_picture.intent,prendre une photo
+fr,ovos-skill-color-picker.krisgesling:request-color-by-hex.intent,quelle couleur a un code hexadécimal {hex_code}
+fr,ovos-skill-color-picker.krisgesling:request-color-by-name.intent,montre-moi la couleur {color}
+fr,ovos-skill-color-picker.krisgesling:request-color-by-name.intent,à quoi ressemble la couleur {color}
+fr,ovos-skill-color-picker.krisgesling:request-color-by-rgb.intent,quelle couleur a une valeur rvb de {rgb}
+fr,ovos-skill-color-picker.krisgesling:request-color.intent,de quelle couleur est {requested_color}
 fr,ovos-skill-date-time.openvoiceos:current_date.intent,dis-moi la date
 fr,ovos-skill-date-time.openvoiceos:current_date.intent,dis-moi la date au {location}
 fr,ovos-skill-date-time.openvoiceos:current_date.intent,dis-moi la date aux {location}
